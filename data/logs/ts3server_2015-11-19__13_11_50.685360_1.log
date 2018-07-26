@@ -1,0 +1,874 @@
+2015-11-19 13:11:57.535752|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-11-19 22:50:24.075728|INFO    |VirtualServerBase|  1| channel 'Cockasaurus'(id:248) created by 'Pedobear'(id:505)
+2015-11-19 22:50:41.042697|INFO    |VirtualServerBase|  1| channel 'Cockasaurus'(id:248) edited by 'Pedobear'(id:505)
+2015-11-20 04:37:35.197923|INFO    |VirtualServerBase|  1| channel 'Cockasaurus'(id:248) deleted by 'server'(id:0)
+2015-11-20 05:56:00.376417|INFO    |VirtualServer |  1| client (id:81) was added to servergroup 'Server Admin'(id:6) by client 'Ursus'(id:81)
+2015-11-22 00:06:29.858687|INFO    |VirtualServerBase|  1| channel 'Fagatron 3000'(id:249) created by 'Tyler'(id:289)
+2015-11-22 02:57:01.068078|INFO    |VirtualServerBase|  1| channel 'Fagatron 3000'(id:249) edited by 'Tyler'(id:289)
+2015-11-22 04:23:06.135926|INFO    |VirtualServerBase|  1| channel 'Fagatron 3000'(id:249) deleted by 'server'(id:0)
+2015-11-22 06:02:53.386157|INFO    |VirtualServer |  1| client 'Ursus'(id:81) was added to channelgroup 'Channel Admin'(id:5) by client 'Ursus'(id:81) in channel 'Quarter for the Wicked'(id:29)
+2015-11-22 17:08:03.557281|INFO    |VirtualServerBase|  1| channel 'Faggetron'(id:250) created by 'Siindres'(id:224)
+2015-11-22 17:08:39.529382|INFO    |VirtualServerBase|  1| channel 'Fagatron'(id:250) edited by 'Siindres'(id:224)
+2015-11-22 17:08:55.657361|INFO    |VirtualServerBase|  1| channel 'Fagatron 3000'(id:250) edited by 'Siindres'(id:224)
+2015-11-22 18:02:29.336136|INFO    |VirtualServerBase|  1| channel 'poopatron 3000'(id:250) edited by 'ross'(id:397)
+2015-11-22 18:07:14.321483|INFO    |VirtualServer |  1| file upload to (id:0), '/icon_2660876923' by client 'ross'(id:397)
+2015-11-22 18:07:20.414832|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-1634090373) was added by 'ross'(id:397) to channel 'Elite: Dangerous'(id:221)
+2015-11-22 18:07:20.556841|INFO    |VirtualServerBase|  1| channel 'Elite: Dangerous'(id:221) edited by 'ross'(id:397)
+2015-11-22 18:11:55.978728|INFO    |VirtualServer |  1| query client connected 'serveradmin from 107.129.31.5:32546'(id:1)
+2015-11-22 18:32:35.605840|INFO    |VirtualServer |  1| query client connected 'serveradmin from 127.0.0.1:54620'(id:1)
+2015-11-22 18:35:05.594386|INFO    |VirtualServerBase|  1| server was edited by 'ross'(id:397)
+2015-11-22 18:35:06.205423|INFO    |VirtualServerBase|  1| client connected 'MajorJager'(id:589) from 71.196.80.76:53463
+2015-11-22 18:37:30.858704|INFO    |VirtualServerBase|  1| client connected 'Majorasssssssssssssssssssssss'(id:590) from 65.33.220.42:55983
+2015-11-22 18:39:40.820447|INFO    |VirtualServerBase|  1| client disconnected 'MajorJager'(id:589) reason 'reasonmsg=leaving'
+2015-11-22 18:40:07.638890|INFO    |VirtualServerBase|  1| client disconnected 'Anthony'(id:588) reason 'reasonmsg=leaving'
+2015-11-22 18:40:19.389564|INFO    |VirtualServerBase|  1| client disconnected 'Majorasssssssssssssssssssssss'(id:590) reason 'reasonmsg=leaving'
+2015-11-22 18:45:51.292950|INFO    |VirtualServer |  1| ban deleted reason='fagatron prime (48 hour ip ban)' ip='73.132.77.230' bantime=0 by client 'serveradmin from 107.129.31.5:32546'(id:1)
+2015-11-22 19:04:12.883341|INFO    |VirtualServerBase|  1| channel 'yer'(id:250) edited by 'Tyler'(id:289)
+2015-11-22 19:12:36.437640|INFO    |VirtualServerBase|  1| query client disconnected 'serveradmin from 107.129.31.5:32546'(id:1) reason 'reasonmsg=disconnecting'
+2015-11-22 19:13:49.923705|INFO    |VirtualServerBase|  1| channel 'yer'(id:250) deleted by 'server'(id:0)
+2015-11-22 19:16:15.239401|INFO    |VirtualServer |  1| query client connected 'serveradmin from 107.129.31.5:31294'(id:1)
+2015-11-22 19:16:56.742777|INFO    |VirtualServer |  1| ban added reason='' name='Rob's a black person' bantime=0 by client 'serveradmin from 107.129.31.5:31294'(id:1)
+2015-11-22 19:17:33.566038|INFO    |VirtualServer |  1| ban added reason='come back hopefully you grow up a little bit' cluid='EbFBQjxS2a+YPuSSbVBe/qD2cuY=' bantime=72 by client 'serveradmin from 107.129.31.5:31294'(id:1)
+2015-11-22 19:17:51.758742|INFO    |VirtualServer |  1| ban deleted reason='come back hopefully you grow up a little bit' cluid='EbFBQjxS2a+YPuSSbVBe/qD2cuY=' bantime=72 by client 'serveradmin from 107.129.31.5:31294'(id:1)
+2015-11-22 19:18:08.664789|INFO    |VirtualServer |  1| ban added reason='need some time to grow up' cluid='EbFBQjxS2a+YPuSSbVBe/qD2cuY=' bantime=72 by client 'serveradmin from 107.129.31.5:31294'(id:1)
+2015-11-22 19:19:20.464641|INFO    |BanManager    |  1| ban deleted (expired) reason='need some time to grow up' cluid='EbFBQjxS2a+YPuSSbVBe/qD2cuY=' bantime=72 by client 'server'(id:0)
+2015-11-22 19:26:29.074430|INFO    |VirtualServerBase|  1| client disconnected 'Tyler'(id:289) reason 'reasonmsg=leaving'
+2015-11-22 19:26:51.842735|INFO    |VirtualServerBase|  1| client disconnected 'Siindres'(id:224) reason 'reasonmsg=leaving'
+2015-11-22 19:40:25.838898|INFO    |VirtualServerBase|  1| query client disconnected 'serveradmin from 107.129.31.5:31294'(id:1) reason 'reasonmsg=disconnecting'
+2015-11-22 20:04:46.453166|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:276) from 107.10.51.255:61158
+2015-11-22 20:14:01.006649|INFO    |VirtualServerBase|  1| client connected 'Evilution'(id:575) from 72.15.122.24:63575
+2015-11-22 20:14:51.373596|INFO    |VirtualServerBase|  1| client connected 'Swaqq'(id:570) from 73.207.17.105:54823
+2015-11-22 20:15:17.063185|INFO    |VirtualServerBase|  1| client connected 'Qwin'(id:591) from 24.197.156.32:59194
+2015-11-22 21:59:45.601125|INFO    |VirtualServerBase|  1| client disconnected 'Evilution'(id:575) reason 'reasonmsg=leaving'
+2015-11-22 21:59:55.551693|INFO    |VirtualServerBase|  1| client disconnected 'Swaqq'(id:570) reason 'reasonmsg=leaving'
+2015-11-22 21:59:56.882772|INFO    |VirtualServerBase|  1| client disconnected 'Qwin'(id:591) reason 'reasonmsg=leaving'
+2015-11-23 00:11:29.652925|INFO    |VirtualServerBase|  1| client connected 'Anthony'(id:588) from 108.45.112.136:63224
+2015-11-23 00:11:45.462827|INFO    |VirtualServerBase|  1| client disconnected 'Anthony'(id:588) reason 'reasonmsg=leaving'
+2015-11-23 00:13:12.131251|INFO    |VirtualServerBase|  1| client connected 'Anthony'(id:588) from 108.45.112.136:57505
+2015-11-23 00:13:12.691280|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2015-11-23 00:13:56.831942|INFO    |VirtualServerBase|  1| client disconnected 'Anthony'(id:588) reason 'reasonmsg=leaving'
+2015-11-23 01:14:08.126585|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-11-23 01:42:42.908782|INFO    |VirtualServerBase|  1| channel 'firecock cherarnus'(id:251) created as sub channel of 'Arma II'(id:159) by 'ross'(id:397)
+2015-11-23 02:41:08.733302|INFO    |VirtualServerBase|  1| client connected 'GoSain'(id:188) from 70.83.89.188:52396
+2015-11-23 02:41:57.099267|INFO    |VirtualServerBase|  1| client connected 'Tyler'(id:511) from 72.21.76.167:54551
+2015-11-23 02:45:04.712620|INFO    |VirtualServerBase|  1| client connected 'rudy'(id:100) from 205.237.133.150:59305
+2015-11-23 03:03:24.227218|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:276) reason 'reasonmsg=leaving'
+2015-11-23 03:13:52.056092|INFO    |VirtualServerBase|  1| client connected 'Nicole'(id:580) from 75.128.219.216:53258
+2015-11-23 03:14:29.838624|INFO    |VirtualServerBase|  1| client disconnected 'Nicole'(id:580) reason 'reasonmsg=leaving'
+2015-11-23 03:52:35.047304|INFO    |VirtualServerBase|  1| client connected 'Brosus'(id:592) from 24.20.49.156:55091
+2015-11-23 03:53:00.359754|INFO    |VirtualServerBase|  1| client disconnected 'Brosus'(id:592) reason 'reasonmsg=leaving'
+2015-11-23 04:55:04.556975|INFO    |VirtualServerBase|  1| client connected 'TeamSpeakUser'(id:593) from 97.82.236.122:63943
+2015-11-23 04:57:14.758627|INFO    |VirtualServer |  1| ban added reason='being hateful' cluid='6hHiMeH7CceJceUYzwN3PW40ogU=' bantime=0 by client 'rudy'(id:100)
+2015-11-23 04:57:14.764628|INFO    |VirtualServer |  1| ban added reason='being hateful' ip='97.82.236.122' bantime=0 by client 'rudy'(id:100)
+2015-11-23 04:57:14.764628|INFO    |VirtualServerBase|  1| client disconnected 'Ronald'(id:593) reason 'invokerid=4 invokername=rudy invokeruid=kYpjZoOEkiu+sTgFIAD+CPKz2oc= reasonmsg=being hateful bantime=0'
+2015-11-23 04:59:50.037898|INFO    |VirtualServer |  1| client (id:511) was added to servergroup 'Ryan'(id:20) by client 'rudy'(id:100)
+2015-11-23 05:09:58.737915|INFO    |VirtualServerBase|  1| client disconnected 'GoSain'(id:188) reason 'reasonmsg=J'caliss mon camp ! Tabarnac !'
+2015-11-23 05:45:45.001633|INFO    |VirtualServerBase|  1| client disconnected 'Tyler'(id:511) reason 'reasonmsg=leaving'
+2015-11-23 05:47:43.203137|INFO    |VirtualServerBase|  1| client disconnected 'rudy'(id:100) reason 'reasonmsg=leaving'
+2015-11-23 09:52:29.474016|INFO    |VirtualServerBase|  1| client connected 'Qwin'(id:591) from 24.197.156.32:65196
+2015-11-23 09:52:35.771778|INFO    |VirtualServerBase|  1| client disconnected 'Qwin'(id:591) reason 'reasonmsg=leaving'
+2015-11-23 09:59:58.599332|INFO    |VirtualServerBase|  1| client connected 'Swaqq'(id:570) from 73.207.17.105:1024
+2015-11-23 10:00:25.824889|INFO    |VirtualServerBase|  1| client connected 'Qwin'(id:591) from 24.197.156.32:65196
+2015-11-23 10:01:07.922377|INFO    |VirtualServerBase|  1| client connected 'Evilution'(id:575) from 72.15.122.24:65067
+2015-11-23 11:23:52.861273|INFO    |VirtualServerBase|  1| client disconnected 'Swaqq'(id:570) reason 'reasonmsg=leaving'
+2015-11-23 11:23:54.229389|INFO    |VirtualServerBase|  1| client disconnected 'Evilution'(id:575) reason 'reasonmsg=leaving'
+2015-11-23 11:24:23.855050|INFO    |VirtualServerBase|  1| client disconnected 'Qwin'(id:591) reason 'reasonmsg=leaving'
+2015-11-23 12:48:27.161285|INFO    |VirtualServerBase|  1| client connected 'DrDavidQDawson'(id:594) from 24.19.250.78:62679
+2015-11-23 12:48:46.233769|INFO    |VirtualServerBase|  1| client disconnected 'DrDavidQDawson'(id:594) reason 'reasonmsg=leaving'
+2015-11-23 13:08:50.278528|INFO    |VirtualServerBase|  1| query client disconnected 'serveradmin from 127.0.0.1:54620'(id:1) reason 'reasonmsg=disconnecting'
+2015-11-23 13:08:54.236622|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:6) from 70.168.122.243:61412
+2015-11-23 15:44:31.248304|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:397) reason 'reasonmsg=leaving'
+2015-11-23 15:44:31.280313|INFO    |VirtualServerBase|  1| channel 'firecock cherarnus'(id:251) deleted by 'server'(id:0)
+2015-11-23 16:06:59.747874|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:59177
+2015-11-23 18:23:46.734840|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-11-23 19:26:11.476794|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:58730
+2015-11-23 19:40:46.771314|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-538407244, negated:0, skipchannel:0) was added by 'wagex'(id:6) to servergroup 'Evan Allmighty'(id:11)
+2015-11-23 19:43:16.045221|INFO    |VirtualServer |  1| client (id:349) was removed from servergroup 'Evan Allmighty'(id:11) by client 'Ritsu'(id:349)
+2015-11-23 19:43:20.350515|INFO    |VirtualServer |  1| client (id:349) was added to servergroup 'Evan Allmighty'(id:11) by client 'Ritsu'(id:349)
+2015-11-23 19:43:28.053885|INFO    |VirtualServer |  1| client (id:349) was removed from servergroup 'Server Admin'(id:6) by client 'Ritsu'(id:349)
+2015-11-23 19:43:33.060258|INFO    |VirtualServer |  1| client (id:349) was removed from servergroup 'Normal'(id:7) by client 'Ritsu'(id:349)
+2015-11-23 19:43:39.072045|INFO    |VirtualServer |  1| client (id:349) was removed from servergroup 'super duper admin'(id:9) by client 'Ritsu'(id:349)
+2015-11-23 20:33:37.628379|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:276) from 107.10.51.255:51863
+2015-11-23 21:19:05.080250|INFO    |VirtualServerBase|  1| client connected 'brandon'(id:595) from 68.113.124.17:52294
+2015-11-23 21:19:05.305265|INFO    |VirtualServerBase|  1| client disconnected 'brandon'(id:595) reason 'reasonmsg=leaving'
+2015-11-23 21:19:22.260586|INFO    |VirtualServerBase|  1| client connected 'brandon'(id:595) from 68.113.124.17:52294
+2015-11-23 21:19:25.801789|INFO    |VirtualServerBase|  1| client disconnected 'brandon'(id:595) reason 'reasonmsg=leaving'
+2015-11-23 21:54:37.736511|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:81) reason 'reasonmsg=connection lost'
+2015-11-23 22:02:50.432135|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:81) from 174.100.62.193:55417
+2015-11-24 00:12:55.501507|INFO    |VirtualServerBase|  1| client connected 'Gluttony'(id:393) from 65.25.104.246:59696
+2015-11-24 00:18:15.250733|INFO    |VirtualServerBase|  1| client disconnected 'Gluttony'(id:393) reason 'reasonmsg=leaving'
+2015-11-24 00:42:15.787327|INFO    |VirtualServerBase|  1| client connected 'rudy'(id:100) from 205.237.133.150:50247
+2015-11-24 00:42:32.197629|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2015-11-24 01:50:09.032289|INFO    |VirtualServerBase|  1| client connected 'Gluttony'(id:393) from 65.25.104.246:50663
+2015-11-24 02:20:30.654136|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:63865
+2015-11-24 02:20:48.778693|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-11-24 02:30:14.416975|INFO    |VirtualServerBase|  1| client disconnected 'Gluttony'(id:393) reason 'reasonmsg=leaving'
+2015-11-24 02:30:16.009332|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:81) reason 'reasonmsg=leaving'
+2015-11-24 03:08:03.354735|INFO    |VirtualServer |  1| query client connected 'serveradmin from 107.129.31.5:26539'(id:1)
+2015-11-24 03:08:16.618071|INFO    |VirtualServer |  1| ban deleted reason='being hateful' cluid='6hHiMeH7CceJceUYzwN3PW40ogU=' bantime=0 by client 'serveradmin from 107.129.31.5:26539'(id:1)
+2015-11-24 03:08:19.130213|INFO    |VirtualServer |  1| ban deleted reason='being hateful' ip='97.82.236.122' bantime=0 by client 'serveradmin from 107.129.31.5:26539'(id:1)
+2015-11-24 03:09:05.192390|INFO    |VirtualServerBase|  1| client connected 'ross'(id:397) from 107.129.31.5:25499
+2015-11-24 03:09:12.477182|INFO    |VirtualServer |  1| client (id:100) was removed from servergroup 'Ryan'(id:20) by client 'ross'(id:397)
+2015-11-24 03:13:12.468340|INFO    |VirtualServerBase|  1| query client disconnected 'serveradmin from 107.129.31.5:26539'(id:1) reason 'reasonmsg=disconnecting'
+2015-11-24 03:16:43.696648|INFO    |VirtualServerBase|  1| client connected 'Tyler'(id:511) from 72.20.67.217:49768
+2015-11-24 03:28:25.796378|INFO    |VirtualServerBase|  1| client connected 'TacosAndNachos'(id:565) from 75.137.133.243:51768
+2015-11-24 03:28:57.157319|INFO    |VirtualServerBase|  1| client connected 'Tackalak'(id:321) from 68.186.197.19:61104
+2015-11-24 04:05:51.975525|INFO    |VirtualServerBase|  1| client disconnected 'TacosAndNachos'(id:565) reason 'reasonmsg=leaving'
+2015-11-24 04:17:44.773203|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:397) reason 'reasonmsg=leaving'
+2015-11-24 04:18:43.287411|INFO    |VirtualServerBase|  1| client connected 'GoSain'(id:188) from 70.83.89.188:51176
+2015-11-24 04:18:54.934052|INFO    |VirtualServerBase|  1| client connected 'Pierre-Luc.Larocque'(id:596) from 161.184.131.81:55418
+2015-11-24 06:30:22.073251|INFO    |VirtualServerBase|  1| client disconnected 'Tyler'(id:511) reason 'reasonmsg=leaving'
+2015-11-24 07:18:43.575408|INFO    |VirtualServerBase|  1| client disconnected 'Pierre-Luc.Larocque'(id:596) reason 'reasonmsg=leaving'
+2015-11-24 07:19:27.397076|INFO    |VirtualServerBase|  1| client disconnected 'GoSain'(id:188) reason 'reasonmsg=J'caliss mon camp ! Tabarnac !'
+2015-11-24 07:19:33.826678|INFO    |VirtualServerBase|  1| client disconnected 'rudy'(id:100) reason 'reasonmsg=leaving'
+2015-11-24 07:38:12.936916|INFO    |VirtualServerBase|  1| client connected 'Qwin'(id:591) from 24.197.156.32:59993
+2015-11-24 07:38:18.988726|INFO    |VirtualServerBase|  1| client disconnected 'Qwin'(id:591) reason 'reasonmsg=leaving'
+2015-11-24 07:38:29.781779|INFO    |VirtualServerBase|  1| client connected 'Qwin'(id:591) from 24.197.156.32:59993
+2015-11-24 07:38:48.112035|INFO    |VirtualServerBase|  1| client disconnected 'Qwin'(id:591) reason 'reasonmsg=leaving'
+2015-11-24 10:19:05.582445|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:276) reason 'reasonmsg=connection lost'
+2015-11-24 10:19:09.194606|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:276) from 107.10.51.255:52863
+2015-11-24 13:24:59.425723|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:51583
+2015-11-24 14:15:12.972763|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:81) from 174.100.62.193:62280
+2015-11-24 14:45:33.437752|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:276) reason 'reasonmsg=leaving'
+2015-11-24 15:30:16.994907|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:50337
+2015-11-24 15:54:20.807726|INFO    |VirtualServerBase|  1| client connected 'Gluttony'(id:393) from 65.25.104.246:51346
+2015-11-24 17:24:39.315421|INFO    |VirtualServerBase|  1| client disconnected 'Gluttony'(id:393) reason 'reasonmsg=leaving'
+2015-11-24 17:24:43.616580|INFO    |VirtualServerBase|  1| client connected 'Rexyzz'(id:597) from 91.223.64.254:57376
+2015-11-24 17:25:02.411900|INFO    |VirtualServerBase|  1| client disconnected 'Tackalak'(id:321) reason 'reasonmsg=leaving'
+2015-11-24 17:25:04.071995|INFO    |VirtualServerBase|  1| client disconnected 'Rexyzz'(id:597) reason 'reasonmsg=leaving'
+2015-11-24 18:04:12.746292|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:81) reason 'reasonmsg=leaving'
+2015-11-24 18:56:00.539344|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:81) from 174.100.62.193:63767
+2015-11-24 19:36:10.804585|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:81) reason 'reasonmsg=leaving'
+2015-11-24 19:45:59.322979|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:81) from 174.100.62.193:55156
+2015-11-25 00:43:28.437673|INFO    |VirtualServerBase|  1| client connected 'Perithion'(id:576) from 74.12.84.224:51797
+2015-11-25 00:43:53.337194|INFO    |VirtualServerBase|  1| client connected 'Evilution'(id:575) from 72.15.122.24:56453
+2015-11-25 00:50:05.706270|INFO    |VirtualServerBase|  1| client connected 'Pierre-Luc.Larocque'(id:596) from 161.184.131.81:52515
+2015-11-25 00:50:11.645321|INFO    |VirtualServerBase|  1| client disconnected 'Pierre-Luc.Larocque'(id:596) reason 'reasonmsg=leaving'
+2015-11-25 01:30:10.981029|INFO    |VirtualServerBase|  1| client disconnected 'Perithion'(id:576) reason 'reasonmsg=leaving'
+2015-11-25 01:30:12.179098|INFO    |VirtualServerBase|  1| client disconnected 'Evilution'(id:575) reason 'reasonmsg=leaving'
+2015-11-25 01:57:16.808025|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:81) reason 'reasonmsg=connection lost'
+2015-11-25 02:15:32.607251|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:81) from 174.100.62.193:55156
+2015-11-25 02:35:19.029117|INFO    |VirtualServerBase|  1| client connected 'OBERMOFUCKINGLEUTNANT'(id:598) from 24.171.29.95:62007
+2015-11-25 02:35:19.699153|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:555) from 73.164.123.240:61090
+2015-11-25 02:35:23.218353|INFO    |VirtualServerBase|  1| client disconnected 'OBERMOFUCKINGLEUTNANT'(id:598) reason 'reasonmsg=leaving'
+2015-11-25 02:35:27.707624|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:555) reason 'reasonmsg=leaving'
+2015-11-25 02:36:55.943269|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:555) from 73.164.123.240:61090
+2015-11-25 02:37:01.377924|INFO    |VirtualServerBase|  1| client connected 'OBERMOFUCKINGLEUTNANT'(id:598) from 24.171.29.95:62007
+2015-11-25 02:37:04.861271|INFO    |VirtualServerBase|  1| client disconnected 'OBERMOFUCKINGLEUTNANT'(id:598) reason 'reasonmsg=leaving'
+2015-11-25 02:37:14.576165|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:555) reason 'reasonmsg=leaving'
+2015-11-25 02:37:20.762861|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:555) from 73.164.123.240:61090
+2015-11-25 02:38:35.689226|INFO    |VirtualServerBase|  1| client connected 'OBERMOFUCKINGLEUTNANT'(id:598) from 24.171.29.95:62007
+2015-11-25 03:10:24.350250|INFO    |VirtualServerBase|  1| client connected 'rudy'(id:100) from 205.237.133.150:53728
+2015-11-25 03:11:47.505492|INFO    |VirtualServerBase|  1| client disconnected 'Rodrik'(id:598) reason 'reasonmsg=leaving'
+2015-11-25 03:11:48.938296|INFO    |VirtualServerBase|  1| client connected 'OBERMOFUCKINGLEUTNANT'(id:598) from 24.171.29.95:62007
+2015-11-25 03:12:29.544280|INFO    |VirtualServerBase|  1| client connected 'Kamikunt'(id:599) from 64.229.254.203:65014
+2015-11-25 03:21:46.465941|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2015-11-25 03:28:03.440027|INFO    |VirtualServerBase|  1| client connected 'Tyler'(id:511) from 66.119.54.226:20127
+2015-11-25 03:41:04.788048|INFO    |VirtualServerBase|  1| client connected 'Pierre-Luc.Larocque'(id:596) from 161.184.131.81:49251
+2015-11-25 03:41:14.784121|INFO    |VirtualServerBase|  1| client disconnected 'Pierre-Luc.Larocque'(id:596) reason 'reasonmsg=leaving'
+2015-11-25 03:41:19.543421|INFO    |VirtualServerBase|  1| client connected 'Pierre-Luc.Larocque'(id:596) from 161.184.131.81:49251
+2015-11-25 03:50:48.061916|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:276) from 107.10.51.255:60014
+2015-11-25 04:01:38.690964|INFO    |VirtualServerBase|  1| client disconnected 'Tyler'(id:511) reason 'reasonmsg=leaving'
+2015-11-25 04:18:05.276076|INFO    |VirtualServerBase|  1| client connected 'Brosus'(id:592) from 24.20.49.156:50287
+2015-11-25 04:57:53.961057|INFO    |VirtualServerBase|  1| client disconnected 'Rodrik'(id:598) reason 'reasonmsg=leaving'
+2015-11-25 04:57:55.370137|INFO    |VirtualServerBase|  1| client connected 'OBERMOFUCKINGLEUTNANT'(id:598) from 24.171.29.95:62007
+2015-11-25 05:02:11.673616|INFO    |VirtualServerBase|  1| client disconnected 'Pierre-Luc.Larocque'(id:596) reason 'reasonmsg=leaving'
+2015-11-25 05:04:47.571972|INFO    |VirtualServerBase|  1| client connected 'Albrecht Stabler'(id:600) from 99.41.160.106:62984
+2015-11-25 05:28:17.007117|INFO    |VirtualServerBase|  1| client connected 'Befeh&#322;&#322;'(id:601) from 73.210.33.19:59277
+2015-11-25 05:31:33.272765|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-11-25 06:22:08.833811|INFO    |VirtualServerBase|  1| client disconnected 'Albrecht Stabler'(id:600) reason 'reasonmsg=connection lost'
+2015-11-25 06:22:46.867003|INFO    |VirtualServerBase|  1| client connected 'Albrecht Stabler'(id:600) from 99.41.160.106:62984
+2015-11-25 06:28:08.019987|INFO    |VirtualServerBase|  1| client disconnected 'Rodrik'(id:598) reason 'reasonmsg=leaving'
+2015-11-25 06:28:23.635876|INFO    |VirtualServerBase|  1| client disconnected 'Befeh&#322;&#322;'(id:601) reason 'reasonmsg=leaving'
+2015-11-25 06:28:29.815389|INFO    |VirtualServerBase|  1| client disconnected 'Kamikunt'(id:599) reason 'reasonmsg=leaving'
+2015-11-25 06:29:00.570211|INFO    |VirtualServerBase|  1| client connected 'Befeh&#322;&#322;'(id:601) from 73.210.33.19:52661
+2015-11-25 06:37:26.234847|INFO    |VirtualServerBase|  1| client disconnected 'Albrecht Stabler'(id:600) reason 'reasonmsg=leaving'
+2015-11-25 06:39:51.847156|INFO    |VirtualServerBase|  1| client connected 'Albrecht Stabler'(id:600) from 99.41.160.106:49377
+2015-11-25 06:40:47.642030|INFO    |VirtualServerBase|  1| client disconnected 'Befeh&#322;&#322;'(id:601) reason 'reasonmsg=leaving'
+2015-11-25 06:42:56.755919|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:555) reason 'reasonmsg=leaving'
+2015-11-25 07:05:39.830824|INFO    |VirtualServerBase|  1| client disconnected 'rudy'(id:100) reason 'reasonmsg=leaving'
+2015-11-25 07:06:21.004697|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:276) reason 'reasonmsg=leaving'
+2015-11-25 07:13:34.953801|INFO    |VirtualServerBase|  1| client disconnected 'Brosus'(id:592) reason 'reasonmsg=leaving'
+2015-11-25 07:55:33.524835|INFO    |VirtualServerBase|  1| client disconnected 'Albrecht Stabler'(id:600) reason 'reasonmsg=leaving'
+2015-11-25 11:29:08.245466|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:64838
+2015-11-25 16:23:50.882050|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2015-11-25 17:42:56.953925|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:57256
+2015-11-25 18:37:11.806669|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=connection lost'
+2015-11-25 18:44:01.948050|INFO    |VirtualServerBase|  1| client connected 'OBERMOFUCKINGLEUTNANT'(id:598) from 24.171.29.95:58216
+2015-11-25 18:44:24.075941|INFO    |VirtualServerBase|  1| client connected 'Albrecht Stabler'(id:600) from 99.41.160.106:56822
+2015-11-25 18:48:44.796062|INFO    |VirtualServerBase|  1| client disconnected 'Albrecht Stabler'(id:600) reason 'reasonmsg=leaving'
+2015-11-25 18:52:45.879224|INFO    |VirtualServerBase|  1| client connected 'Albrecht Stabler'(id:600) from 99.41.160.106:59372
+2015-11-25 19:07:19.771111|INFO    |VirtualServerBase|  1| client disconnected 'Albrecht Stabler'(id:600) reason 'reasonmsg=leaving'
+2015-11-25 21:01:30.279645|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:53243
+2015-11-25 21:02:13.162019|INFO    |VirtualServer |  1| client (id:81) was added to servergroup 'Trance'(id:12) by client 'Somnus'(id:480)
+2015-11-25 21:02:17.274339|INFO    |VirtualServer |  1| client (id:81) was removed from servergroup 'Trance'(id:12) by client 'Somnus'(id:480)
+2015-11-25 21:02:51.184143|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-11-25 21:02:56.212608|INFO    |VirtualServerBase|  1| client connected '&#223;efeh&#322;s'(id:601) from 73.210.33.19:61142
+2015-11-25 21:02:56.859648|INFO    |VirtualServerBase|  1| client disconnected '&#223;efeh&#322;s'(id:601) reason 'reasonmsg=leaving'
+2015-11-25 21:53:50.209067|INFO    |VirtualServerBase|  1| client connected 'Kamikunt'(id:599) from 64.229.254.203:50012
+2015-11-25 22:25:11.185061|INFO    |VirtualServerBase|  1| client disconnected 'Kamikunt'(id:599) reason 'reasonmsg=leaving'
+2015-11-25 22:51:03.321859|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:555) from 73.164.123.240:65177
+2015-11-25 22:52:26.528022|INFO    |VirtualServerBase|  1| client connected 'Albrecht Stabler'(id:600) from 99.41.160.106:61813
+2015-11-25 23:25:59.611246|INFO    |VirtualServerBase|  1| client connected 'Nwarner426'(id:557) from 75.134.131.96:61519
+2015-11-25 23:30:03.980017|INFO    |VirtualServerBase|  1| client connected 'ross'(id:397) from 107.129.31.5:50707
+2015-11-25 23:34:11.227311|INFO    |VirtualServerBase|  1| channel 'LanParty'(id:246) deleted by 'ross'(id:397)
+2015-11-25 23:36:56.068795|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:397) reason 'reasonmsg=leaving'
+2015-11-26 00:14:51.919766|INFO    |VirtualServerBase|  1| client disconnected 'Albrecht Stabler'(id:600) reason 'reasonmsg=leaving'
+2015-11-26 00:30:34.987918|INFO    |VirtualServerBase|  1| client disconnected 'Rodrik'(id:598) reason 'reasonmsg=leaving'
+2015-11-26 00:35:35.411731|INFO    |VirtualServerBase|  1| client connected 'B.Ross'(id:563) from 173.74.149.13:51840
+2015-11-26 01:15:38.001308|INFO    |VirtualServerBase|  1| client disconnected 'Nwarner426'(id:557) reason 'reasonmsg=leaving'
+2015-11-26 01:39:16.000057|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:555) reason 'reasonmsg=leaving'
+2015-11-26 01:39:19.280530|INFO    |VirtualServerBase|  1| client disconnected 'B.Ross'(id:563) reason 'reasonmsg=IM AUDI R8'
+2015-11-26 01:55:27.091686|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:50561
+2015-11-26 01:55:36.110586|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-11-26 02:01:32.966328|INFO    |VirtualServerBase|  1| client connected 'rudy'(id:100) from 205.237.133.150:63823
+2015-11-26 02:13:19.807946|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:276) from 107.10.51.255:59000
+2015-11-26 02:13:24.210399|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:276) reason 'reasonmsg=leaving'
+2015-11-26 04:18:13.352207|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:30075
+2015-11-26 04:32:27.865584|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:276) from 107.10.51.255:60600
+2015-11-26 04:42:32.093816|INFO    |VirtualServerBase|  1| client connected 'TeamSpeakUser'(id:551) from 68.132.45.79:62977
+2015-11-26 04:46:02.920097|INFO    |VirtualServerBase|  1| client connected 'joey'(id:602) from 50.187.20.39:53070
+2015-11-26 05:40:24.807263|INFO    |VirtualServerBase|  1| client disconnected 'joey'(id:602) reason 'reasonmsg=leaving'
+2015-11-26 05:40:29.613628|INFO    |VirtualServerBase|  1| client disconnected 'Mensah'(id:551) reason 'reasonmsg=leaving'
+2015-11-26 07:34:49.721387|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2015-11-26 07:38:41.466548|INFO    |VirtualServerBase|  1| client disconnected 'rudy'(id:100) reason 'reasonmsg=leaving'
+2015-11-26 17:55:49.813184|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:81) reason 'reasonmsg=leaving'
+2015-11-26 18:55:53.855529|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:555) from 73.164.123.240:62944
+2015-11-26 18:57:48.918512|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:276) reason 'reasonmsg=connection lost'
+2015-11-26 18:57:51.221676|INFO    |VirtualServerBase|  1| client connected 'OBERMOFUCKINGLEUTNANT'(id:598) from 24.171.29.95:59898
+2015-11-26 19:08:48.482198|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:276) from 107.10.51.255:60600
+2015-11-26 19:12:06.890897|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:50156
+2015-11-26 19:12:11.841373|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-11-26 19:43:36.002795|INFO    |VirtualServerBase|  1| client connected 'Grizzoh'(id:559) from 73.151.238.98:52628
+2015-11-26 20:00:55.852533|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:555) reason 'reasonmsg=leaving'
+2015-11-26 20:00:57.838766|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:555) from 73.164.123.240:62944
+2015-11-26 20:13:05.568183|INFO    |VirtualServerBase|  1| client disconnected 'Grizzoh'(id:559) reason 'reasonmsg=leaving'
+2015-11-26 20:20:14.298114|INFO    |VirtualServerBase|  1| client disconnected 'Rodrik'(id:598) reason 'reasonmsg=leaving'
+2015-11-26 20:20:27.762185|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:555) reason 'reasonmsg=leaving'
+2015-11-26 22:20:20.385771|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:555) from 73.164.123.240:53785
+2015-11-26 23:14:54.635460|INFO    |VirtualServerBase|  1| client connected 'CommanderSnowflake'(id:518) from 98.168.135.180:57844
+2015-11-26 23:15:01.425334|INFO    |VirtualServerBase|  1| client disconnected 'CommanderSnowflake'(id:518) reason 'reasonmsg=leaving'
+2015-11-27 00:19:21.389080|INFO    |VirtualServerBase|  1| client connected 'Nwarner426'(id:557) from 75.134.131.96:62385
+2015-11-27 00:19:57.865427|INFO    |VirtualServerBase|  1| client connected 'OBERMOFUCKINGLEUTNANT'(id:598) from 24.171.29.95:62338
+2015-11-27 00:25:53.589935|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:57002
+2015-11-27 00:26:00.406448|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-11-27 02:06:47.721588|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:50993
+2015-11-27 02:08:04.019051|INFO    |VirtualServerBase|  1| client connected 'rudy'(id:100) from 205.237.133.150:52259
+2015-11-27 02:25:17.815703|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:443) from 108.237.6.189:60510
+2015-11-27 02:34:11.143534|INFO    |VirtualServerBase|  1| client disconnected 'Nwarner426'(id:557) reason 'reasonmsg=leaving'
+2015-11-27 02:34:14.733858|INFO    |VirtualServerBase|  1| client connected 'Mitch'(id:603) from 108.222.81.129:58445
+2015-11-27 02:40:58.745169|INFO    |VirtualServerBase|  1| client disconnected 'Mitch'(id:603) reason 'reasonmsg=connection lost'
+2015-11-27 02:49:26.726196|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:54702
+2015-11-27 02:49:38.854697|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2015-11-27 02:51:01.257488|INFO    |VirtualServerBase|  1| client connected 'Mitch'(id:603) from 108.222.81.129:51464
+2015-11-27 02:52:41.152860|INFO    |VirtualServer |  1| permission 'b_client_is_priority_speaker'(id:177) with values (value:1) was added by 'ross'(id:492) for client (id:443) and channel 'Arma II'(id:159)
+2015-11-27 02:52:43.320055|INFO    |VirtualServer |  1| permission 'b_client_is_priority_speaker'(id:177) was deleted by 'ross'(id:492) for client (id:443) and channel 'Arma II'(id:159)
+2015-11-27 02:59:40.274136|INFO    |VirtualServerBase|  1| client disconnected 'Mitch'(id:603) reason 'reasonmsg=leaving'
+2015-11-27 02:59:41.725218|INFO    |VirtualServerBase|  1| client connected 'Mitch'(id:603) from 108.222.81.129:51464
+2015-11-27 03:13:46.976845|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:555) reason 'reasonmsg=leaving'
+2015-11-27 03:27:54.958342|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:49393
+2015-11-27 05:40:33.394347|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-11-27 06:01:37.600728|INFO    |VirtualServerBase|  1| client disconnected 'rudy'(id:100) reason 'reasonmsg=leaving'
+2015-11-27 06:46:10.673651|INFO    |VirtualServerBase|  1| client disconnected 'Rodrik'(id:598) reason 'reasonmsg=leaving'
+2015-11-27 07:17:53.795049|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:276) reason 'reasonmsg=leaving'
+2015-11-27 07:22:17.520081|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2015-11-27 07:53:09.142517|INFO    |VirtualServerBase|  1| client disconnected 'Mitch'(id:603) reason 'reasonmsg=leaving'
+2015-11-27 09:33:03.111675|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:64188
+2015-11-27 09:33:11.756390|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2015-11-27 10:06:30.177592|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:60545
+2015-11-27 17:17:54.340138|INFO    |VirtualServerBase|  1| client connected 'BOB'(id:581) from 68.196.3.39:62207
+2015-11-27 17:18:34.580247|INFO    |VirtualServerBase|  1| client connected 'Pedobear'(id:505) from 98.217.54.170:49701
+2015-11-27 17:18:52.747546|INFO    |VirtualServerBase|  1| channel 'Gay af'(id:252) created by 'Pedobear'(id:505)
+2015-11-27 17:20:50.270531|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:555) from 73.164.123.240:63532
+2015-11-27 17:21:01.942900|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:555) reason 'reasonmsg=leaving'
+2015-11-27 18:10:07.592233|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:276) from 107.10.51.255:57266
+2015-11-27 19:01:44.728933|INFO    |VirtualServerBase|  1| client disconnected 'Pedobear'(id:505) reason 'reasonmsg=leaving'
+2015-11-27 19:47:44.048534|INFO    |VirtualServerBase|  1| client connected 'Nwarner426'(id:557) from 75.134.131.96:59225
+2015-11-27 19:47:49.644889|INFO    |VirtualServerBase|  1| client disconnected 'Nwarner426'(id:557) reason 'reasonmsg=leaving'
+2015-11-27 19:48:01.676478|INFO    |VirtualServerBase|  1| client connected 'OBERMOFUCKINGLEUTNANT'(id:598) from 24.171.29.95:64357
+2015-11-27 19:48:32.287333|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:555) from 73.164.123.240:52895
+2015-11-27 19:48:33.824421|INFO    |VirtualServerBase|  1| client connected 'Nwarner426'(id:557) from 75.134.131.96:52310
+2015-11-27 20:52:37.296785|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:555) reason 'reasonmsg=leaving'
+2015-11-27 20:52:38.950882|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:555) from 73.164.123.240:52895
+2015-11-27 21:51:34.958543|INFO    |VirtualServerBase|  1| client disconnected 'Nwarner426'(id:557) reason 'reasonmsg=leaving'
+2015-11-27 22:00:55.661303|INFO    |VirtualServerBase|  1| client disconnected 'BOB'(id:581) reason 'reasonmsg=connection lost'
+2015-11-27 22:00:55.703311|INFO    |VirtualServerBase|  1| channel 'Gay af'(id:252) deleted by 'server'(id:0)
+2015-11-27 22:03:35.926586|INFO    |VirtualServerBase|  1| client connected 'BOB'(id:581) from 68.196.3.39:62207
+2015-11-27 22:04:06.609488|INFO    |VirtualServerBase|  1| client disconnected 'Rodrik'(id:598) reason 'reasonmsg=leaving'
+2015-11-27 22:04:55.001558|INFO    |VirtualServerBase|  1| client connected 'Matthew'(id:553) from 50.142.192.241:54542
+2015-11-27 22:05:13.944332|INFO    |VirtualServerBase|  1| client disconnected 'Matthew'(id:553) reason 'reasonmsg=leaving'
+2015-11-27 22:16:47.966950|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:276) reason 'reasonmsg=leaving'
+2015-11-27 23:27:26.212136|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2015-11-28 01:45:22.274194|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:443) reason 'reasonmsg=connection lost'
+2015-11-28 03:38:18.567613|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:443) from 108.237.6.189:63363
+2015-11-28 04:09:49.250714|INFO    |VirtualServerBase|  1| client disconnected 'BOB'(id:581) reason 'reasonmsg=connection lost'
+2015-11-28 04:20:20.266946|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:51127
+2015-11-28 04:30:23.573200|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2015-11-28 04:39:00.407516|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:39264
+2015-11-28 06:48:20.789296|INFO    |VirtualServerBase|  1| client connected 'Mitch'(id:603) from 108.222.81.129:51936
+2015-11-28 06:57:49.808051|INFO    |VirtualServerBase|  1| client connected 'rudy'(id:100) from 205.237.133.150:51656
+2015-11-28 08:22:58.423328|INFO    |VirtualServerBase|  1| client disconnected 'Mitch'(id:603) reason 'reasonmsg=leaving'
+2015-11-28 08:31:26.668199|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2015-11-28 08:31:35.773020|INFO    |VirtualServerBase|  1| client disconnected 'rudy'(id:100) reason 'reasonmsg=leaving'
+2015-11-28 10:35:42.978211|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:62695
+2015-11-28 10:35:48.507740|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2015-11-28 12:35:24.171022|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:52257
+2015-11-28 12:36:39.850791|INFO    |VirtualServer |  1| client (id:349) was added to servergroup 'super duper admin'(id:9) by client 'Ritsu'(id:349)
+2015-11-28 12:36:52.208050|INFO    |VirtualServer |  1| client (id:349) was added to servergroup 'Server Admin'(id:6) by client 'Ritsu'(id:349)
+2015-11-28 18:42:39.390647|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:61004
+2015-11-28 19:48:57.579091|INFO    |VirtualServerBase|  1| client connected 'Mitch'(id:603) from 108.222.81.129:59787
+2015-11-28 19:49:02.481953|INFO    |VirtualServerBase|  1| client disconnected 'Mitch'(id:603) reason 'reasonmsg=leaving'
+2015-11-28 19:49:14.787399|INFO    |VirtualServerBase|  1| client connected 'Mitch'(id:603) from 108.222.81.129:59787
+2015-11-28 20:04:04.246308|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:443) reason 'reasonmsg=connection lost'
+2015-11-28 20:04:04.246308|INFO    |VirtualServerBase|  1| client disconnected 'Mitch'(id:603) reason 'reasonmsg=connection lost'
+2015-11-28 20:05:44.455935|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:443) from 108.237.6.189:61921
+2015-11-28 20:06:15.965062|INFO    |VirtualServerBase|  1| client connected 'Mitch'(id:603) from 108.222.81.129:63254
+2015-11-28 20:16:01.933841|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:276) from 107.10.51.255:59451
+2015-11-28 21:24:34.275932|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:276) reason 'reasonmsg=leaving'
+2015-11-28 22:57:27.552995|INFO    |VirtualServerBase|  1| client connected 'rudy'(id:100) from 205.237.133.150:49273
+2015-11-29 00:32:47.793902|INFO    |VirtualServerBase|  1| client disconnected 'rudy'(id:100) reason 'reasonmsg=leaving'
+2015-11-29 01:22:22.398921|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2015-11-29 01:57:53.250336|INFO    |VirtualServer |  1| client (id:603) was added to servergroup 'Normal'(id:7) by client 'Clint'(id:443)
+2015-11-29 02:31:09.482237|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:555) reason 'reasonmsg=leaving'
+2015-11-29 04:25:53.771730|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:276) from 107.10.51.255:61713
+2015-11-29 04:48:18.837827|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:56994
+2015-11-29 05:48:07.292784|INFO    |VirtualServer |  1| servergroup 'Beast'(id:23) was added by 'Clint'(id:443)
+2015-11-29 05:48:07.436791|INFO    |VirtualServer |  1| permission 'i_group_auto_update_type'(id:146) with values (value:45, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.443793|INFO    |VirtualServer |  1| permission 'i_client_talk_power'(id:219) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.448791|INFO    |VirtualServer |  1| permission 'i_client_poke_power'(id:221) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.453793|INFO    |VirtualServer |  1| permission 'i_client_max_clones_uid'(id:173) with values (value:10, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.459795|INFO    |VirtualServer |  1| permission 'b_client_ignore_antiflood'(id:181) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.465792|INFO    |VirtualServer |  1| permission 'b_client_issue_client_query_command'(id:182) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.470794|INFO    |VirtualServer |  1| permission 'b_channel_join_permanent'(id:131) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.476794|INFO    |VirtualServer |  1| permission 'b_channel_join_semi_permanent'(id:132) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.482793|INFO    |VirtualServer |  1| permission 'b_channel_join_temporary'(id:133) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.488793|INFO    |VirtualServer |  1| permission 'b_channel_join_ignore_password'(id:134) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.494795|INFO    |VirtualServer |  1| permission 'b_channel_join_ignore_maxclients'(id:135) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.499794|INFO    |VirtualServer |  1| permission 'i_channel_join_power'(id:136) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.505795|INFO    |VirtualServer |  1| permission 'b_virtualserver_token_use'(id:38) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.512795|INFO    |VirtualServer |  1| permission 'i_channel_description_view_power'(id:140) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.517795|INFO    |VirtualServer |  1| permission 'b_client_permissionoverview_view'(id:190) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.529795|INFO    |VirtualServer |  1| permission 'b_client_permissionoverview_own'(id:191) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.536797|INFO    |VirtualServer |  1| permission 'b_client_remoteaddress_view'(id:192) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.543833|INFO    |VirtualServer |  1| permission 'i_client_serverquery_view_power'(id:193) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.549796|INFO    |VirtualServer |  1| permission 'i_client_needed_serverquery_view_power'(id:194) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.555797|INFO    |VirtualServer |  1| permission 'i_client_needed_complain_power'(id:205) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.561798|INFO    |VirtualServer |  1| permission 'i_client_needed_ban_power'(id:201) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.567798|INFO    |VirtualServer |  1| permission 'i_client_needed_kick_from_server_power'(id:197) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.573798|INFO    |VirtualServer |  1| permission 'i_client_needed_kick_from_channel_power'(id:199) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.594800|INFO    |VirtualServer |  1| permission 'i_group_needed_member_add_power'(id:164) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.613800|INFO    |VirtualServer |  1| permission 'i_group_needed_member_remove_power'(id:166) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.620801|INFO    |VirtualServer |  1| permission 'i_group_modify_power'(id:161) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.626802|INFO    |VirtualServer |  1| permission 'i_permission_modify_power'(id:167) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.631818|INFO    |VirtualServer |  1| permission 'i_client_permission_modify_power'(id:171) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.637802|INFO    |VirtualServer |  1| permission 'i_client_needed_permission_modify_power'(id:172) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.642802|INFO    |VirtualServer |  1| permission 'b_virtualserver_connectioninfo_view'(id:24) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.648805|INFO    |VirtualServer |  1| permission 'i_channel_modify_power'(id:121) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.654805|INFO    |VirtualServer |  1| permission 'b_client_complain_list'(id:206) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.659806|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_whisper_power'(id:32992) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.665805|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_needed_whisper_power'(id:32993) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.671807|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_needed_delete_power'(id:32898) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.677804|INFO    |VirtualServer |  1| permission 'i_channel_permission_modify_power'(id:79) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.682805|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_needed_permission_modify_power'(id:32848) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.688806|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_group_sort_id'(id:32916) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.693807|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_group_show_name_in_tree'(id:32917) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.699806|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_icon_id'(id:32910) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.705806|INFO    |VirtualServer |  1| permission 'i_client_needed_move_power'(id:203) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.710806|INFO    |VirtualServer |  1| permission 'b_client_skip_channelgroup_permissions'(id:178) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.716811|INFO    |VirtualServer |  1| permission 'b_virtualserver_join_ignore_password'(id:42) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.721818|INFO    |VirtualServer |  1| permission 'b_virtualserver_modify_name'(id:48) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.727808|INFO    |VirtualServer |  1| permission 'b_virtualserver_modify_welcomemessage'(id:49) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.732810|INFO    |VirtualServer |  1| permission 'b_virtualserver_modify_password'(id:52) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.738807|INFO    |VirtualServer |  1| permission 'b_virtualserver_modify_icon_id'(id:70) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.744808|INFO    |VirtualServer |  1| permission 'b_virtualserver_modify_weblist'(id:71) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.749809|INFO    |VirtualServer |  1| permission 'b_virtualserver_modify_codec_encryption_mode'(id:72) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.755809|INFO    |VirtualServer |  1| permission 'b_client_use_reserved_slot'(id:183) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.760824|INFO    |VirtualServer |  1| permission 'b_virtualserver_log_view'(id:40) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.765811|INFO    |VirtualServer |  1| permission 'b_virtualserver_client_dblist'(id:29) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.771811|INFO    |VirtualServer |  1| permission 'b_virtualserver_servergroup_create'(id:159) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.776810|INFO    |VirtualServer |  1| permission 'b_virtualserver_channelgroup_create'(id:160) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.781809|INFO    |VirtualServer |  1| permission 'b_virtualserver_servergroup_delete'(id:169) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.787810|INFO    |VirtualServer |  1| permission 'b_virtualserver_channelgroup_delete'(id:170) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.792811|INFO    |VirtualServer |  1| permission 'b_icon_manage'(id:144) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.798816|INFO    |VirtualServer |  1| permission 'i_max_icon_filesize'(id:143) with values (value:8192, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.804814|INFO    |VirtualServer |  1| permission 'b_virtualserver_servergroup_permission_list'(id:151) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.810813|INFO    |VirtualServer |  1| permission 'b_virtualserver_channelgroup_permission_list'(id:154) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.815812|INFO    |VirtualServer |  1| permission 'b_virtualserver_client_permission_list'(id:156) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.821815|INFO    |VirtualServer |  1| permission 'b_virtualserver_channel_permission_list'(id:157) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.827814|INFO    |VirtualServer |  1| permission 'b_virtualserver_channelclient_permission_list'(id:158) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.834813|INFO    |VirtualServer |  1| permission 'b_virtualserver_servergroup_client_list'(id:152) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.840814|INFO    |VirtualServer |  1| permission 'b_virtualserver_channelgroup_client_list'(id:155) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.846816|INFO    |VirtualServer |  1| permission 'i_group_member_add_power'(id:163) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.851816|INFO    |VirtualServer |  1| permission 'i_group_member_remove_power'(id:165) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.857814|INFO    |VirtualServer |  1| permission 'b_client_modify_description'(id:226) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.863814|INFO    |VirtualServer |  1| permission 'b_client_modify_own_description'(id:227) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.869818|INFO    |VirtualServer |  1| permission 'b_client_set_flag_talker'(id:223) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.874816|INFO    |VirtualServer |  1| permission 'i_client_move_power'(id:202) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.879815|INFO    |VirtualServer |  1| permission 'i_client_kick_from_channel_power'(id:198) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.885825|INFO    |VirtualServer |  1| permission 'i_client_ban_power'(id:200) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.891817|INFO    |VirtualServer |  1| permission 'b_client_ban_list'(id:209) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.896816|INFO    |VirtualServer |  1| permission 'b_client_ban_delete_own'(id:211) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.902818|INFO    |VirtualServer |  1| permission 'i_client_ban_max_bantime'(id:213) with values (value:-1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.908818|INFO    |VirtualServer |  1| permission 'b_client_ignore_bans'(id:180) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.913817|INFO    |VirtualServer |  1| permission 'i_client_kick_from_server_power'(id:196) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.919822|INFO    |VirtualServer |  1| permission 'b_channel_modify_name'(id:110) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.926819|INFO    |VirtualServer |  1| permission 'b_channel_modify_topic'(id:111) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.931818|INFO    |VirtualServer |  1| permission 'b_channel_modify_description'(id:112) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.937820|INFO    |VirtualServer |  1| permission 'b_channel_modify_password'(id:113) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.943820|INFO    |VirtualServer |  1| permission 'b_channel_modify_codec'(id:114) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.948819|INFO    |VirtualServer |  1| permission 'b_channel_modify_codec_quality'(id:115) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.954821|INFO    |VirtualServer |  1| permission 'b_channel_modify_codec_latency_factor'(id:116) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.959821|INFO    |VirtualServer |  1| permission 'b_channel_modify_maxclients'(id:117) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.964820|INFO    |VirtualServer |  1| permission 'b_channel_modify_maxfamilyclients'(id:118) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.970822|INFO    |VirtualServer |  1| permission 'b_channel_modify_parent'(id:105) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.976822|INFO    |VirtualServer |  1| permission 'b_channel_modify_sortorder'(id:119) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.981821|INFO    |VirtualServer |  1| permission 'b_channel_modify_needed_talk_power'(id:120) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.987823|INFO    |VirtualServer |  1| permission 'b_channel_modify_make_codec_encrypted'(id:123) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.992821|INFO    |VirtualServer |  1| permission 'b_channel_create_child'(id:82) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:07.998823|INFO    |VirtualServer |  1| permission 'b_channel_create_permanent'(id:83) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.004824|INFO    |VirtualServer |  1| permission 'b_channel_create_semi_permanent'(id:84) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.009822|INFO    |VirtualServer |  1| permission 'b_channel_create_temporary'(id:85) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.015825|INFO    |VirtualServer |  1| permission 'b_channel_create_with_topic'(id:87) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.021824|INFO    |VirtualServer |  1| permission 'b_channel_create_with_description'(id:88) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.026824|INFO    |VirtualServer |  1| permission 'b_channel_create_with_password'(id:89) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.032825|INFO    |VirtualServer |  1| permission 'b_channel_create_modify_with_codec_speex8'(id:90) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.037827|INFO    |VirtualServer |  1| permission 'b_channel_create_modify_with_codec_speex16'(id:91) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.043830|INFO    |VirtualServer |  1| permission 'b_channel_create_modify_with_codec_speex32'(id:92) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.049827|INFO    |VirtualServer |  1| permission 'i_channel_create_modify_with_codec_maxquality'(id:96) with values (value:10, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.054827|INFO    |VirtualServer |  1| permission 'i_channel_create_modify_with_codec_latency_factor_min'(id:97) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.060858|INFO    |VirtualServer |  1| permission 'b_channel_create_with_maxclients'(id:98) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.066828|INFO    |VirtualServer |  1| permission 'b_channel_create_with_maxfamilyclients'(id:99) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.071829|INFO    |VirtualServer |  1| permission 'b_channel_create_with_needed_talk_power'(id:102) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.079832|INFO    |VirtualServer |  1| permission 'b_channel_create_modify_with_codec_celtmono48'(id:93) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.086150|INFO    |VirtualServer |  1| permission 'b_channel_create_with_default'(id:101) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.091828|INFO    |VirtualServer |  1| permission 'i_channel_max_depth'(id:77) with values (value:10, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.097831|INFO    |VirtualServer |  1| permission 'b_channel_create_with_sortorder'(id:100) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.103829|INFO    |VirtualServer |  1| permission 'i_channel_delete_power'(id:129) with values (value:60, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.108830|INFO    |VirtualServer |  1| permission 'b_channel_delete_permanent'(id:125) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.114829|INFO    |VirtualServer |  1| permission 'b_channel_delete_semi_permanent'(id:126) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.120836|INFO    |VirtualServer |  1| permission 'b_channel_delete_temporary'(id:127) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.126831|INFO    |VirtualServer |  1| permission 'b_channel_delete_flag_force'(id:128) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.131863|INFO    |VirtualServer |  1| permission 'i_client_max_avatar_filesize'(id:175) with values (value:200000, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.137832|INFO    |VirtualServer |  1| permission 'b_client_use_channel_commander'(id:184) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.142830|INFO    |VirtualServer |  1| permission 'i_client_max_channel_subscriptions'(id:176) with values (value:-1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.148830|INFO    |VirtualServer |  1| permission 'i_channel_subscribe_power'(id:138) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.154831|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_is_priority_speaker'(id:32945) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.159832|INFO    |VirtualServer |  1| permission 'i_client_private_textmessage_power'(id:214) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.164831|INFO    |VirtualServer |  1| permission 'b_client_server_textmessage_send'(id:216) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.170835|INFO    |VirtualServer |  1| permission 'b_client_channel_textmessage_send'(id:217) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.176833|INFO    |VirtualServer |  1| permission 'b_client_offline_textmessage_send'(id:218) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.181833|INFO    |VirtualServer |  1| permission 'i_ft_file_delete_power'(id:237) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.187834|INFO    |VirtualServer |  1| permission 'i_ft_file_rename_power'(id:239) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.193836|INFO    |VirtualServer |  1| permission 'i_ft_directory_create_power'(id:243) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.198849|INFO    |VirtualServer |  1| permission 'b_ft_ignore_password'(id:231) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.204835|INFO    |VirtualServer |  1| permission 'i_ft_file_upload_power'(id:233) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.210836|INFO    |VirtualServer |  1| permission 'i_ft_quota_mb_upload_per_client'(id:246) with values (value:-1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.216836|INFO    |VirtualServer |  1| permission 'i_ft_file_download_power'(id:235) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.221836|INFO    |VirtualServer |  1| permission 'i_ft_quota_mb_download_per_client'(id:245) with values (value:-1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.227837|INFO    |VirtualServer |  1| permission 'i_ft_file_browse_power'(id:241) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.233652|INFO    |VirtualServer |  1| permission 'b_channel_modify_make_permanent'(id:107) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.239152|INFO    |VirtualServer |  1| permission 'b_channel_modify_make_default'(id:106) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.246658|INFO    |VirtualServer |  1| permission 'b_channel_modify_make_semi_permanent'(id:108) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.253659|INFO    |VirtualServer |  1| permission 'b_channel_modify_make_temporary'(id:109) with values (value:1, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.260661|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_group_auto_update_type'(id:32914) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.266660|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_group_is_permanent'(id:32913) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.272660|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_talk_power'(id:32987) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.278659|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_poke_power'(id:32989) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.287660|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_max_clones_uid'(id:32941) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.295660|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_ignore_antiflood'(id:32949) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.302661|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_issue_client_query_command'(id:32950) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.308663|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_join_permanent'(id:32899) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.314663|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_join_semi_permanent'(id:32900) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.320663|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_join_temporary'(id:32901) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.325664|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_join_ignore_password'(id:32902) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.331664|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_join_ignore_maxclients'(id:32903) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.336663|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_join_power'(id:32904) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.342664|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_virtualserver_token_use'(id:32806) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.347663|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_description_view_power'(id:32908) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.353668|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_permissionoverview_view'(id:32958) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.358664|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_permissionoverview_own'(id:32959) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.364665|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_remoteaddress_view'(id:32960) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.370499|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_serverquery_view_power'(id:32961) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.376000|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_needed_serverquery_view_power'(id:32962) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.380501|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_needed_complain_power'(id:32973) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.386509|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_group_needed_modify_power'(id:32930) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.391509|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_needed_ban_power'(id:32969) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.397510|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_needed_kick_from_server_power'(id:32965) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.402510|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_needed_kick_from_channel_power'(id:32967) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.408511|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_group_needed_member_add_power'(id:32932) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.414512|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_group_needed_member_remove_power'(id:32934) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.419514|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_group_modify_power'(id:32929) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.425512|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_permission_modify_power'(id:32935) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.430513|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_permission_modify_power'(id:32939) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.436513|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_needed_permission_modify_power'(id:32940) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.441512|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_virtualserver_connectioninfo_view'(id:32792) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.446512|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_modify_power'(id:32889) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.451512|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_complain_list'(id:32974) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.457513|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_permission_modify_power'(id:32847) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.462512|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_needed_move_power'(id:32971) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.468513|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_skip_channelgroup_permissions'(id:32946) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.473515|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_virtualserver_join_ignore_password'(id:32810) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.479515|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_virtualserver_modify_name'(id:32816) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.484515|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_virtualserver_modify_welcomemessage'(id:32817) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.490516|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_virtualserver_modify_password'(id:32820) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.507259|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_virtualserver_modify_icon_id'(id:32838) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.520270|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_virtualserver_modify_weblist'(id:32839) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.526270|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_virtualserver_modify_codec_encryption_mode'(id:32840) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.534269|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_use_reserved_slot'(id:32951) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.542270|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_virtualserver_log_view'(id:32808) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.549270|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_virtualserver_client_dblist'(id:32797) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.557270|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_virtualserver_servergroup_create'(id:32927) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.566270|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_virtualserver_channelgroup_create'(id:32928) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.572271|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_virtualserver_servergroup_delete'(id:32937) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.578272|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_virtualserver_channelgroup_delete'(id:32938) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.583281|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_icon_manage'(id:32912) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.589271|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_max_icon_filesize'(id:32911) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.594271|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_virtualserver_servergroup_permission_list'(id:32919) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.600273|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_virtualserver_channelgroup_permission_list'(id:32922) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.606273|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_virtualserver_client_permission_list'(id:32924) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.611271|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_virtualserver_channel_permission_list'(id:32925) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.617273|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_virtualserver_channelclient_permission_list'(id:32926) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.623274|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_virtualserver_servergroup_client_list'(id:32920) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.629276|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_virtualserver_channelgroup_client_list'(id:32923) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.635274|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_group_member_add_power'(id:32931) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.641091|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_group_member_remove_power'(id:32933) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.647092|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_modify_description'(id:32994) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.652138|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_modify_own_description'(id:32995) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.658140|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_set_flag_talker'(id:32991) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.663142|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_move_power'(id:32970) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.669144|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_kick_from_channel_power'(id:32966) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.674142|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_ban_power'(id:32968) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.679140|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_ban_list'(id:32977) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.685141|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_ban_delete_own'(id:32979) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.691141|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_ban_max_bantime'(id:32981) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.697140|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_ignore_bans'(id:32948) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.703143|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_kick_from_server_power'(id:32964) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.708142|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_modify_name'(id:32878) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.714141|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_modify_topic'(id:32879) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.720152|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_modify_description'(id:32880) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.725145|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_modify_password'(id:32881) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.732179|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_modify_codec'(id:32882) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.738146|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_modify_codec_quality'(id:32883) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.745143|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_modify_codec_latency_factor'(id:32884) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.752145|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_modify_maxclients'(id:32885) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.758144|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_modify_maxfamilyclients'(id:32886) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.764147|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_modify_parent'(id:32873) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.771147|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_modify_sortorder'(id:32887) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.776929|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_modify_needed_talk_power'(id:32888) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.782932|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_modify_make_codec_encrypted'(id:32891) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.787935|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_create_child'(id:32850) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.793938|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_create_permanent'(id:32851) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.799938|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_create_semi_permanent'(id:32852) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.805937|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_create_temporary'(id:32853) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.810937|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_create_with_topic'(id:32855) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.816937|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_create_with_description'(id:32856) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.821939|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_create_with_password'(id:32857) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.827939|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_create_modify_with_codec_speex8'(id:32858) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.832940|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_create_modify_with_codec_speex16'(id:32859) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.838939|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_create_modify_with_codec_speex32'(id:32860) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.844939|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_create_modify_with_codec_maxquality'(id:32864) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.850940|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_create_modify_with_codec_latency_factor_min'(id:32865) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.856941|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_create_with_maxclients'(id:32866) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.861941|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_create_with_maxfamilyclients'(id:32867) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.867942|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_create_with_needed_talk_power'(id:32870) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.873942|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_create_modify_with_codec_celtmono48'(id:32861) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.878941|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_create_with_default'(id:32869) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.884947|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_max_depth'(id:32845) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.889942|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_create_with_sortorder'(id:32868) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.895943|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_delete_power'(id:32897) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.901949|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_delete_permanent'(id:32893) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.906945|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_delete_semi_permanent'(id:32894) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.913234|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_delete_temporary'(id:32895) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.918733|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_delete_flag_force'(id:32896) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.923740|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_max_avatar_filesize'(id:32943) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.929741|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_use_channel_commander'(id:32952) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.935749|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_max_channel_subscriptions'(id:32944) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.940744|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_subscribe_power'(id:32906) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.946742|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_private_textmessage_power'(id:32982) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.951743|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_server_textmessage_send'(id:32984) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.957742|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_channel_textmessage_send'(id:32985) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.963743|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_offline_textmessage_send'(id:32986) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.968742|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_ft_file_delete_power'(id:33005) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.973746|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_ft_file_rename_power'(id:33007) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.979745|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_ft_directory_create_power'(id:33011) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.985746|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_ft_ignore_password'(id:32999) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.990746|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_ft_file_upload_power'(id:33001) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:08.996745|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_ft_quota_mb_upload_per_client'(id:33014) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:09.002747|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_ft_file_download_power'(id:33003) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:09.007746|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_ft_quota_mb_download_per_client'(id:33013) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:09.013746|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_ft_file_browse_power'(id:33009) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:09.019747|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_modify_make_permanent'(id:32875) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:09.024746|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_modify_make_default'(id:32874) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:09.030748|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_modify_make_semi_permanent'(id:32876) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:48:09.035746|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_channel_modify_make_temporary'(id:32877) with values (value:75, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:49:57.403608|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:1435825954, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 05:50:03.770443|INFO    |VirtualServer |  1| permission 'i_client_ban_power'(id:200) with values (value:25, negated:0, skipchannel:0) was added by 'Clint'(id:443) to servergroup 'Beast'(id:23)
+2015-11-29 06:00:33.990664|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:53962
+2015-11-29 06:01:23.419905|INFO    |VirtualServerBase|  1| client connected 'GoSain'(id:188) from 70.83.89.188:64575
+2015-11-29 06:01:29.025466|INFO    |VirtualServerBase|  1| client disconnected 'GoSain'(id:188) reason 'reasonmsg=J'caliss mon camp ! Tabarnac !'
+2015-11-29 06:21:47.755537|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-11-29 07:47:37.089504|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:276) reason 'reasonmsg=leaving'
+2015-11-29 07:54:32.166085|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:276) from 107.10.51.255:62291
+2015-11-29 08:16:02.886335|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2015-11-29 08:30:55.278004|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:276) reason 'reasonmsg=leaving'
+2015-11-29 09:00:51.587756|INFO    |VirtualServerBase|  1| client disconnected 'Mitch'(id:603) reason 'reasonmsg=leaving'
+2015-11-29 16:19:12.116305|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:53861
+2015-11-29 16:20:06.605127|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-11-29 18:28:52.669815|INFO    |VirtualServerBase|  1| client connected 'Mitch'(id:603) from 108.222.81.129:65349
+2015-11-29 23:54:27.556885|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:81) from 174.100.62.193:50608
+2015-11-29 23:55:23.400620|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:81) reason 'reasonmsg=leaving'
+2015-11-30 01:26:35.576874|INFO    |VirtualServerBase|  1| client connected 'rudy'(id:100) from 205.237.133.150:50497
+2015-11-30 01:30:36.149691|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:63242
+2015-11-30 03:38:04.651545|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-11-30 03:39:35.761014|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:55007
+2015-11-30 03:39:46.677250|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:276) from 107.10.51.255:65066
+2015-11-30 04:57:49.038857|INFO    |VirtualServerBase|  1| client disconnected 'rudy'(id:100) reason 'reasonmsg=leaving'
+2015-11-30 05:43:19.649481|INFO    |VirtualServerBase|  1| client disconnected 'Mitch'(id:603) reason 'reasonmsg=leaving'
+2015-11-30 08:02:29.637189|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-11-30 09:24:47.896926|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:276) reason 'reasonmsg=leaving'
+2015-11-30 12:30:41.401196|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2015-11-30 15:30:54.970241|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:62850
+2015-11-30 15:30:59.320336|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-11-30 16:20:16.430491|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:81) from 174.100.62.193:51922
+2015-11-30 17:25:14.122008|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:81) reason 'reasonmsg=leaving'
+2015-11-30 21:50:19.147282|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:55096
+2015-11-30 22:44:33.550810|INFO    |VirtualServerBase|  1| client connected 'Mitch'(id:603) from 108.222.81.129:56926
+2015-11-30 22:46:41.899314|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-01 00:16:30.346289|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:555) from 73.164.123.240:54568
+2015-12-01 00:17:47.538119|INFO    |VirtualServerBase|  1| client connected 'OBERMOFUCKINGLEUTNANT'(id:598) from 24.171.29.95:49312
+2015-12-01 00:21:29.346550|INFO    |VirtualServerBase|  1| client connected 'TAZ'(id:604) from 67.187.164.2:51908
+2015-12-01 00:50:57.201817|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:555) reason 'reasonmsg=leaving'
+2015-12-01 00:50:59.169929|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:555) from 73.164.123.240:54568
+2015-12-01 00:56:07.470235|INFO    |VirtualServerBase|  1| client disconnected 'Rodrik'(id:598) reason 'reasonmsg=leaving'
+2015-12-01 01:01:45.895416|INFO    |VirtualServerBase|  1| client disconnected 'TAZ'(id:604) reason 'reasonmsg=leaving'
+2015-12-01 01:19:53.375124|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:276) from 107.10.51.255:52371
+2015-12-01 01:47:35.780015|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:276) reason 'reasonmsg=leaving'
+2015-12-01 02:50:13.162140|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:555) reason 'reasonmsg=leaving'
+2015-12-01 03:30:24.955446|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:57836
+2015-12-01 05:10:59.309712|INFO    |VirtualServerBase|  1| client disconnected 'Mitch'(id:603) reason 'reasonmsg=leaving'
+2015-12-01 06:27:19.645979|INFO    |VirtualServerBase|  1| client connected 'iSung'(id:577) from 135.23.222.44:53846
+2015-12-01 06:27:22.493169|INFO    |VirtualServerBase|  1| client disconnected 'iSung'(id:577) reason 'reasonmsg=leaving'
+2015-12-01 16:10:27.795374|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:55354
+2015-12-01 17:10:23.453390|INFO    |VirtualServerBase|  1| client connected 'iSung'(id:577) from 135.23.222.44:49309
+2015-12-01 17:10:26.171546|INFO    |VirtualServerBase|  1| client disconnected 'iSung'(id:577) reason 'reasonmsg=leaving'
+2015-12-01 20:27:01.734902|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2015-12-01 21:55:13.592409|INFO    |VirtualServerBase|  1| client connected 'Mitch'(id:603) from 108.222.81.129:53724
+2015-12-01 23:38:35.354699|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:276) from 107.10.51.255:62982
+2015-12-02 00:09:16.505934|INFO    |VirtualServerBase|  1| client connected 'brandon'(id:595) from 68.113.124.17:54838
+2015-12-02 00:09:24.070363|INFO    |VirtualServerBase|  1| client disconnected 'brandon'(id:595) reason 'reasonmsg=leaving'
+2015-12-02 01:42:23.881441|INFO    |VirtualServerBase|  1| client connected 'rudy'(id:100) from 205.237.133.150:58131
+2015-12-02 02:37:58.490938|INFO    |VirtualServerBase|  1| client connected 'Android'(id:562) from 174.243.80.43:17700
+2015-12-02 02:38:05.648528|INFO    |VirtualServerBase|  1| client disconnected 'Android'(id:562) reason 'reasonmsg=....TS3 Android....'
+2015-12-02 02:54:45.457596|INFO    |VirtualServerBase|  1| client disconnected 'rudy'(id:100) reason 'reasonmsg=leaving'
+2015-12-02 05:32:04.541399|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:276) reason 'reasonmsg=leaving'
+2015-12-02 06:55:12.025772|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-02 15:54:52.129394|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:57989
+2015-12-02 17:35:29.040621|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:81) from 174.100.62.193:52692
+2015-12-02 18:19:34.187576|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:81) reason 'reasonmsg=leaving'
+2015-12-02 23:20:31.513242|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:276) from 107.10.51.255:61093
+2015-12-03 01:14:27.947604|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:555) from 73.164.123.240:63647
+2015-12-03 01:15:21.437217|INFO    |VirtualServerBase|  1| client connected 'OBERMOFUCKINGLEUTNANT'(id:598) from 24.171.29.95:55769
+2015-12-03 01:19:09.300921|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:555) reason 'reasonmsg=leaving'
+2015-12-03 01:19:10.803007|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:555) from 73.164.123.240:63647
+2015-12-03 01:56:55.544672|INFO    |VirtualServerBase|  1| client connected 'Nwarner426'(id:557) from 75.134.131.96:51314
+2015-12-03 02:09:31.756062|INFO    |VirtualServerBase|  1| client connected 'ExplodingPeachMuffin'(id:605) from 206.176.198.184:64445
+2015-12-03 02:13:04.264652|INFO    |VirtualServerBase|  1| client connected 'RileyGhostJ'(id:606) from 100.32.90.15:54907
+2015-12-03 02:47:45.282026|INFO    |VirtualServerBase|  1| client disconnected 'Nwarner426'(id:557) reason 'reasonmsg=leaving'
+2015-12-03 02:53:09.662560|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:49405
+2015-12-03 03:18:11.017582|INFO    |VirtualServerBase|  1| client disconnected 'RileyGhostJ'(id:606) reason 'reasonmsg=leaving'
+2015-12-03 03:18:12.443843|INFO    |VirtualServerBase|  1| client disconnected 'ExplodingPeachMuffin'(id:605) reason 'reasonmsg=leaving'
+2015-12-03 04:07:48.582077|INFO    |VirtualServerBase|  1| client connected 'rudy'(id:100) from 205.237.133.150:60856
+2015-12-03 04:08:18.855351|INFO    |VirtualServerBase|  1| client disconnected 'rudy'(id:100) reason 'reasonmsg=leaving'
+2015-12-03 04:25:53.477345|INFO    |VirtualServerBase|  1| client disconnected 'rodrik'(id:598) reason 'reasonmsg=leaving'
+2015-12-03 04:26:04.744605|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:555) reason 'reasonmsg=leaving'
+2015-12-03 05:58:03.432082|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:276) reason 'reasonmsg=leaving'
+2015-12-03 06:21:07.948880|INFO    |VirtualServerBase|  1| client disconnected 'Mitch'(id:603) reason 'reasonmsg=leaving'
+2015-12-03 06:25:37.283506|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-03 06:25:48.586190|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2015-12-03 16:47:52.004293|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:51046
+2015-12-03 21:39:25.005088|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:60137
+2015-12-03 21:39:27.878416|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2015-12-03 23:03:17.790825|INFO    |VirtualServerBase|  1| client connected 'Kamikunt'(id:599) from 64.229.254.203:65420
+2015-12-03 23:03:51.476776|INFO    |VirtualServerBase|  1| client disconnected 'Kamikunt'(id:599) reason 'reasonmsg=leaving'
+2015-12-03 23:03:52.820955|INFO    |VirtualServerBase|  1| client connected 'Kamikunt'(id:599) from 64.229.254.203:65420
+2015-12-03 23:03:58.692577|INFO    |VirtualServerBase|  1| client connected 'Nwarner426'(id:557) from 75.134.131.96:62204
+2015-12-03 23:03:59.444622|INFO    |VirtualServerBase|  1| client connected 'OBERMOFUCKINGLEUTNANT'(id:598) from 24.171.29.95:51668
+2015-12-03 23:08:12.314487|INFO    |VirtualServerBase|  1| client connected 'KYLoS'(id:607) from 97.87.183.65:55413
+2015-12-03 23:18:18.924053|INFO    |VirtualServerBase|  1| client connected 'Mitch'(id:603) from 108.222.81.129:58631
+2015-12-03 23:23:59.039661|INFO    |VirtualServerBase|  1| client connected 'ElusivePotato'(id:608) from 71.171.84.225:63124
+2015-12-04 00:12:50.171522|INFO    |VirtualServerBase|  1| client connected 'Perithion'(id:576) from 76.71.113.160:59119
+2015-12-04 00:13:02.836788|INFO    |VirtualServerBase|  1| client disconnected 'Perithion'(id:576) reason 'reasonmsg=leaving'
+2015-12-04 00:48:56.277536|INFO    |VirtualServerBase|  1| client disconnected 'ElusivePotato'(id:608) reason 'reasonmsg=leaving'
+2015-12-04 00:49:20.129606|INFO    |VirtualServerBase|  1| client disconnected 'KYLoS'(id:607) reason 'reasonmsg=leaving'
+2015-12-04 00:51:12.677274|INFO    |VirtualServerBase|  1| client disconnected 'Nwarner426'(id:557) reason 'reasonmsg=leaving'
+2015-12-04 00:51:16.179234|INFO    |VirtualServerBase|  1| client disconnected 'Kamikunt'(id:599) reason 'reasonmsg=leaving'
+2015-12-04 00:51:23.024701|INFO    |VirtualServerBase|  1| client disconnected 'Rodrik'(id:598) reason 'reasonmsg=leaving'
+2015-12-04 01:53:14.886374|INFO    |VirtualServerBase|  1| client connected 'brandon'(id:595) from 68.113.124.17:61540
+2015-12-04 01:53:18.417699|INFO    |VirtualServerBase|  1| client disconnected 'brandon'(id:595) reason 'reasonmsg=leaving'
+2015-12-04 01:53:31.357848|INFO    |VirtualServerBase|  1| client connected 'brandon'(id:595) from 68.113.124.17:61540
+2015-12-04 01:53:56.279855|INFO    |VirtualServerBase|  1| client disconnected 'brandon'(id:595) reason 'reasonmsg=connection lost'
+2015-12-04 01:55:53.800453|INFO    |VirtualServerBase|  1| client connected 'Albrecht Stabler'(id:600) from 99.41.160.106:51805
+2015-12-04 01:55:57.586206|INFO    |VirtualServerBase|  1| client connected 'OBERMOFUCKINGLEUTNANT'(id:598) from 24.171.29.95:65053
+2015-12-04 02:31:23.203836|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:555) from 73.164.123.240:62904
+2015-12-04 02:32:01.165763|INFO    |VirtualServerBase|  1| client connected 'Nwarner426'(id:557) from 75.134.131.96:56075
+2015-12-04 02:33:28.438138|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:555) reason 'reasonmsg=leaving'
+2015-12-04 02:33:29.819285|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:555) from 73.164.123.240:62904
+2015-12-04 03:21:10.401371|INFO    |VirtualServerBase|  1| client disconnected 'Nwarner426'(id:557) reason 'reasonmsg=leaving'
+2015-12-04 03:26:45.462630|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:36612
+2015-12-04 03:43:11.093641|INFO    |VirtualServerBase|  1| client disconnected 'Albrecht Stabler'(id:600) reason 'reasonmsg=leaving'
+2015-12-04 04:04:22.396353|INFO    |VirtualServerBase|  1| client connected 'GoSain'(id:188) from 184.162.2.188:53616
+2015-12-04 04:04:34.029377|INFO    |VirtualServerBase|  1| client disconnected 'GoSain'(id:188) reason 'reasonmsg=J'caliss mon camp ! Tabarnac !'
+2015-12-04 04:23:08.912608|INFO    |VirtualServerBase|  1| client disconnected 'Rodrik'(id:598) reason 'reasonmsg=leaving'
+2015-12-04 04:23:31.775854|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:555) reason 'reasonmsg=leaving'
+2015-12-04 05:42:53.205334|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2015-12-04 07:32:48.855130|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-04 15:28:27.193227|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:81) from 174.100.62.193:52004
+2015-12-04 15:28:42.614109|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:81) reason 'reasonmsg=leaving'
+2015-12-04 18:03:01.453871|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:55303
+2015-12-04 18:03:05.510186|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2015-12-04 20:57:16.438623|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:64885
+2015-12-04 20:57:21.556701|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-04 21:04:28.785715|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:63013
+2015-12-04 21:04:32.013980|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2015-12-04 21:28:58.353865|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:56532
+2015-12-05 00:44:25.054889|INFO    |VirtualServerBase|  1| client connected 'rudy'(id:100) from 205.237.133.150:62959
+2015-12-05 01:13:54.615167|INFO    |VirtualServerBase|  1| client connected 'Tyler'(id:511) from 72.20.67.217:56972
+2015-12-05 01:36:50.978830|INFO    |VirtualServerBase|  1| channel 'Arma 3'(id:144) edited by 'Clint'(id:443)
+2015-12-05 01:38:15.109470|INFO    |VirtualServerBase|  1| channel 'Arma 3'(id:144) edited by 'Clint'(id:443)
+2015-12-05 02:13:52.416254|INFO    |VirtualServerBase|  1| client connected 'GoSain'(id:188) from 184.162.2.188:56996
+2015-12-05 02:15:06.726406|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:65406
+2015-12-05 04:09:15.441393|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:57768
+2015-12-05 05:07:38.498451|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:81) from 174.100.62.193:65378
+2015-12-05 05:27:31.822939|INFO    |VirtualServerBase|  1| client connected 'Brosus'(id:592) from 24.20.49.156:52717
+2015-12-05 05:27:34.584182|INFO    |VirtualServerBase|  1| client disconnected 'Brosus'(id:592) reason 'reasonmsg=leaving'
+2015-12-05 05:51:43.148259|INFO    |VirtualServerBase|  1| client disconnected 'GoSain'(id:188) reason 'reasonmsg=connection lost'
+2015-12-05 05:53:49.149588|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:81) reason 'reasonmsg=leaving'
+2015-12-05 06:07:14.641357|INFO    |VirtualServerBase|  1| client disconnected 'Tyler'(id:511) reason 'reasonmsg=leaving'
+2015-12-05 06:10:50.616220|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2015-12-05 06:10:53.691396|INFO    |VirtualServerBase|  1| client disconnected 'rudy'(id:100) reason 'reasonmsg=leaving'
+2015-12-05 07:52:48.466412|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-05 12:11:33.594664|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2015-12-05 17:39:54.593234|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:62229
+2015-12-05 18:21:32.059308|INFO    |VirtualServerBase|  1| client connected 'Gluttony'(id:393) from 65.25.104.246:64954
+2015-12-05 18:21:34.916617|INFO    |VirtualServerBase|  1| client disconnected 'Gluttony'(id:393) reason 'reasonmsg=leaving'
+2015-12-05 18:39:56.410236|INFO    |VirtualServerBase|  1| client connected 'Gluttony'(id:393) from 65.25.104.246:62120
+2015-12-05 18:45:19.427211|INFO    |VirtualServerBase|  1| client disconnected 'Razz'(id:393) reason 'reasonmsg=leaving'
+2015-12-05 19:11:58.246555|INFO    |VirtualServerBase|  1| client connected 'TAZ'(id:604) from 67.187.164.2:52079
+2015-12-05 19:12:04.001987|INFO    |VirtualServerBase|  1| client connected 'Loljk'(id:609) from 104.2.55.222:52210
+2015-12-05 19:12:07.799376|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:555) from 73.164.123.240:56534
+2015-12-05 19:15:46.464005|INFO    |VirtualServerBase|  1| client connected 'Razz'(id:393) from 65.25.104.246:56013
+2015-12-05 19:18:54.923465|INFO    |VirtualServerBase|  1| client connected 'Nwarner426'(id:557) from 75.134.131.96:49221
+2015-12-05 19:23:00.542841|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:54142
+2015-12-05 19:29:50.811228|INFO    |VirtualServerBase|  1| client connected 'XxAnimeFreakxX'(id:610) from 76.200.121.131:57114
+2015-12-05 19:35:27.227236|INFO    |VirtualServerBase|  1| client disconnected 'XxAnimeFreakxX'(id:610) reason 'reasonmsg=leaving'
+2015-12-05 19:36:42.360566|INFO    |VirtualServerBase|  1| client connected 'XxAnimeFreakxX'(id:610) from 76.200.121.131:60680
+2015-12-05 19:46:06.563975|INFO    |VirtualServerBase|  1| client disconnected 'XxAnimeFreakxX'(id:610) reason 'reasonmsg=leaving'
+2015-12-05 19:48:13.380153|INFO    |VirtualServerBase|  1| client disconnected 'Nwarner426'(id:557) reason 'reasonmsg=leaving'
+2015-12-05 19:48:16.364354|INFO    |VirtualServerBase|  1| client disconnected 'TAZ'(id:604) reason 'reasonmsg=leaving'
+2015-12-05 19:48:21.070624|INFO    |VirtualServerBase|  1| client disconnected 'Loljk'(id:609) reason 'reasonmsg=leaving'
+2015-12-05 20:34:12.534045|INFO    |VirtualServerBase|  1| client connected 'XxAnimeFreakxX'(id:610) from 76.200.121.131:60680
+2015-12-05 20:35:18.574060|INFO    |VirtualServerBase|  1| client disconnected 'Razz'(id:393) reason 'reasonmsg=leaving'
+2015-12-05 20:36:05.250488|INFO    |VirtualServerBase|  1| client disconnected 'XxAnimeFreakxX'(id:610) reason 'reasonmsg=leaving'
+2015-12-05 20:54:49.615606|INFO    |VirtualServerBase|  1| client connected 'XxAnimeFreakxX'(id:610) from 76.200.121.131:60680
+2015-12-05 20:55:07.432043|INFO    |VirtualServerBase|  1| client disconnected 'XxAnimeFreakxX'(id:610) reason 'reasonmsg=leaving'
+2015-12-05 21:01:11.926146|INFO    |VirtualServerBase|  1| client connected 'XxAnimeFreakxX'(id:610) from 76.200.121.131:60680
+2015-12-05 21:01:21.469080|INFO    |VirtualServerBase|  1| client disconnected 'XxAnimeFreakxX'(id:610) reason 'reasonmsg=leaving'
+2015-12-05 21:14:09.127640|INFO    |VirtualServerBase|  1| client connected 'Razz'(id:393) from 65.25.104.246:62075
+2015-12-05 21:16:53.880578|INFO    |VirtualServerBase|  1| client connected 'XxAnimeFreakxX'(id:610) from 76.200.121.131:51144
+2015-12-05 21:17:00.259192|INFO    |VirtualServerBase|  1| client disconnected 'XxAnimeFreakxX'(id:610) reason 'reasonmsg=leaving'
+2015-12-05 21:34:59.759590|INFO    |VirtualServerBase|  1| client connected 'Nwarner426'(id:557) from 75.134.131.96:57531
+2015-12-05 22:18:37.430419|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:555) reason 'reasonmsg=leaving'
+2015-12-05 22:18:43.587835|INFO    |VirtualServerBase|  1| client disconnected 'Nwarner426'(id:557) reason 'reasonmsg=leaving'
+2015-12-05 22:19:49.615869|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:555) from 73.164.123.240:56534
+2015-12-05 22:20:51.705424|INFO    |VirtualServerBase|  1| client connected 'Nwarner426'(id:557) from 75.134.131.96:60737
+2015-12-05 23:25:58.357583|INFO    |VirtualServerBase|  1| client disconnected 'Razz'(id:393) reason 'reasonmsg=leaving'
+2015-12-06 00:29:46.370734|INFO    |VirtualServerBase|  1| client connected 'XxAnimeFreakxX'(id:610) from 76.200.121.131:50078
+2015-12-06 00:31:31.829544|INFO    |VirtualServerBase|  1| client disconnected 'XxAnimeFreakxX'(id:610) reason 'reasonmsg=leaving'
+2015-12-06 00:54:38.998083|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:555) reason 'reasonmsg=connection lost'
+2015-12-06 01:01:08.634334|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:555) from 73.164.123.240:61942
+2015-12-06 01:02:04.982920|INFO    |VirtualServerBase|  1| client connected 'XxAnimeFreakxX'(id:610) from 76.200.121.131:49903
+2015-12-06 01:02:47.315004|INFO    |VirtualServerBase|  1| client disconnected 'XxAnimeFreakxX'(id:610) reason 'reasonmsg=leaving'
+2015-12-06 01:13:03.748592|INFO    |VirtualServerBase|  1| client connected 'pengu'(id:611) from 208.167.254.88:55446
+2015-12-06 01:15:22.625258|INFO    |VirtualServerBase|  1| client disconnected 'pengu'(id:611) reason 'reasonmsg'
+2015-12-06 01:15:42.546726|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=connection lost'
+2015-12-06 01:16:05.693527|INFO    |VirtualServerBase|  1| client disconnected 'Mitch'(id:603) reason 'reasonmsg=connection lost'
+2015-12-06 01:16:19.938202|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:443) reason 'reasonmsg=connection lost'
+2015-12-06 01:16:26.501917|INFO    |VirtualServerBase|  1| client disconnected 'Nwarner426'(id:557) reason 'reasonmsg=connection lost'
+2015-12-06 01:16:45.692905|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:555) reason 'reasonmsg=connection lost'
+2015-12-06 01:17:06.318887|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=connection lost'
+2015-12-06 01:20:05.071139|INFO    |VirtualServerBase|  1| client connected 'Mitch'(id:603) from 108.222.81.129:58631
+2015-12-06 01:20:36.063217|INFO    |VirtualServerBase|  1| client disconnected 'Mitch'(id:603) reason 'reasonmsg=connection lost'
+2015-12-06 01:21:11.221149|INFO    |VirtualServerBase|  1| client connected 'Mitch'(id:603) from 108.222.81.129:58631
+2015-12-06 01:21:22.683425|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:54142
+2015-12-06 01:21:32.052437|INFO    |VirtualServerBase|  1| client disconnected 'Mitch'(id:603) reason 'reasonmsg=connection lost'
+2015-12-06 01:21:49.211047|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=connection lost'
+2015-12-06 01:22:17.352125|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:443) from 108.237.6.189:61921
+2015-12-06 01:25:11.547240|INFO    |VirtualServerBase|  1| client connected 'Mitch'(id:603) from 108.222.81.129:58631
+2015-12-06 01:25:40.119808|INFO    |VirtualServerBase|  1| client disconnected 'Mitch'(id:603) reason 'reasonmsg=connection lost'
+2015-12-06 01:26:11.711026|INFO    |VirtualServerBase|  1| client connected 'Mitch'(id:603) from 108.222.81.129:58631
+2015-12-06 01:26:36.390688|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:443) reason 'reasonmsg=connection lost'
+2015-12-06 01:26:39.234536|INFO    |VirtualServerBase|  1| client disconnected 'Mitch'(id:603) reason 'reasonmsg=connection lost'
+2015-12-06 01:27:05.322011|INFO    |VirtualServerBase|  1| client connected 'Mitch'(id:603) from 108.222.81.129:58631
+2015-12-06 01:29:23.153391|INFO    |VirtualServerBase|  1| client disconnected 'Mitch'(id:603) reason 'reasonmsg=connection lost'
+2015-12-06 01:29:32.155210|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:443) from 108.237.6.189:61921
+2015-12-06 01:31:13.083264|INFO    |VirtualServerBase|  1| client connected 'Mitch'(id:603) from 108.222.81.129:58631
+2015-12-06 01:31:14.143323|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:555) from 73.164.123.240:61942
+2015-12-06 01:33:16.653078|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:555) reason 'reasonmsg=connection lost'
+2015-12-06 01:33:25.604936|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:555) from 73.164.123.240:61942
+2015-12-06 01:34:02.447578|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:555) reason 'reasonmsg=connection lost'
+2015-12-06 01:34:40.847647|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:555) from 73.164.123.240:61942
+2015-12-06 01:35:37.374554|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:555) reason 'reasonmsg=connection lost'
+2015-12-06 01:37:39.479207|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:443) reason 'reasonmsg=connection lost'
+2015-12-06 01:37:58.609188|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:555) from 73.164.123.240:61942
+2015-12-06 01:38:23.729074|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:555) reason 'reasonmsg=connection lost'
+2015-12-06 01:39:36.666648|INFO    |VirtualServerBase|  1| client disconnected 'Mitch'(id:603) reason 'reasonmsg=connection lost'
+2015-12-06 01:39:42.609746|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:443) from 108.237.6.189:61921
+2015-12-06 01:41:17.360609|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:555) from 73.164.123.240:61942
+2015-12-06 01:41:42.330986|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:555) reason 'reasonmsg=connection lost'
+2015-12-06 01:41:44.046317|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:443) reason 'reasonmsg=connection lost'
+2015-12-06 01:42:30.499670|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:443) from 108.237.6.189:61921
+2015-12-06 01:42:58.219311|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:443) reason 'reasonmsg=connection lost'
+2015-12-06 01:43:03.757851|INFO    |VirtualServerBase|  1| client connected 'Mitch'(id:603) from 108.222.81.129:58631
+2015-12-06 01:43:33.757981|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:443) from 108.237.6.189:61921
+2015-12-06 01:43:34.495071|INFO    |VirtualServerBase|  1| client disconnected 'Mitch'(id:603) reason 'reasonmsg=connection lost'
+2015-12-06 01:44:02.082684|INFO    |VirtualServerBase|  1| client connected 'Mitch'(id:603) from 108.222.81.129:58631
+2015-12-06 01:44:21.530787|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:555) from 73.164.123.240:61942
+2015-12-06 01:44:36.935691|INFO    |VirtualServerBase|  1| client disconnected 'Mitch'(id:603) reason 'reasonmsg=connection lost'
+2015-12-06 01:45:01.180918|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:555) reason 'reasonmsg=connection lost'
+2015-12-06 01:45:16.456532|INFO    |VirtualServerBase|  1| client connected 'Mitch'(id:603) from 108.222.81.129:58631
+2015-12-06 01:46:25.915356|INFO    |VirtualServerBase|  1| client connected 'XxAnimeFreakxX'(id:610) from 76.200.121.131:57937
+2015-12-06 01:46:41.830922|INFO    |VirtualServerBase|  1| client disconnected 'XxAnimeFreakxX'(id:610) reason 'reasonmsg=leaving'
+2015-12-06 01:50:28.501212|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:62229
+2015-12-06 02:02:25.808779|INFO    |VirtualServerBase|  1| client connected 'XxAnimeFreakxX'(id:610) from 76.200.121.131:54732
+2015-12-06 02:02:31.379528|INFO    |VirtualServerBase|  1| client disconnected 'XxAnimeFreakxX'(id:610) reason 'reasonmsg=leaving'
+2015-12-06 03:13:47.386290|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:63275
+2015-12-06 03:39:43.537163|INFO    |VirtualServerBase|  1| client connected 'TAZ'(id:604) from 67.187.164.2:53612
+2015-12-06 03:40:07.634032|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:555) from 73.164.123.240:52991
+2015-12-06 03:41:41.484270|INFO    |VirtualServerBase|  1| client disconnected 'TAZ'(id:604) reason 'reasonmsg=leaving'
+2015-12-06 03:48:12.189283|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:555) reason 'reasonmsg=leaving'
+2015-12-06 04:00:10.097247|INFO    |VirtualServerBase|  1| client connected 'OBERMOFUCKINGLEUTNANT'(id:598) from 24.171.29.95:57279
+2015-12-06 04:01:32.237107|INFO    |VirtualServerBase|  1| client connected 'KYLoS'(id:607) from 97.87.183.65:58133
+2015-12-06 04:55:07.732345|INFO    |VirtualServerBase|  1| client connected 'rudy'(id:100) from 205.237.133.150:63163
+2015-12-06 04:57:59.183041|INFO    |VirtualServerBase|  1| client connected 'Tyler'(id:271) from 68.0.78.148:60089
+2015-12-06 05:05:37.125057|INFO    |VirtualServerBase|  1| client disconnected 'rudy'(id:100) reason 'reasonmsg=leaving'
+2015-12-06 05:05:46.340349|INFO    |VirtualServerBase|  1| client connected 'rudy'(id:100) from 205.237.133.150:59257
+2015-12-06 05:06:17.432004|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:43736
+2015-12-06 05:06:35.959262|INFO    |VirtualServerBase|  1| client disconnected 'KYLoS'(id:607) reason 'reasonmsg=leaving'
+2015-12-06 05:06:44.062507|INFO    |VirtualServerBase|  1| client disconnected 'Rdorik'(id:598) reason 'reasonmsg=leaving'
+2015-12-06 05:07:53.387006|INFO    |VirtualServerBase|  1| client connected 'OBERMOFUCKINGLEUTNANT'(id:598) from 24.171.29.95:61921
+2015-12-06 05:08:12.850924|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:555) from 73.164.123.240:53333
+2015-12-06 05:19:26.827327|INFO    |VirtualServerBase|  1| client disconnected 'Tyler'(id:271) reason 'reasonmsg=connection lost'
+2015-12-06 05:21:34.403679|INFO    |VirtualServerBase|  1| client connected 'Tyler'(id:271) from 68.0.78.148:49678
+2015-12-06 05:22:48.905600|INFO    |VirtualServerBase|  1| client disconnected 'Tyler'(id:271) reason 'reasonmsg=connection lost'
+2015-12-06 05:24:29.130767|INFO    |VirtualServerBase|  1| client connected 'Tyler'(id:271) from 68.0.78.148:55604
+2015-12-06 06:28:48.955252|INFO    |VirtualServerBase|  1| client disconnected 'Rodrik'(id:598) reason 'reasonmsg=leaving'
+2015-12-06 07:39:38.425163|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2015-12-06 08:00:46.205093|INFO    |VirtualServerBase|  1| client disconnected 'Tyler'(id:271) reason 'reasonmsg=leaving'
+2015-12-06 08:00:47.309352|INFO    |VirtualServerBase|  1| client disconnected 'rudy'(id:100) reason 'reasonmsg=leaving'
+2015-12-06 13:10:44.451158|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:443) reason 'reasonmsg=connection lost'
+2015-12-06 13:10:44.451158|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=connection lost'
+2015-12-06 13:10:44.451158|INFO    |VirtualServerBase|  1| client disconnected 'Mitch'(id:603) reason 'reasonmsg=connection lost'
+2015-12-06 13:10:44.451158|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:6) reason 'reasonmsg=connection lost'
+2015-12-06 13:10:44.452157|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=connection lost'
+2015-12-06 13:10:44.452157|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:555) reason 'reasonmsg=connection lost'
+2015-12-07 13:22:47.090673|INFO    |VirtualServerBase|  1| stopped

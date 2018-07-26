@@ -1,0 +1,5 @@
+2016-08-17 18:58:40.992187|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2016-08-17 18:58:41.542968|INFO    |VirtualServerBase|  1| client connected 'Daniel'(id:762) from 68.12.208.98:60859
+2016-08-17 18:58:41.542968|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:6) from 70.168.122.19:55734
+2016-08-17 18:58:43.331054|INFO    |VirtualServerBase|  1| client connected 'headcrabaregood'(id:633) from 73.253.129.160:59679
+2016-08-17 18:58:45.627929|INFO    |VirtualServerBase|  1| client connected 'nwarner426'(id:557) from 75.134.147.127:63619

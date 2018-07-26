@@ -1,0 +1,5 @@
+2015-12-17 16:30:15.971109|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-12-17 16:30:16.453135|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:60368
+2015-12-17 16:30:20.220351|INFO    |VirtualServerBase|  1| client connected 'Mitch'(id:603) from 108.222.81.129:60386
+2015-12-17 16:30:21.773441|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:81) from 174.100.62.193:57530
+2015-12-17 16:30:22.605489|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:58886

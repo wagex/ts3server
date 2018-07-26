@@ -1,0 +1,5 @@
+
+Start-Date: 2018-03-27  20:56:40
+Commandline: apt-get -y install bzip2 wget ca-certificates
+Install: libssl1.0.0:amd64 (1.0.1t-1+deb8u7, automatic), libgnutls-deb0-28:amd64 (3.3.8-6+deb8u7, automatic), libicu52:amd64 (52.1-8+deb8u7, automatic), libpsl0:amd64 (0.5.1-1, automatic), libidn11:amd64 (1.29-1+deb8u2, automatic), bzip2:amd64 (1.0.6-7+b3), libgmp10:amd64 (6.0.0+dfsg-6, automatic), wget:amd64 (1.16-1+deb8u4), libhogweed2:amd64 (2.7.1-5+deb8u2, automatic), libp11-kit0:amd64 (0.20.7-1, automatic), ca-certificates:amd64 (20141019+deb8u3), libnettle4:amd64 (2.7.1-5+deb8u2, automatic), openssl:amd64 (1.0.1t-1+deb8u7, automatic), libtasn1-6:amd64 (4.2-3+deb8u3, automatic), libffi6:amd64 (3.1-2+deb8u1, automatic)
+End-Date: 2018-03-27  20:57:07

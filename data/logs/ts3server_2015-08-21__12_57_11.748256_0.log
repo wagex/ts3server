@@ -1,0 +1,20 @@
+2015-08-21 12:57:11.749256|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.10.3 (2014-01-01 16:28:39)
+2015-08-21 12:57:11.752257|INFO    |ServerLibPriv |   | SystemInformation: Windows 8 (9200) x64 (AMD or Intel) Binary: 32bit
+2015-08-21 12:57:11.843263|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2015-08-21 12:57:11.844262|INFO    |DatabaseQuery |   | dbPlugin version: 3.7.3
+2015-08-21 12:57:11.852265|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2015-08-21 12:57:11.954266|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2015-08-21 12:57:14.934935|INFO    |              |   | Puzzle precompute time: 2764
+2015-08-21 12:57:14.957937|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2015-08-21 12:57:15.141947|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2015-08-21 12:57:15.142945|INFO    |Query         |   | listening on 0.0.0.0:10011
+2015-08-27 16:38:49.948713|INFO    |Query         |   | query from 2 127.0.0.1:50828 issued: login with account "serveradmin"(serveradmin)
+2015-08-27 19:05:41.412905|INFO    |Query         |   | query from 3 127.0.0.1:60625 issued: login with account "serveradmin"(serveradmin)
+2015-08-27 19:05:50.364681|ERROR   |ParamParser   |   | Protocol mismatch, old client or old server?
+2015-08-27 19:05:54.604922|ERROR   |ParamParser   |   | Protocol mismatch, old client or old server?
+2015-08-27 19:12:01.798483|INFO    |Query         |   | query from 4 127.0.0.1:62383 issued: login with account "serveradmin"(serveradmin)
+2015-08-28 17:42:41.133581|INFO    |Query         |   | query from 5 127.0.0.1:65477 issued: login with account "serveradmin"(serveradmin)
+2015-09-01 00:00:11.923630|INFO    |VirtualSvrMgr |   | executing monthly interval
+2015-09-01 00:00:11.929628|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2015-09-06 02:39:51.250886|INFO    |Query         |   | query from 6 127.0.0.1:64393 issued: login with account "serveradmin"(serveradmin)
+2015-09-06 02:40:55.987385|INFO    |Query         |   | query from 7 107.129.31.5:34943 issued: login with account "serveradmin"(serveradmin)

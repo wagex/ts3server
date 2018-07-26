@@ -1,0 +1,13 @@
+2016-04-01 13:13:10.313682|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2016-04-01 14:09:18.936204|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:6) from 70.168.122.131:64943
+2016-04-01 15:12:57.793923|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:81) from 174.100.62.193:50482
+2016-04-01 16:46:51.721659|INFO    |VirtualServerBase|  1| client connected 'Bruno'(id:735) from 68.51.234.5:64358
+2016-04-01 16:46:54.708286|INFO    |VirtualServerBase|  1| client disconnected 'Bruno'(id:735) reason 'reasonmsg=leaving'
+2016-04-01 18:06:51.353583|INFO    |VirtualServerBase|  1| client connected 'Bruno'(id:735) from 68.51.234.5:63478
+2016-04-01 18:07:14.808206|INFO    |VirtualServerBase|  1| client disconnected 'Bruno'(id:735) reason 'reasonmsg=leaving'
+2016-04-01 18:12:58.086309|INFO    |VirtualServerBase|  1| client connected 'Rodrik'(id:598) from 24.171.29.95:63492
+2016-04-01 18:15:50.678863|INFO    |VirtualServerBase|  1| client connected 'Silly Schutze'(id:706) from 72.211.212.193:40692
+2016-04-01 18:16:11.232281|INFO    |VirtualServerBase|  1| client connected 'Bruno'(id:735) from 68.51.234.5:54870
+2016-04-01 18:50:58.640499|INFO    |VirtualServerBase|  1| client disconnected 'Rodrik'(id:598) reason 'reasonmsg=leaving'
+2016-04-01 18:55:13.461992|INFO    |VirtualServerBase|  1| client connected 'Rodrik'(id:598) from 24.171.29.95:63203
+2016-04-01 18:58:04.023082|INFO    |VirtualServerBase|  1| client disconnected 'Silly Schutze'(id:706) reason 'reasonmsg=leaving'

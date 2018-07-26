@@ -1,0 +1,6 @@
+﻿2018-07-25 22:57:51.797281|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-07-25 22:57:51.798597|WARNING |VirtualServer |1  |--------------------------------------------------------
+2018-07-25 22:57:51.798656|WARNING |VirtualServer |1  |ServerAdmin privilege key created, please use the line below
+2018-07-25 22:57:51.798712|WARNING |VirtualServer |1  |token=wotPXWRwGTuxGwDvyWqZyKVRZDDDXr3IORxScGJ6
+2018-07-25 22:57:51.798862|WARNING |VirtualServer |1  |--------------------------------------------------------
+2018-07-25 22:58:00.059560|INFO    |VirtualServerBase|1  |stopped

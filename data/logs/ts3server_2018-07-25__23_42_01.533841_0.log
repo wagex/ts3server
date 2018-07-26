@@ -1,0 +1,18 @@
+﻿2018-07-25 23:42:01.534008|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.2.0 (2018-05-08 06:11:20)
+2018-07-25 23:42:01.534261|INFO    |ServerLibPriv |   |SystemInformation: Linux 4.9.0-6-amd64 #1 SMP Debian 4.9.88-1+deb9u1 (2018-05-07) x86_64 Binary: 64bit
+2018-07-25 23:42:01.535920|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2018-07-25 23:42:01.536098|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2018-07-25 23:42:01.536580|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2018-07-25 23:42:01.574600|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2018-07-25 23:42:01.575005|INFO    |Accounting    |   |Licensing Information
+2018-07-25 23:42:01.575054|INFO    |Accounting    |   |licensed to       : Anonymous
+2018-07-25 23:42:01.575108|INFO    |Accounting    |   |type              : No License
+2018-07-25 23:42:01.575163|INFO    |Accounting    |   |starting date     : Wed May 31 22:00:00 2017
+2018-07-25 23:42:01.575196|INFO    |Accounting    |   |ending date       : Fri Aug 31 22:00:00 2018
+2018-07-25 23:42:01.575247|INFO    |Accounting    |   |max virtualservers: 1
+2018-07-25 23:42:01.575299|INFO    |Accounting    |   |max slots         : 32
+2018-07-25 23:42:02.653405|INFO    |              |   |Puzzle precompute time: 1023
+2018-07-25 23:42:02.653849|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2018-07-25 23:42:02.677158|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, 
+2018-07-25 23:42:02.677617|INFO    |Query         |   |listening on 0.0.0.0:10011, [::]:10011
+2018-07-25 23:47:57.516969|INFO    |ServerMain    |   |Received signal SIGTERM, shutting down.

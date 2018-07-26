@@ -1,0 +1,10 @@
+2016-02-04 22:20:52.857983|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2016-02-04 22:20:53.453019|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:81) from 174.100.62.193:51509
+2016-02-04 22:20:53.479020|INFO    |VirtualServerBase|  1| client connected 'Rodrik'(id:598) from 24.171.29.95:58994
+2016-02-04 22:20:53.486024|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:54966
+2016-02-04 22:20:53.708037|INFO    |VirtualServerBase|  1| client connected 'Winter'(id:627) from 69.143.206.56:59451
+2016-02-04 22:20:53.794037|INFO    |VirtualServerBase|  1| client connected 'headcrabaregood'(id:633) from 73.253.129.160:55895
+2016-02-04 22:20:54.000049|INFO    |VirtualServerBase|  1| client connected 'Hank'(id:618) from 74.76.214.38:63832
+2016-02-04 22:20:56.480190|INFO    |VirtualServerBase|  1| client connected 'Boomer'(id:628) from 108.47.154.163:61479
+2016-02-04 22:20:58.193289|INFO    |VirtualServerBase|  1| client connected 'ZWortman'(id:637) from 173.88.140.21:56694
+2016-02-04 22:26:28.883283|INFO    |VirtualServerBase|  1| client disconnected 'Hank'(id:618) reason 'reasonmsg=connection lost'

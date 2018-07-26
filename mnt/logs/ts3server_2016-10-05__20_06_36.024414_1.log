@@ -1,0 +1,8 @@
+2016-10-05 20:06:50.384765|INFO    |VirtualServerBase|  1| channel 'Life is Feudal'(id:317) deleted by 'server'(id:0)
+2016-10-05 20:06:50.400390|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2016-10-05 20:06:50.822265|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:6) from 70.168.122.19:59983
+2016-10-05 20:06:51.119140|INFO    |VirtualServerBase|  1| client connected 'Hanz'(id:918) from 69.253.153.232:57113
+2016-10-05 20:06:51.587890|INFO    |VirtualServerBase|  1| client connected 'Skit Rombony'(id:733) from 98.252.66.150:54517
+2016-10-05 20:06:51.619140|INFO    |VirtualServerBase|  1| client connected 'The Black Whale'(id:505) from 73.89.118.117:50684
+2016-10-05 20:06:51.759765|INFO    |VirtualServerBase|  1| client connected 'MsKitty'(id:810) from 184.4.118.96:65185
+2016-10-05 20:06:57.042968|INFO    |VirtualServerBase|  1| client connected 'Jeremy'(id:910) from 173.171.204.217:58552

@@ -1,0 +1,28 @@
+2016-06-06 17:30:49.233414|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2016-06-06 17:30:51.006154|INFO    |VirtualServerBase|  1| client connected 'Skit Rombony'(id:733) from 98.252.66.150:59701
+2016-06-06 17:30:55.615883|INFO    |VirtualServerBase|  1| client connected 'Rodrik'(id:598) from 24.171.29.95:58503
+2016-06-06 17:31:39.178385|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:6) from 70.168.122.131:51061
+2016-06-06 18:01:35.730193|INFO    |VirtualServerBase|  1| client disconnected 'Skit Rombony'(id:733) reason 'reasonmsg=leaving'
+2016-06-06 18:01:43.666348|INFO    |VirtualServerBase|  1| client connected 'Skit Rombony'(id:733) from 98.252.66.150:55044
+2016-06-06 18:17:28.531177|INFO    |VirtualServerBase|  1| client connected 'Logan'(id:780) from 71.192.196.144:63850
+2016-06-06 18:17:32.811291|INFO    |VirtualServerBase|  1| client disconnected 'Logan'(id:780) reason 'reasonmsg=leaving'
+2016-06-06 18:28:16.714355|INFO    |VirtualServerBase|  1| client connected 'PandaMan413'(id:755) from 71.192.135.99:55004
+2016-06-06 18:30:32.450055|INFO    |VirtualServerBase|  1| client disconnected 'PandaMan413'(id:755) reason 'reasonmsg=leaving'
+2016-06-06 18:40:56.469789|INFO    |VirtualServerBase|  1| client connected 'ILikeBacon'(id:756) from 75.68.9.166:61065
+2016-06-06 18:41:13.485645|INFO    |VirtualServerBase|  1| client connected 'Pedobear'(id:505) from 73.89.118.117:61350
+2016-06-06 18:41:13.542481|INFO    |VirtualServerBase|  1| client connected 'LoneHero'(id:623) from 74.130.144.222:50366
+2016-06-06 18:44:09.496700|INFO    |VirtualServerBase|  1| client connected 'headcrabaregood'(id:633) from 73.253.129.160:49442
+2016-06-06 19:31:36.072366|INFO    |VirtualServerBase|  1| client connected 'Hank(Karl Arnet)'(id:648) from 74.76.179.204:63285
+2016-06-06 19:34:54.186237|INFO    |VirtualServerBase|  1| client connected 'Strasse'(id:802) from 24.222.209.173:50309
+2016-06-06 19:46:02.207355|INFO    |VirtualServerBase|  1| client connected 'Bruno'(id:735) from 68.51.234.5:49884
+2016-06-06 20:07:08.064744|INFO    |VirtualServerBase|  1| client disconnected 'ILikeBacon'(id:756) reason 'reasonmsg=leaving'
+2016-06-06 20:07:20.992650|INFO    |VirtualServerBase|  1| client connected 'ILikeBacon'(id:756) from 75.68.9.166:61969
+2016-06-06 20:11:01.257907|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.246.15:54322
+2016-06-06 20:11:09.642149|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=leaving'
+2016-06-06 20:13:57.191433|INFO    |VirtualServerBase|  1| client disconnected 'Strasse'(id:802) reason 'reasonmsg=leaving'
+2016-06-06 20:17:26.581068|INFO    |VirtualServerBase|  1| client connected 'Silly Schutze'(id:706) from 72.211.212.193:43356
+2016-06-06 20:17:46.731498|INFO    |VirtualServerBase|  1| client disconnected 'Silly Schutze'(id:706) reason 'reasonmsg=leaving'
+2016-06-06 20:18:50.863535|INFO    |VirtualServerBase|  1| client disconnected 'ILikeBacon'(id:756) reason 'reasonmsg=connection lost'
+2016-06-06 20:18:57.103572|INFO    |VirtualServerBase|  1| client connected 'ILikeBacon'(id:756) from 75.68.9.166:62033
+2016-06-06 20:24:47.268871|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.246.15:55021
+2016-06-06 20:24:48.091210|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:54658

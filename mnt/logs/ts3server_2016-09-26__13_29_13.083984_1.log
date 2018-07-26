@@ -1,0 +1,2 @@
+2016-09-26 13:29:17.523437|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2016-09-26 13:29:20.347656|INFO    |VirtualServerBase|  1| client connected 'Ross'(id:397) from 107.129.31.5:51981

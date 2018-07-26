@@ -1,0 +1,1475 @@
+2017-12-27 19:26:43.086132|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2017-12-27 19:32:55.710156|INFO    |VirtualServerBase|  1| client connected 'ross'(id:1252) from 192.168.0.105:59411
+2017-12-27 19:56:25.678906|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:1252) reason 'reasonmsg=leaving'
+2017-12-27 19:57:03.710156|INFO    |VirtualServerBase|  1| client connected 'ross'(id:1252) from 192.168.0.1:1899
+2017-12-27 20:04:33.491406|INFO    |VirtualServerBase|  1| client connected 'EncryptedGamer'(id:1289) from 173.171.195.162:59969
+2017-12-27 20:05:42.866406|INFO    |VirtualServerBase|  1| client connected 'Ursus1'(id:949) from 76.189.40.156:63351
+2017-12-27 22:29:38.928906|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:50114
+2017-12-28 05:27:56.866406|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:56288
+2017-12-28 05:52:50.178906|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:49788
+2017-12-28 06:33:34.710156|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2017-12-28 09:01:51.772656|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.166.34.49:51237
+2017-12-28 09:01:54.991406|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2017-12-28 17:36:16.772656|INFO    |VirtualServerBase|  1| client disconnected 'EncryptedGamer'(id:1289) reason 'reasonmsg=connection lost'
+2017-12-28 17:36:16.772656|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2017-12-28 17:36:16.772656|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=connection lost'
+2017-12-28 17:36:16.772656|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=connection lost'
+2017-12-28 17:36:17.866406|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:1252) reason 'reasonmsg=connection lost'
+2017-12-28 17:36:43.616406|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63351
+2017-12-28 17:36:44.053906|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:56288
+2017-12-28 17:36:46.147656|INFO    |VirtualServerBase|  1| client connected 'EncryptedGamer'(id:1289) from 173.171.195.162:59969
+2017-12-28 17:36:46.303906|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:50114
+2017-12-28 17:36:50.303906|INFO    |VirtualServerBase|  1| client connected 'ross'(id:1252) from 192.168.0.1:12563
+2017-12-28 18:55:47.710156|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2017-12-28 18:55:47.710156|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=connection lost'
+2017-12-28 18:55:47.710156|INFO    |VirtualServerBase|  1| client disconnected 'EncryptedGamer'(id:1289) reason 'reasonmsg=connection lost'
+2017-12-28 18:55:47.710156|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=connection lost'
+2017-12-28 18:55:47.710156|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:1252) reason 'reasonmsg=connection lost'
+2017-12-28 18:56:14.085156|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63351
+2017-12-28 18:56:14.413281|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:56288
+2017-12-28 18:56:14.772656|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:50114
+2017-12-28 18:56:47.866406|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2017-12-28 18:56:47.866406|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=connection lost'
+2017-12-28 18:56:47.866406|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=connection lost'
+2017-12-28 18:57:13.725781|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:56288
+2017-12-28 18:57:13.913281|INFO    |VirtualServerBase|  1| client connected 'EncryptedGamer'(id:1289) from 173.171.195.162:59969
+2017-12-28 18:57:14.085156|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:50114
+2017-12-28 18:57:38.835156|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=connection lost'
+2017-12-28 18:57:39.163281|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=connection lost'
+2017-12-28 18:57:39.163281|INFO    |VirtualServerBase|  1| client disconnected 'EncryptedGamer'(id:1289) reason 'reasonmsg=connection lost'
+2017-12-28 18:58:10.803906|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:56288
+2017-12-28 18:58:10.850781|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:50114
+2017-12-28 18:58:10.928906|INFO    |VirtualServerBase|  1| client connected 'EncryptedGamer'(id:1289) from 173.171.195.162:59969
+2017-12-28 18:58:12.710156|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63351
+2017-12-28 18:58:21.194531|INFO    |VirtualServerBase|  1| client connected 'ross'(id:1252) from 192.168.0.1:62051
+2017-12-28 18:59:01.303906|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=connection lost'
+2017-12-28 18:59:01.303906|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=connection lost'
+2017-12-28 18:59:01.303906|INFO    |VirtualServerBase|  1| client disconnected 'EncryptedGamer'(id:1289) reason 'reasonmsg=connection lost'
+2017-12-28 18:59:01.303906|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2017-12-28 18:59:01.303906|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:1252) reason 'reasonmsg=connection lost'
+2017-12-28 19:01:18.803906|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63351
+2017-12-28 19:01:19.600781|INFO    |VirtualServerBase|  1| client connected 'EncryptedGamer'(id:1289) from 173.171.195.162:59969
+2017-12-28 19:01:20.991406|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:56288
+2017-12-28 19:01:21.944531|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:50114
+2017-12-28 19:01:30.538281|INFO    |VirtualServerBase|  1| client connected 'ross'(id:1252) from 192.168.0.1:35798
+2017-12-28 19:03:16.147656|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2017-12-28 19:03:16.147656|INFO    |VirtualServerBase|  1| client disconnected 'EncryptedGamer'(id:1289) reason 'reasonmsg=connection lost'
+2017-12-28 19:03:16.147656|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=connection lost'
+2017-12-28 19:03:16.147656|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=connection lost'
+2017-12-28 19:03:17.241406|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:1252) reason 'reasonmsg=connection lost'
+2017-12-28 19:03:41.663281|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:56288
+2017-12-28 19:03:42.210156|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:50114
+2017-12-28 19:03:42.428906|INFO    |VirtualServerBase|  1| client connected 'EncryptedGamer'(id:1289) from 173.171.195.162:59969
+2017-12-28 19:03:43.507031|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63351
+2017-12-28 19:03:47.913281|INFO    |VirtualServerBase|  1| client connected 'ross'(id:1252) from 192.168.0.1:19392
+2017-12-28 19:05:28.491406|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=connection lost'
+2017-12-28 19:05:28.491406|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=connection lost'
+2017-12-28 19:05:28.491406|INFO    |VirtualServerBase|  1| client disconnected 'EncryptedGamer'(id:1289) reason 'reasonmsg=connection lost'
+2017-12-28 19:05:28.491406|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2017-12-28 19:05:28.491406|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:1252) reason 'reasonmsg=connection lost'
+2017-12-28 19:05:54.491406|INFO    |VirtualServerBase|  1| client connected 'EncryptedGamer'(id:1289) from 173.171.195.162:59969
+2017-12-28 19:05:54.585156|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:56288
+2017-12-28 19:05:54.803906|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:50114
+2017-12-28 19:05:56.319531|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63351
+2017-12-28 19:06:03.835156|INFO    |VirtualServerBase|  1| client connected 'ross'(id:1252) from 192.168.0.1:40726
+2017-12-28 19:13:50.522656|INFO    |VirtualServerBase|  1| client disconnected 'EncryptedGamer'(id:1289) reason 'reasonmsg=connection lost'
+2017-12-28 19:13:50.522656|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=connection lost'
+2017-12-28 19:13:50.522656|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=connection lost'
+2017-12-28 19:13:50.522656|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2017-12-28 19:13:50.522656|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:1252) reason 'reasonmsg=connection lost'
+2017-12-28 19:20:58.132031|INFO    |VirtualServerBase|  1| client connected 'EncryptedGamer'(id:1289) from 173.171.195.162:59969
+2017-12-28 19:20:58.522656|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:50114
+2017-12-28 19:20:58.819531|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63351
+2017-12-28 19:21:02.366406|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:56288
+2017-12-28 19:21:09.897656|INFO    |VirtualServerBase|  1| client connected 'ross'(id:1252) from 192.168.0.1:43642
+2017-12-28 19:24:39.116406|INFO    |VirtualServerBase|  1| client disconnected 'EncryptedGamer'(id:1289) reason 'reasonmsg=connection lost'
+2017-12-28 19:24:39.116406|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=connection lost'
+2017-12-28 19:24:39.116406|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2017-12-28 19:24:39.116406|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=connection lost'
+2017-12-28 19:24:39.116406|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:1252) reason 'reasonmsg=connection lost'
+2017-12-28 19:40:59.053906|INFO    |VirtualServerBase|  1| client connected 'ross'(id:1252) from 70.168.123.8:60869
+2017-12-28 20:00:45.178906|INFO    |VirtualServerBase|  1| client connected 'EncryptedGamer'(id:1289) from 173.171.195.162:59969
+2017-12-28 20:15:32.147656|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:1252) reason 'reasonmsg=leaving'
+2017-12-28 20:15:52.225781|INFO    |VirtualServerBase|  1| client connected 'ross'(id:1252) from 70.168.123.8:60869
+2017-12-28 20:31:53.819531|INFO    |VirtualServerBase|  1| client disconnected 'EncryptedGamer'(id:1289) reason 'reasonmsg=connection lost'
+2017-12-28 20:31:58.194531|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:1252) reason 'reasonmsg=connection lost'
+2017-12-28 20:33:55.866406|INFO    |VirtualServerBase|  1| client connected 'EncryptedGamer'(id:1289) from 173.171.195.162:59969
+2017-12-28 20:33:56.069531|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63351
+2017-12-28 20:33:58.600781|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:50114
+2017-12-28 20:36:31.632031|INFO    |VirtualServerBase|  1| client disconnected 'EncryptedGamer'(id:1289) reason 'reasonmsg=connection lost'
+2017-12-28 20:36:31.632031|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2017-12-28 20:36:31.632031|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=connection lost'
+2017-12-28 20:38:52.678906|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63351
+2017-12-28 20:38:53.819531|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:50114
+2017-12-28 20:39:02.835156|INFO    |VirtualServerBase|  1| client connected 'EncryptedGamer'(id:1289) from 173.171.195.162:59969
+2017-12-28 20:41:06.163281|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2017-12-28 20:41:06.163281|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=connection lost'
+2017-12-28 20:41:06.163281|INFO    |VirtualServerBase|  1| client disconnected 'EncryptedGamer'(id:1289) reason 'reasonmsg=connection lost'
+2017-12-28 21:08:31.632031|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63351
+2017-12-28 21:08:32.303906|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:50114
+2017-12-28 21:08:32.382031|INFO    |VirtualServerBase|  1| client connected 'EncryptedGamer'(id:1289) from 173.171.195.162:59969
+2017-12-28 21:10:20.538281|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2017-12-28 21:10:20.538281|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=connection lost'
+2017-12-28 21:10:20.538281|INFO    |VirtualServerBase|  1| client disconnected 'EncryptedGamer'(id:1289) reason 'reasonmsg=connection lost'
+2017-12-28 21:12:18.319531|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:50114
+2017-12-28 21:12:21.553906|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63351
+2017-12-28 21:12:24.288281|INFO    |VirtualServerBase|  1| client connected 'EncryptedGamer'(id:1289) from 173.171.195.162:59969
+2017-12-28 21:14:20.069531|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=connection lost'
+2017-12-28 21:14:20.069531|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2017-12-28 21:14:20.069531|INFO    |VirtualServerBase|  1| client disconnected 'EncryptedGamer'(id:1289) reason 'reasonmsg=connection lost'
+2017-12-28 21:15:19.366406|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:50114
+2017-12-28 21:15:21.866406|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63351
+2017-12-28 21:15:26.335156|INFO    |VirtualServerBase|  1| client connected 'EncryptedGamer'(id:1289) from 173.171.195.162:59969
+2017-12-28 21:37:07.241406|INFO    |VirtualServerBase|  1| client connected 'ross'(id:1252) from 192.168.0.1:34845
+2017-12-28 21:37:15.178906|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:1252) reason 'reasonmsg=leaving'
+2017-12-28 21:39:44.225781|INFO    |VirtualServerBase|  1| client connected 'ross'(id:1252) from 192.168.0.1:47826
+2017-12-28 21:58:38.960156|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:1252) reason 'reasonmsg=leaving'
+2017-12-28 21:58:50.772656|INFO    |VirtualServerBase|  1| client connected 'ross'(id:1252) from 192.168.0.1:47826
+2017-12-28 23:54:12.725781|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:61119
+2017-12-29 00:10:07.022656|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.166.34.49:59185
+2017-12-29 00:10:12.178906|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2017-12-29 03:06:30.366406|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2017-12-29 04:41:03.569531|INFO    |VirtualServerBase|  1| client connected 'ross1'(id:492) from 107.129.31.5:55008
+2017-12-29 04:41:27.975781|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:1252) reason 'invokerid=6 invokername=ross1 invokeruid=4PpM2Fpgl3QCCTXwe0zTrOAHgiQ= reasonmsg=ur black'
+2017-12-29 08:44:16.257031|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=leaving'
+2017-12-29 08:44:44.038281|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=leaving'
+2017-12-29 17:05:25.694531|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=connection lost'
+2017-12-29 18:54:56.553906|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:5753
+2017-12-29 21:07:51.663281|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.166.34.49:50701
+2017-12-29 21:07:54.553906|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2017-12-29 21:19:43.038281|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:52732
+2017-12-29 22:18:29.772656|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:56206
+2017-12-30 00:52:04.397656|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:54983
+2017-12-30 03:15:05.100781|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:51682
+2017-12-30 04:53:09.303906|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.166.34.49:59692
+2017-12-30 05:22:08.507031|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=connection lost'
+2017-12-30 05:22:15.178906|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2017-12-30 07:18:54.303906|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=leaving'
+2017-12-30 07:19:56.694531|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:62492
+2017-12-30 08:26:00.835156|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=leaving'
+2017-12-30 23:47:40.007031|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=connection lost'
+2017-12-31 00:19:31.975781|INFO    |VirtualServerBase|  1| client connected 'Winter'(id:1302) from 69.143.206.56:50427
+2017-12-31 00:21:17.069531|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.166.34.49:53262
+2017-12-31 00:53:54.616406|INFO    |VirtualServerBase|  1| client disconnected 'Winter'(id:1302) reason 'reasonmsg=Community Wide Banned'
+2017-12-31 02:09:37.053906|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:22431
+2017-12-31 04:54:31.053906|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2017-12-31 07:25:36.414375|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2017-12-31 07:26:04.476875|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:56206
+2017-12-31 14:04:54.648750|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.166.34.49:61936
+2017-12-31 19:01:34.695625|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2017-12-31 19:37:23.023750|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:60594
+2017-12-31 20:39:13.070625|INFO    |VirtualServerBase|  1| client connected 'dickballsmcgee'(id:1303) from 72.209.177.144:49581
+2017-12-31 20:39:45.914375|INFO    |VirtualServer |  1| client 'dickballsmcgee'(id:1303) was added to channelgroup 'Voice'(id:7) by client 'Clint'(id:757) in channel 'pubg'(id:365)
+2017-12-31 20:59:50.305000|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2017-12-31 21:33:52.398750|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:55841
+2017-12-31 21:58:45.320625|INFO    |VirtualServerBase|  1| client disconnected 'dickballsmcgee'(id:1303) reason 'reasonmsg=leaving'
+2018-01-01 01:55:28.289375|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=connection lost'
+2018-01-01 04:13:24.383125|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:40271
+2018-01-01 05:04:42.211250|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.166.34.49:58317
+2018-01-01 05:04:44.992500|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-01-01 06:32:32.570625|INFO    |VirtualServerBase|  1| client connected 'Nyne'(id:1152) from 162.253.233.220:49967
+2018-01-01 06:32:42.305000|INFO    |VirtualServerBase|  1| client disconnected 'Nyne'(id:1152) reason 'reasonmsg=leaving'
+2018-01-01 08:03:04.726875|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.166.34.49:56933
+2018-01-01 09:46:22.539375|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=leaving'
+2018-01-01 09:46:23.961250|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-01-01 10:51:30.601875|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=leaving'
+2018-01-01 11:34:29.445625|INFO    |VirtualServerBase|  1| client connected 'xRazz'(id:1304) from 99.51.161.45:51254
+2018-01-01 12:02:56.351875|INFO    |VirtualServerBase|  1| client disconnected 'xRazz'(id:1304) reason 'reasonmsg=leaving'
+2018-01-01 12:15:58.289375|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-01-01 20:04:49.773750|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:2473
+2018-01-01 20:43:28.820625|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:54975
+2018-01-01 20:44:17.648750|INFO    |VirtualServerBase|  1| channel 'Tibia'(id:128) edited by 'ross'(id:492)
+2018-01-01 20:44:17.648750|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-1506950828) was added by 'ross'(id:492) to channel 'Tibia'(id:128)
+2018-01-01 20:44:17.664375|INFO    |VirtualServerBase|  1| channel 'Tibia'(id:128) edited by 'ross'(id:492)
+2018-01-01 21:16:23.758125|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:50492
+2018-01-02 01:38:36.570625|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-01-02 02:25:52.851875|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=leaving'
+2018-01-02 09:12:32.055000|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:56713
+2018-01-02 10:13:12.039375|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-01-02 10:59:42.117500|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.166.34.49:62974
+2018-01-02 10:59:47.336250|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-01-02 18:10:14.100898|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.166.34.49:61413
+2018-01-02 18:51:09.835273|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-01-03 00:15:08.038398|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:49504
+2018-01-03 00:36:04.022773|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:50147
+2018-01-03 06:18:06.085273|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-01-03 10:27:21.929023|INFO    |VirtualServerBase|  1| client disconnected 'EncryptedGamer'(id:1289) reason 'reasonmsg=connection lost'
+2018-01-04 03:55:53.335273|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:33018
+2018-01-04 03:59:09.179023|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-01-04 05:06:48.897773|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-01-04 20:26:36.929023|INFO    |VirtualServerBase|  1| client connected 'Boomer'(id:1305) from 96.41.35.179:51888
+2018-01-04 20:27:50.554023|INFO    |VirtualServerBase|  1| client disconnected 'Boomer'(id:1305) reason 'reasonmsg=leaving'
+2018-01-04 20:28:00.725898|INFO    |VirtualServerBase|  1| client connected 'Boomer'(id:1305) from 96.41.35.179:51888
+2018-01-04 20:30:46.944648|INFO    |VirtualServerBase|  1| client disconnected 'Boomer'(id:1305) reason 'reasonmsg=leaving'
+2018-01-04 22:00:47.960273|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63232
+2018-01-05 04:47:52.132148|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.166.34.49:62298
+2018-01-05 04:47:57.882148|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-01-05 06:13:40.397773|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-01-05 06:14:18.663398|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63232
+2018-01-05 16:58:47.022773|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:51003
+2018-01-05 16:58:51.038398|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-01-05 23:37:19.991523|INFO    |VirtualServerBase|  1| client connected 'Boomer'(id:1305) from 96.41.35.179:55264
+2018-01-05 23:37:28.788398|INFO    |VirtualServerBase|  1| client disconnected 'Boomer'(id:1305) reason 'reasonmsg=leaving'
+2018-01-06 00:14:42.835273|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.166.34.49:58834
+2018-01-06 00:43:49.054023|INFO    |VirtualServer |  1| permission 'b_client_is_priority_speaker'(id:177) with values (value:1) was added by 'Clint'(id:757) for client (id:1249) and channel 'PUBG'(id:354)
+2018-01-06 00:46:06.835273|INFO    |VirtualServer |  1| permission 'b_client_is_priority_speaker'(id:177) was deleted by 'eXcuse'(id:1249) for client (id:1249) and channel 'PUBG'(id:354)
+2018-01-06 00:46:08.304023|INFO    |VirtualServer |  1| permission 'b_client_is_priority_speaker'(id:177) with values (value:1) was added by 'eXcuse'(id:1249) for client (id:1249) and channel 'PUBG'(id:354)
+2018-01-06 00:46:39.819648|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=leaving'
+2018-01-06 00:46:49.179023|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:50492
+2018-01-06 00:50:08.835273|INFO    |VirtualServer |  1| permission 'b_client_is_priority_speaker'(id:177) was deleted by 'eXcuse'(id:1249) for client (id:1249) and channel 'PUBG'(id:354)
+2018-01-06 00:57:22.069648|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=leaving'
+2018-01-06 00:57:36.054023|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:57311
+2018-01-06 00:58:11.913398|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=leaving'
+2018-01-06 00:58:28.975898|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:52038
+2018-01-06 00:59:51.600898|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=leaving'
+2018-01-06 01:00:19.819648|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:51249
+2018-01-06 01:23:46.632148|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=leaving'
+2018-01-06 01:23:49.913398|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=leaving'
+2018-01-06 01:24:01.382148|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:57247
+2018-01-06 01:24:01.772773|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:55773
+2018-01-06 02:08:45.725898|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:62322
+2018-01-06 04:36:55.522773|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:42408
+2018-01-06 04:42:16.694648|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=leaving'
+2018-01-06 04:44:00.304023|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:52651
+2018-01-06 08:08:15.210273|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=connection lost'
+2018-01-06 08:09:10.272773|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:31848
+2018-01-06 08:41:01.147773|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-01-06 08:41:35.991523|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=leaving'
+2018-01-06 09:13:29.585273|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-01-06 10:09:32.257148|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=connection lost'
+2018-01-06 10:09:34.116523|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-01-06 10:09:34.116523|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=connection lost'
+2018-01-07 22:30:46.929023|INFO    |VirtualServerBase|  1| client connected 'ross'(id:1252) from 192.168.0.1:34639
+2018-01-07 22:31:06.460273|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:1292) from 107.129.31.5:52022
+2018-01-07 22:31:17.210273|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:1292) reason 'reasonmsg=leaving'
+2018-01-07 22:31:18.757148|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:1252) reason 'reasonmsg=leaving'
+2018-01-08 01:54:28.396000|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:52721
+2018-01-08 02:46:32.474125|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:59100
+2018-01-08 05:13:04.552250|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-01-08 05:13:15.521000|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-01-08 20:48:41.052250|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:60476
+2018-01-08 21:20:51.896000|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-01-08 21:35:57.146000|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:51176
+2018-01-08 23:09:42.224125|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:65053
+2018-01-09 00:04:31.755375|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-01-09 01:34:19.708500|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:43747
+2018-01-09 01:42:17.974125|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-01-09 02:59:08.942875|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:59416
+2018-01-09 02:59:18.333500|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-01-09 03:51:09.427250|INFO    |VirtualServerBase|  1| client connected 'Nyne'(id:1152) from 162.253.233.220:53090
+2018-01-09 03:51:22.552250|INFO    |VirtualServerBase|  1| client disconnected 'Nyne'(id:1152) reason 'reasonmsg=leaving'
+2018-01-09 07:22:30.864750|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:51257
+2018-01-09 07:22:36.849125|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-01-09 14:10:48.099125|INFO    |VirtualServer |  1| query client connected 'serveradmin from 192.168.0.1:17944'(id:1)
+2018-01-09 18:16:10.570804|INFO    |VirtualServer |  1| client (id:1249) was added to servergroup 'super duper admin'(id:9) by client 'serveradmin from 192.168.0.1:17944'(id:1)
+2018-01-09 18:16:30.867679|INFO    |VirtualServer |  1| client (id:1292) was added to servergroup 'Admin Server Query'(id:2) by client 'serveradmin from 192.168.0.1:17944'(id:1)
+2018-01-09 18:16:43.398929|INFO    |VirtualServer |  1| client (id:1292) was removed from servergroup 'Admin Server Query'(id:2) by client 'serveradmin from 192.168.0.1:17944'(id:1)
+2018-01-09 18:16:51.352054|INFO    |VirtualServer |  1| client (id:757) was added to servergroup 'super duper admin'(id:9) by client 'serveradmin from 192.168.0.1:17944'(id:1)
+2018-01-09 21:03:35.180179|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:60816
+2018-01-09 22:10:16.430179|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:61345
+2018-01-10 03:39:47.133304|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:58720
+2018-01-10 05:38:27.492679|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=leaving'
+2018-01-10 05:38:31.242679|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-01-10 23:19:19.133304|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=leaving'
+2018-01-10 23:19:46.320804|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:58688
+2018-01-10 23:36:33.180179|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:52626
+2018-01-11 02:37:58.570804|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=leaving'
+2018-01-11 23:21:26.742679|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:53193
+2018-01-12 03:43:32.820804|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:6699
+2018-01-12 03:49:53.336429|INFO    |VirtualServerBase|  1| client connected 'Rudy'(id:100) from 72.198.73.157:62822
+2018-01-12 06:04:30.352054|INFO    |VirtualServerBase|  1| client disconnected 'Rudy'(id:100) reason 'reasonmsg=leaving'
+2018-01-12 06:08:38.336429|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=leaving'
+2018-01-12 06:44:48.555179|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-01-12 14:46:16.164554|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=connection lost'
+2018-01-12 14:46:16.164554|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-01-12 14:49:12.508304|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:53193
+2018-01-12 14:49:16.961429|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:60816
+2018-01-13 00:06:16.586429|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:50949
+2018-01-13 00:28:04.461429|INFO    |VirtualServerBase|  1| client connected 'Rudy'(id:100) from 72.198.73.157:58725
+2018-01-13 00:28:44.914554|INFO    |VirtualServerBase|  1| client disconnected 'Rudy'(id:100) reason 'reasonmsg=leaving'
+2018-01-13 00:32:28.836429|INFO    |VirtualServerBase|  1| client connected 'Rudy'(id:100) from 72.198.73.157:65446
+2018-01-13 00:53:41.148929|INFO    |VirtualServerBase|  1| client disconnected 'Rudy'(id:100) reason 'reasonmsg=leaving'
+2018-01-13 01:17:25.133304|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=leaving'
+2018-01-13 01:17:28.664554|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:53193
+2018-01-13 01:18:55.602054|INFO    |VirtualServerBase|  1| client connected 'Daniel'(id:762) from 68.12.171.114:63392
+2018-01-13 03:42:34.430179|WARNING |ChanClients   |  1| Your system time is broken, TeamSpeak might behave unexpectedly
+2018-01-13 03:42:34.430179|WARNING |ChanClients   |  1| Your system time is broken, TeamSpeak might behave unexpectedly
+2018-01-13 03:42:34.430179|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:16789
+2018-01-13 04:05:29.039554|INFO    |VirtualServerBase|  1| client connected 'AVT8R'(id:1299) from 173.190.222.130:59406
+2018-01-13 04:24:52.398929|INFO    |VirtualServerBase|  1| client disconnected 'AVT8R'(id:1299) reason 'reasonmsg=leaving'
+2018-01-13 04:26:29.148929|INFO    |VirtualServerBase|  1| client connected 'AVT8R'(id:1299) from 173.190.222.130:53922
+2018-01-13 05:08:39.898929|INFO    |VirtualServerBase|  1| client disconnected 'AVT8R'(id:1299) reason 'reasonmsg=leaving'
+2018-01-13 07:06:27.242679|INFO    |VirtualServerBase|  1| channel 'pubg'(id:365) deleted by 'Clint'(id:757)
+2018-01-13 08:52:10.539554|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=leaving'
+2018-01-13 08:52:12.648929|INFO    |VirtualServerBase|  1| client disconnected 'Daniel'(id:762) reason 'reasonmsg=leaving'
+2018-01-13 08:52:13.008304|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=leaving'
+2018-01-13 08:52:15.961429|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-01-13 20:11:30.648929|INFO    |VirtualServerBase|  1| client connected 'Daniel'(id:762) from 68.12.171.114:52156
+2018-01-13 20:16:54.273929|INFO    |VirtualServerBase|  1| client disconnected 'Daniel'(id:762) reason 'reasonmsg=leaving'
+2018-01-13 20:17:34.945804|INFO    |VirtualServerBase|  1| client connected 'Daniel'(id:762) from 68.12.171.114:52156
+2018-01-13 21:15:49.805179|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:64395
+2018-01-13 22:12:02.102054|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-01-14 00:59:13.430179|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:61163
+2018-01-14 01:30:26.836429|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=leaving'
+2018-01-14 01:31:33.102054|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:52200
+2018-01-14 02:37:12.367679|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:50087
+2018-01-14 04:46:54.258304|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:35407
+2018-01-14 04:47:27.930179|INFO    |VirtualServerBase|  1| client connected 'AVT8R'(id:1213) from 72.192.86.45:57412
+2018-01-14 04:51:09.742679|INFO    |VirtualServerBase|  1| client disconnected 'AVT8R'(id:1213) reason 'reasonmsg=leaving'
+2018-01-14 04:52:00.805179|INFO    |VirtualServerBase|  1| client connected 'AVT8R'(id:1213) from 72.192.86.45:63681
+2018-01-14 07:57:31.704625|INFO    |VirtualServerBase|  1| client disconnected 'AVT8R'(id:1213) reason 'reasonmsg=leaving'
+2018-01-14 08:12:41.626500|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-01-14 08:13:39.204625|INFO    |VirtualServerBase|  1| client disconnected 'Daniel'(id:762) reason 'reasonmsg=leaving'
+2018-01-14 14:40:29.423375|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=connection lost'
+2018-01-14 14:40:30.517125|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=connection lost'
+2018-01-14 17:24:32.595250|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:63865
+2018-01-14 17:25:36.829625|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:57338
+2018-01-14 20:04:42.595250|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:58963
+2018-01-15 01:07:41.189000|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-01-15 01:08:41.423375|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:50087
+2018-01-15 02:46:28.782750|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-01-15 03:12:17.282750|INFO    |VirtualServerBase|  1| client connected 'Daniel'(id:762) from 68.12.171.114:59641
+2018-01-15 04:43:38.767125|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-01-15 20:18:06.079625|INFO    |VirtualServerBase|  1| client connected 'Hanz'(id:1242) from 76.124.21.244:59483
+2018-01-15 20:18:22.626500|INFO    |VirtualServerBase|  1| client disconnected 'Hanz'(id:1242) reason 'reasonmsg=leaving'
+2018-01-15 20:25:53.689000|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=leaving'
+2018-01-15 20:28:03.282750|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:57338
+2018-01-15 21:09:45.329625|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=leaving'
+2018-01-15 21:09:57.360875|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:53662
+2018-01-16 00:59:21.110875|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:60123
+2018-01-16 02:49:12.126500|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=leaving'
+2018-01-16 06:31:35.579625|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=leaving'
+2018-01-16 14:27:48.204625|INFO    |VirtualServerBase|  1| query client disconnected 'serveradmin from 192.168.0.1:17944'(id:1) reason 'reasonmsg=disconnecting'
+2018-01-16 16:35:02.251500|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:50087
+2018-01-16 19:39:14.079625|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-01-16 19:39:33.392125|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:50087
+2018-01-16 21:58:25.345250|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:62922
+2018-01-16 22:13:45.392125|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-01-16 23:13:49.610875|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:56290
+2018-01-16 23:28:27.626500|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:50087
+2018-01-17 01:00:24.517125|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:53453
+2018-01-17 03:04:40.064000|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-01-17 04:19:43.454625|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:50087
+2018-01-17 04:19:55.610875|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-01-17 04:33:32.095250|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:1292) from 107.129.31.5:26026
+2018-01-17 04:33:37.220250|INFO    |VirtualServerBase|  1| client connected 'TeamSpeakUser'(id:1298) from 68.12.111.106:57073
+2018-01-17 04:33:44.079625|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:1292) reason 'reasonmsg=leaving'
+2018-01-17 05:50:01.470250|INFO    |VirtualServerBase|  1| client disconnected 'James'(id:1298) reason 'reasonmsg=leaving'
+2018-01-17 06:22:47.048375|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-01-17 12:43:54.610875|INFO    |VirtualServerBase|  1| client connected 'Clint1'(id:757) from 108.237.7.187:53453
+2018-01-17 12:43:58.235875|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=connection lost'
+2018-01-17 18:13:57.298375|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=connection lost'
+2018-01-17 18:13:58.392125|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=connection lost'
+2018-01-17 18:13:58.392125|INFO    |VirtualServerBase|  1| client disconnected 'Clint1'(id:757) reason 'reasonmsg=connection lost'
+2018-01-17 18:13:58.392125|INFO    |VirtualServerBase|  1| client disconnected 'Daniel'(id:762) reason 'reasonmsg=connection lost'
+2018-01-17 18:20:57.876500|INFO    |VirtualServerBase|  1| client connected 'Clint1'(id:757) from 108.237.7.187:53453
+2018-01-17 18:20:58.548375|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:62922
+2018-01-17 18:21:01.095250|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:60123
+2018-01-17 18:21:02.610875|INFO    |VirtualServerBase|  1| client connected 'Daniel'(id:762) from 68.12.171.114:59641
+2018-01-17 18:22:37.923375|INFO    |VirtualServerBase|  1| client disconnected 'Clint1'(id:757) reason 'reasonmsg=connection lost'
+2018-01-17 18:22:37.923375|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=connection lost'
+2018-01-17 18:22:37.923375|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=connection lost'
+2018-01-17 18:22:37.923375|INFO    |VirtualServerBase|  1| client disconnected 'Daniel'(id:762) reason 'reasonmsg=connection lost'
+2018-01-17 18:23:19.485875|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:62922
+2018-01-17 18:23:19.751500|INFO    |VirtualServerBase|  1| client connected 'Daniel'(id:762) from 68.12.171.114:59641
+2018-01-17 18:23:20.142125|INFO    |VirtualServerBase|  1| client connected 'Clint1'(id:757) from 108.237.7.187:53453
+2018-01-17 18:23:20.423375|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:60123
+2018-01-17 18:23:53.376500|INFO    |VirtualServerBase|  1| client disconnected 'Daniel'(id:762) reason 'reasonmsg=leaving'
+2018-01-17 19:59:27.892125|INFO    |VirtualServerBase|  1| client connected 'ross1'(id:1252) from 192.168.0.1:25490
+2018-01-18 00:41:56.517125|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:58858
+2018-01-18 02:56:58.751500|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=leaving'
+2018-01-18 04:30:19.954625|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-01-18 05:17:08.329625|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-01-18 05:21:11.407750|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=leaving'
+2018-01-18 16:42:32.595250|INFO    |VirtualServerBase|  1| client disconnected 'ross1'(id:1252) reason 'reasonmsg=leaving'
+2018-01-18 16:42:34.689000|INFO    |VirtualServerBase|  1| client connected 'ross'(id:1252) from 192.168.0.1:25490
+2018-01-18 18:04:59.767125|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:1252) reason 'reasonmsg=connection lost'
+2018-01-18 18:05:40.298375|INFO    |VirtualServerBase|  1| client connected 'ross'(id:1252) from 192.168.0.1:45845
+2018-01-19 13:45:12.501500|INFO    |VirtualServerBase|  1| client connected 'ross1'(id:1252) from 192.168.0.1:45845
+2018-01-19 13:45:26.642125|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:1252) reason 'reasonmsg=connection lost'
+2018-01-20 01:17:29.843296|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:1292) from 107.129.31.5:23292
+2018-01-20 01:17:32.570836|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:49818
+2018-01-20 01:17:45.040562|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=leaving'
+2018-01-20 01:18:03.115757|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:1292) reason 'reasonmsg=leaving'
+2018-01-20 01:18:05.460484|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:54926
+2018-01-20 01:22:28.291539|INFO    |VirtualServerBase|  1| client connected 'ross'(id:1300) from 107.129.31.5:2680
+2018-01-20 01:22:35.494664|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:1300) reason 'reasonmsg=....TS3 Android....'
+2018-01-20 01:42:14.916539|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:1292) from 107.129.31.5:37745
+2018-01-20 02:30:17.962437|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:63751
+2018-01-20 02:38:40.870640|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:58215
+2018-01-20 02:38:55.312046|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-01-20 03:34:34.691929|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:24109
+2018-01-20 06:12:53.289586|INFO    |VirtualServerBase|  1| client connected 'Fadian'(id:1306) from 207.38.63.67:60800
+2018-01-20 06:18:19.641148|INFO    |VirtualServerBase|  1| client disconnected 'Fadian'(id:1306) reason 'reasonmsg=leaving'
+2018-01-20 08:26:56.255406|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-01-20 08:31:55.395054|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:1292) reason 'reasonmsg=leaving'
+2018-01-20 20:56:30.768101|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:54034
+2018-01-20 20:56:39.231968|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-01-20 22:01:22.270054|INFO    |VirtualServerBase|  1| client connected 'Boomer'(id:1305) from 96.41.35.179:52342
+2018-01-20 22:25:14.131382|INFO    |VirtualServerBase|  1| client disconnected 'Boomer'(id:1305) reason 'reasonmsg=leaving'
+2018-01-21 01:00:06.107945|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:59175
+2018-01-21 01:39:39.581578|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:51330
+2018-01-21 01:40:39.002476|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-01-21 01:41:31.387242|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:59020
+2018-01-21 01:44:45.601109|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-01-21 02:18:05.472203|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-01-21 05:51:48.149937|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=leaving'
+2018-01-21 17:16:58.967320|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:58403
+2018-01-21 19:17:57.139195|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:56357
+2018-01-21 20:01:15.232945|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:60262
+2018-01-21 20:01:57.561070|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-01-21 20:02:28.467320|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:57091
+2018-01-21 23:38:45.654820|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-01-21 23:39:33.545445|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-01-22 00:51:50.092320|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:56357
+2018-01-22 04:12:00.529820|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:53382
+2018-01-22 05:16:40.920445|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:54911
+2018-01-22 07:17:00.920445|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:57294
+2018-01-22 07:25:40.326695|INFO    |VirtualServerBase|  1| client connected 'Wreckluse'(id:1188) from 98.220.154.106:55579
+2018-01-22 07:45:39.154820|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-01-22 10:44:41.811070|INFO    |VirtualServerBase|  1| client disconnected 'Wreckluse'(id:1188) reason 'reasonmsg=leaving'
+2018-01-22 11:58:14.670445|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-01-22 14:41:21.264195|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-01-22 14:41:36.186070|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-01-22 21:28:05.045445|INFO    |VirtualServerBase|  1| client connected 'Android'(id:1123) from 184.56.6.14:38493
+2018-01-22 21:31:54.217320|INFO    |VirtualServerBase|  1| client disconnected 'Android'(id:1123) reason 'reasonmsg=....TS3 Android....'
+2018-01-22 22:40:05.623570|INFO    |VirtualServerBase|  1| client connected 'Android'(id:1123) from 184.56.6.14:59801
+2018-01-22 22:40:13.795445|INFO    |VirtualServerBase|  1| client disconnected 'Android'(id:1123) reason 'reasonmsg=....TS3 Android....'
+2018-01-22 23:24:26.717320|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:62575
+2018-01-22 23:24:32.357945|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-01-23 01:03:32.920445|INFO    |VirtualServerBase|  1| client connected 'eXcuse1'(id:1249) from 108.222.81.129:58403
+2018-01-23 01:03:42.686070|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=connection lost'
+2018-01-23 01:03:45.951695|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:58403
+2018-01-23 01:04:04.561070|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse1'(id:1249) reason 'reasonmsg=connection lost'
+2018-01-23 03:22:03.936070|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=leaving'
+2018-01-23 06:44:35.779820|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=leaving'
+2018-01-23 07:37:04.920445|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:58153
+2018-01-23 07:54:56.342320|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:58627
+2018-01-23 09:37:10.092320|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-01-23 09:37:11.561070|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-01-23 16:16:58.279820|INFO    |VirtualServerBase|  1| client disconnected 'ross1'(id:1252) reason 'reasonmsg=connection lost'
+2018-01-23 16:17:37.045445|INFO    |VirtualServerBase|  1| client connected 'ross1'(id:1252) from 192.168.0.1:45845
+2018-01-23 18:59:22.326695|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:49251
+2018-01-23 19:06:35.404820|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-01-23 19:39:44.248570|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:49251
+2018-01-23 21:30:10.404820|INFO    |VirtualServerBase|  1| client disconnected 'ross1'(id:1252) reason 'reasonmsg=leaving'
+2018-01-23 21:30:12.967320|INFO    |VirtualServerBase|  1| client connected 'ross'(id:1252) from 192.168.0.1:45845
+2018-01-23 21:58:05.732945|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:53737
+2018-01-23 22:54:36.217320|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:56950
+2018-01-23 23:09:05.232945|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-01-24 00:24:44.748570|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:57499
+2018-01-24 02:36:18.357945|INFO    |VirtualServerBase|  1| client connected 'AVT8R'(id:1213) from 72.192.86.45:52757
+2018-01-24 02:42:35.967320|INFO    |VirtualServerBase|  1| client connected 'Rudy'(id:100) from 72.198.73.157:51733
+2018-01-24 02:44:00.561070|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:61755
+2018-01-24 02:45:34.420445|INFO    |VirtualServerBase|  1| client disconnected 'AVT8R'(id:1213) reason 'reasonmsg=leaving'
+2018-01-24 02:47:31.061070|INFO    |VirtualServerBase|  1| client connected 'AVT8R'(id:1213) from 72.192.86.45:57561
+2018-01-24 03:47:50.373570|INFO    |VirtualServerBase|  1| client connected 'ross1'(id:492) from 107.129.31.5:63767
+2018-01-24 04:14:33.420445|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:53716
+2018-01-24 04:59:39.748570|INFO    |VirtualServerBase|  1| client disconnected 'Rudy'(id:100) reason 'reasonmsg=leaving'
+2018-01-24 05:21:27.982945|INFO    |VirtualServerBase|  1| client disconnected 'ross1'(id:492) reason 'reasonmsg=leaving'
+2018-01-24 05:31:56.873570|INFO    |VirtualServerBase|  1| client disconnected 'AVT8R'(id:1213) reason 'reasonmsg=leaving'
+2018-01-24 07:23:00.311070|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-01-24 11:49:32.889195|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-01-24 14:33:46.154820|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-01-24 14:33:59.826695|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:49251
+2018-01-25 00:17:29.357945|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:52029
+2018-01-25 00:54:17.732945|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-01-25 01:53:42.123570|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:60655
+2018-01-25 02:47:29.232945|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-01-25 02:47:31.857945|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-01-25 03:02:58.076695|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:64603
+2018-01-25 03:08:53.451695|INFO    |VirtualServerBase|  1| client connected 'Rudy'(id:100) from 72.198.73.157:64675
+2018-01-25 03:09:29.326695|INFO    |VirtualServerBase|  1| client connected 'AVT8R'(id:1213) from 72.192.86.45:51545
+2018-01-25 04:06:25.826695|INFO    |VirtualServerBase|  1| client connected 'GoSain'(id:1118) from 174.89.241.32:63371
+2018-01-25 04:40:40.998570|INFO    |VirtualServerBase|  1| client connected 'GoSain1'(id:1118) from 174.89.241.32:62097
+2018-01-25 04:41:19.076695|INFO    |VirtualServerBase|  1| client disconnected 'GoSain1'(id:1118) reason 'reasonmsg=leaving'
+2018-01-25 04:45:55.607945|INFO    |VirtualServerBase|  1| client disconnected 'GoSain'(id:1118) reason 'reasonmsg=leaving'
+2018-01-25 04:47:17.779820|INFO    |VirtualServerBase|  1| client connected 'GoSain'(id:1118) from 174.89.241.32:57947
+2018-01-25 05:19:30.561070|INFO    |VirtualServerBase|  1| client disconnected 'GoSain'(id:1118) reason 'reasonmsg=leaving'
+2018-01-25 05:49:11.842320|INFO    |VirtualServerBase|  1| client disconnected 'Rudy'(id:100) reason 'reasonmsg=leaving'
+2018-01-25 05:49:12.514195|INFO    |VirtualServerBase|  1| client disconnected 'AVT8R'(id:1213) reason 'reasonmsg=leaving'
+2018-01-25 06:23:22.951695|INFO    |VirtualServerBase|  1| client connected 'xRazz'(id:1308) from 68.204.172.62:58190
+2018-01-25 06:27:52.717320|INFO    |VirtualServerBase|  1| client disconnected 'xRazz'(id:1308) reason 'reasonmsg=leaving'
+2018-01-25 06:29:48.857945|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:50882
+2018-01-25 11:22:57.420445|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-01-25 17:53:58.592320|INFO    |VirtualServerBase|  1| client connected 'xRazz'(id:1308) from 68.204.172.62:50172
+2018-01-25 18:02:59.639195|INFO    |VirtualServerBase|  1| client disconnected 'xRazz'(id:1308) reason 'reasonmsg=leaving'
+2018-01-25 23:09:02.092320|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:60210
+2018-01-26 00:36:15.045445|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-01-26 00:41:50.717320|INFO    |VirtualServerBase|  1| client connected 'Hanz'(id:1242) from 76.124.21.244:63665
+2018-01-26 00:41:53.811070|INFO    |VirtualServerBase|  1| client disconnected 'Hanz'(id:1242) reason 'reasonmsg=leaving'
+2018-01-26 01:13:09.748570|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=leaving'
+2018-01-26 01:13:23.029820|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:63437
+2018-01-26 03:43:17.670445|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:62436
+2018-01-26 04:19:13.076695|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-01-26 04:19:21.076695|INFO    |VirtualServerBase|  1| client connected 'ross1'(id:492) from 107.129.31.5:55577
+2018-01-26 05:28:39.701695|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:57134
+2018-01-26 05:59:16.842320|INFO    |VirtualServerBase|  1| client disconnected 'ross1'(id:492) reason 'reasonmsg=leaving'
+2018-01-26 13:03:59.748570|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-01-26 20:52:49.154820|INFO    |VirtualServerBase|  1| client connected 'TeamSpeakUser'(id:1309) from 80.213.19.161:51117
+2018-01-26 20:52:54.076695|INFO    |VirtualServerBase|  1| client disconnected 'TeamSpeakUser'(id:1309) reason 'reasonmsg=leaving'
+2018-01-26 20:57:04.904820|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-01-26 21:07:26.217320|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:64603
+2018-01-26 21:33:52.467320|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-01-27 02:38:53.014195|INFO    |VirtualServerBase|  1| client connected 'ross1'(id:492) from 107.129.31.5:16119
+2018-01-27 02:40:45.607945|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:1252) reason 'invokerid=6 invokername=ross1 invokeruid=4PpM2Fpgl3QCCTXwe0zTrOAHgiQ= reasonmsg=ur me'
+2018-01-27 02:43:35.014195|INFO    |VirtualServerBase|  1| client connected 'ATMINSIDE'(id:1310) from 69.132.129.45:46425
+2018-01-27 02:49:28.311070|INFO    |VirtualServerBase|  1| client connected 'HoneyBadger1992'(id:1311) from 69.132.129.45:52845
+2018-01-27 03:27:24.107945|INFO    |VirtualServerBase|  1| client connected 'DiscoSTu'(id:1312) from 24.31.164.80:51308
+2018-01-27 03:30:02.201695|INFO    |VirtualServerBase|  1| client disconnected 'DiscoSTu'(id:1312) reason 'reasonmsg=leaving'
+2018-01-27 03:33:02.779820|INFO    |VirtualServerBase|  1| client disconnected 'ATMINSIDE'(id:1310) reason 'reasonmsg=leaving'
+2018-01-27 03:33:20.045445|INFO    |VirtualServerBase|  1| client disconnected 'HoneyBadger1992'(id:1311) reason 'reasonmsg=leaving'
+2018-01-27 04:40:01.576695|INFO    |VirtualServer |  1| file download from (id:172), '/Dark-Storm-Mountain-HD-Desktop-Wallpaper1.jpg' by client 'Clint'(id:757)
+2018-01-27 04:43:18.639195|INFO    |VirtualServerBase|  1| client connected 'AVt8R'(id:1313) from 50.207.56.2:61995
+2018-01-27 05:18:26.732945|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-01-27 05:18:35.123570|INFO    |VirtualServerBase|  1| client disconnected 'AVt8R'(id:1313) reason 'reasonmsg=leaving'
+2018-01-27 05:57:09.764195|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=leaving'
+2018-01-27 23:33:05.123570|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:64603
+2018-01-28 02:09:55.014195|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:57237
+2018-01-28 02:09:59.779820|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-01-28 03:49:54.982945|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:50286
+2018-01-28 04:17:40.123570|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:30333
+2018-01-28 05:40:53.967320|INFO    |VirtualServerBase|  1| client connected 'AVT8R'(id:1213) from 72.192.86.45:53757
+2018-01-28 06:54:21.779820|INFO    |VirtualServerBase|  1| client disconnected 'AVT8R'(id:1213) reason 'reasonmsg=leaving'
+2018-01-28 06:55:58.686070|INFO    |VirtualServerBase|  1| client connected 'AVT8R'(id:1213) from 72.192.86.45:55625
+2018-01-28 07:35:59.935125|INFO    |VirtualServerBase|  1| client disconnected 'AVT8R'(id:1213) reason 'reasonmsg=leaving'
+2018-01-28 07:36:14.122625|INFO    |VirtualServerBase|  1| client connected 'AVT8R'(id:1213) from 72.192.86.45:63370
+2018-01-28 07:55:20.075750|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=leaving'
+2018-01-28 07:55:20.310125|INFO    |VirtualServerBase|  1| client disconnected 'AVT8R'(id:1213) reason 'reasonmsg=leaving'
+2018-01-28 07:55:21.857000|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-01-28 18:55:57.122625|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:58124
+2018-01-28 23:28:58.122625|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:58512
+2018-01-29 00:18:09.997625|INFO    |VirtualServerBase|  1| client connected 'Ikeadeliveryman'(id:1314) from 72.186.229.159:56193
+2018-01-29 00:25:06.794500|INFO    |VirtualServerBase|  1| client disconnected 'Ikeadeliveryman'(id:1314) reason 'reasonmsg=leaving'
+2018-01-29 02:06:06.872625|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-01-29 04:05:19.857000|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:50250
+2018-01-29 04:05:35.153875|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-01-29 05:06:27.872625|INFO    |VirtualServerBase|  1| client connected 'xRazz'(id:1308) from 68.204.172.62:64377
+2018-01-29 06:53:50.747625|INFO    |VirtualServerBase|  1| client disconnected 'xRazz'(id:1308) reason 'reasonmsg=leaving'
+2018-01-30 01:54:03.403875|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:17395
+2018-01-30 02:05:53.169500|INFO    |VirtualServerBase|  1| client connected 'AVT8R'(id:1213) from 72.192.86.45:61568
+2018-01-30 02:09:08.013250|INFO    |VirtualServerBase|  1| client disconnected 'AVT8R'(id:1213) reason 'reasonmsg=leaving'
+2018-01-30 02:09:16.091375|INFO    |VirtualServerBase|  1| client connected 'AVT8R'(id:1213) from 72.192.86.45:58097
+2018-01-30 02:21:46.825750|INFO    |VirtualServerBase|  1| client connected 'Boomer'(id:1315) from 96.41.35.179:53721
+2018-01-30 02:21:56.013250|INFO    |VirtualServerBase|  1| client disconnected 'Boomer'(id:1315) reason 'reasonmsg=leaving'
+2018-01-30 02:29:53.497625|INFO    |VirtualServerBase|  1| client connected 'xRazz'(id:1308) from 68.204.172.62:57014
+2018-01-30 02:43:13.638250|INFO    |VirtualServerBase|  1| client connected 'ST_CAPT_SKYLER'(id:1316) from 68.232.60.225:63184
+2018-01-30 02:56:29.919500|INFO    |VirtualServerBase|  1| client disconnected 'I FARTED'(id:1316) reason 'reasonmsg=leaving'
+2018-01-30 04:15:33.482000|INFO    |VirtualServerBase|  1| client disconnected 'AVT8R'(id:1213) reason 'reasonmsg=leaving'
+2018-01-30 04:15:35.747625|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-01-30 04:24:16.169500|INFO    |VirtualServerBase|  1| client connected 'ST_CAPT_SKYLER'(id:1316) from 68.232.60.225:62510
+2018-01-30 04:24:49.232000|INFO    |VirtualServerBase|  1| client disconnected 'ST_CAPT_SKYLER'(id:1316) reason 'reasonmsg=leaving'
+2018-01-30 07:05:09.903875|INFO    |VirtualServerBase|  1| client disconnected 'xRazz'(id:1308) reason 'reasonmsg=leaving'
+2018-01-30 08:26:04.841375|INFO    |VirtualServerBase|  1| client connected 'xRazz'(id:1308) from 68.204.172.62:54454
+2018-01-30 09:40:08.575750|INFO    |VirtualServerBase|  1| client disconnected 'xRazz'(id:1308) reason 'reasonmsg=leaving'
+2018-01-30 18:55:11.513250|INFO    |VirtualServerBase|  1| client connected 'xRazz'(id:1308) from 68.204.172.62:59404
+2018-01-30 18:55:17.638250|INFO    |VirtualServerBase|  1| client disconnected 'xRazz'(id:1308) reason 'reasonmsg=leaving'
+2018-01-30 20:37:24.341375|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-01-30 20:37:58.232000|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:64603
+2018-01-30 22:11:40.185125|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=leaving'
+2018-01-30 22:32:34.747625|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:53168
+2018-01-30 22:52:39.122625|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:64823
+2018-01-31 02:53:46.997625|INFO    |VirtualServerBase|  1| client connected 'xRazz'(id:1308) from 68.204.172.62:58806
+2018-01-31 03:11:22.622625|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-01-31 03:33:27.591375|INFO    |VirtualServerBase|  1| client disconnected 'xRazz'(id:1308) reason 'reasonmsg=leaving'
+2018-01-31 03:42:53.528875|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:17651
+2018-01-31 03:43:37.903875|INFO    |VirtualServerBase|  1| client connected 'AVT8R'(id:1213) from 72.192.86.45:56578
+2018-01-31 03:44:29.357000|INFO    |VirtualServerBase|  1| client disconnected 'AVT8R'(id:1213) reason 'reasonmsg=leaving'
+2018-01-31 03:44:42.513250|INFO    |VirtualServerBase|  1| client connected 'AVT8R'(id:1213) from 72.192.86.45:65505
+2018-01-31 04:58:20.607000|INFO    |VirtualServerBase|  1| client connected 'P-L.Larocque'(id:1125) from 142.169.164.152:63945
+2018-01-31 05:32:04.778875|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-01-31 06:25:27.857000|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=leaving'
+2018-01-31 06:25:32.107000|INFO    |VirtualServerBase|  1| client disconnected 'AVT8R'(id:1213) reason 'reasonmsg=leaving'
+2018-01-31 06:25:32.232000|INFO    |VirtualServerBase|  1| client disconnected 'P-L.Larocque'(id:1125) reason 'reasonmsg=d&#233;part'
+2018-01-31 14:23:59.669500|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:59950
+2018-01-31 16:32:43.810125|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-01-31 16:44:53.810125|INFO    |VirtualServerBase|  1| client connected 'KERRY'(id:1317) from 1.85.221.210:29226
+2018-01-31 16:45:45.872625|INFO    |VirtualServerBase|  1| client disconnected 'KERRY'(id:1317) reason 'reasonmsg=&#31163;&#24320;'
+2018-02-01 01:22:27.747625|INFO    |VirtualServerBase|  1| client connected 'xRazz'(id:1308) from 68.204.172.62:64269
+2018-02-01 01:22:33.482000|INFO    |VirtualServerBase|  1| client disconnected 'xRazz'(id:1308) reason 'reasonmsg=leaving'
+2018-02-01 01:25:10.638250|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:49537
+2018-02-01 01:25:40.997625|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=leaving'
+2018-02-01 01:25:58.747625|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:51010
+2018-02-01 02:46:58.107000|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:64015
+2018-02-01 05:02:02.232000|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-01 06:27:59.700750|INFO    |VirtualServerBase|  1| client connected 'xRazz'(id:1308) from 68.204.172.62:56664
+2018-02-01 07:05:40.638250|INFO    |VirtualServerBase|  1| client disconnected 'xRazz'(id:1308) reason 'reasonmsg=leaving'
+2018-02-01 23:15:40.216375|INFO    |VirtualServerBase|  1| client connected 'xRazz'(id:1308) from 68.204.172.62:58494
+2018-02-01 23:15:48.169500|INFO    |VirtualServerBase|  1| client disconnected 'xRazz'(id:1308) reason 'reasonmsg=leaving'
+2018-02-02 02:49:50.075750|INFO    |VirtualServerBase|  1| client connected 'xRazz'(id:1308) from 68.204.172.62:56534
+2018-02-02 03:17:07.872625|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-02-02 03:38:55.513250|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:15573
+2018-02-02 03:48:57.028875|INFO    |VirtualServerBase|  1| client connected 'AVT8R'(id:1213) from 76.235.8.48:54114
+2018-02-02 05:49:27.591375|INFO    |VirtualServerBase|  1| client disconnected 'AVT8R'(id:1213) reason 'reasonmsg=leaving'
+2018-02-02 06:10:05.466375|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-02-02 06:10:07.872625|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=leaving'
+2018-02-02 10:01:13.982000|INFO    |VirtualServerBase|  1| client disconnected 'xRazz'(id:1308) reason 'reasonmsg=leaving'
+2018-02-02 16:21:51.263250|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:56231
+2018-02-02 16:52:42.357000|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-02-02 23:33:50.294500|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:56912
+2018-02-02 23:33:53.435125|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-03 00:47:42.341375|INFO    |VirtualServerBase|  1| client connected 'Boomer'(id:1315) from 96.41.35.179:49884
+2018-02-03 00:48:00.685125|INFO    |VirtualServerBase|  1| client disconnected 'Boomer'(id:1315) reason 'reasonmsg=leaving'
+2018-02-03 01:30:34.466375|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:49860
+2018-02-03 03:04:50.903875|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:53900
+2018-02-03 03:04:53.513250|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-03 04:03:22.028875|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:56727
+2018-02-03 04:10:09.732000|INFO    |VirtualServerBase|  1| client connected 'AVT8R'(id:1213) from 76.235.8.48:53228
+2018-02-03 04:15:06.466375|INFO    |VirtualServerBase|  1| client disconnected 'AVT8R'(id:1213) reason 'reasonmsg=leaving'
+2018-02-03 04:15:13.935125|INFO    |VirtualServerBase|  1| client connected 'AVT8R'(id:1213) from 76.235.8.48:58866
+2018-02-03 04:17:43.185125|INFO    |VirtualServerBase|  1| client disconnected 'AVT8R'(id:1213) reason 'reasonmsg=leaving'
+2018-02-03 04:18:39.185125|INFO    |VirtualServerBase|  1| client connected 'AVT8R'(id:1213) from 76.235.8.48:59287
+2018-02-03 06:59:37.403875|INFO    |VirtualServerBase|  1| client disconnected 'AVT8R'(id:1213) reason 'reasonmsg=leaving'
+2018-02-03 06:59:43.357000|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=leaving'
+2018-02-03 06:59:46.138250|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-02-03 17:40:15.778875|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:60082
+2018-02-04 02:19:57.044500|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:64947
+2018-02-04 02:20:00.075750|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-04 02:41:54.810125|INFO    |VirtualServerBase|  1| client connected 'xRazz'(id:1308) from 68.204.172.62:64653
+2018-02-04 03:29:46.435125|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:52956
+2018-02-04 03:41:53.013250|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:52481
+2018-02-04 05:00:25.419500|INFO    |VirtualServerBase|  1| client disconnected 'xRazz'(id:1308) reason 'reasonmsg=leaving'
+2018-02-04 07:50:50.534125|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=leaving'
+2018-02-04 07:50:58.706000|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-02-04 08:13:56.221625|INFO    |VirtualServerBase|  1| client connected 'xRazz'(id:1308) from 68.204.172.62:57649
+2018-02-04 08:54:49.471625|INFO    |VirtualServerBase|  1| client disconnected 'xRazz'(id:1308) reason 'reasonmsg=leaving'
+2018-02-04 21:41:42.284125|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:59624
+2018-02-05 01:14:58.862250|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:54792
+2018-02-05 02:39:58.190375|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-05 19:12:28.409125|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-02-05 21:32:26.393500|INFO    |VirtualServerBase|  1| client connected 'Boomer'(id:1315) from 96.41.35.179:59289
+2018-02-05 21:32:30.784125|INFO    |VirtualServerBase|  1| client disconnected 'Boomer'(id:1315) reason 'reasonmsg=leaving'
+2018-02-05 21:32:33.690375|INFO    |VirtualServerBase|  1| client connected 'Boomer'(id:1315) from 96.41.35.179:59289
+2018-02-05 21:32:41.377875|INFO    |VirtualServerBase|  1| client disconnected 'Boomer'(id:1315) reason 'reasonmsg=leaving'
+2018-02-05 23:29:33.877875|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:59958
+2018-02-05 23:29:36.862250|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-06 02:42:43.831000|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:61183
+2018-02-06 02:42:47.096625|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-07 03:19:36.049750|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:62912
+2018-02-07 11:37:12.440375|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-07 14:55:10.815375|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63167
+2018-02-07 22:04:10.581000|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-02-07 22:04:53.706000|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63167
+2018-02-07 23:13:46.690375|INFO    |VirtualServerBase|  1| client connected 'xRazz'(id:1308) from 68.204.172.62:63495
+2018-02-08 01:19:24.127875|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:62863
+2018-02-08 01:34:53.752875|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-08 03:47:48.534125|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:51026
+2018-02-08 04:02:37.721625|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:22027
+2018-02-08 04:53:34.315375|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-02-08 05:57:48.690375|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-08 06:33:49.815375|INFO    |VirtualServerBase|  1| client disconnected 'xRazz'(id:1308) reason 'reasonmsg=leaving'
+2018-02-09 00:51:31.424750|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:64541
+2018-02-09 02:03:03.034125|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:54266
+2018-02-09 02:36:51.502875|INFO    |VirtualServerBase|  1| client connected 'xRazz'(id:1308) from 68.204.172.62:55447
+2018-02-09 03:12:59.987250|INFO    |VirtualServerBase|  1| client connected 'Somnus1'(id:785) from 173.91.151.15:64541
+2018-02-09 03:13:08.143500|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=connection lost'
+2018-02-09 04:39:51.581000|INFO    |VirtualServerBase|  1| client disconnected 'xRazz'(id:1308) reason 'reasonmsg=leaving'
+2018-02-09 06:41:23.096625|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:54524
+2018-02-09 09:21:35.018500|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=connection lost'
+2018-02-09 09:38:58.127875|INFO    |VirtualServerBase|  1| client disconnected 'Somnus1'(id:785) reason 'reasonmsg=lata'
+2018-02-09 12:14:37.768500|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-09 22:11:10.284125|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:49188
+2018-02-09 22:11:19.549750|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-02-09 23:19:42.424750|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:54330
+2018-02-09 23:19:46.096625|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-10 01:45:49.127875|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=leaving'
+2018-02-10 01:46:59.315375|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:757) from 108.237.7.187:62951
+2018-02-10 02:26:46.940375|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:65268
+2018-02-10 03:54:16.112250|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-10 03:59:41.612250|INFO    |VirtualServerBase|  1| client connected 'TeamSpeakUser'(id:1318) from 76.25.57.116:55728
+2018-02-10 04:03:03.862250|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:757) reason 'reasonmsg=leaving'
+2018-02-10 04:03:06.784125|INFO    |VirtualServerBase|  1| client connected 'Salty'(id:757) from 108.237.7.187:62951
+2018-02-10 04:16:37.237250|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-02-10 04:52:31.924750|INFO    |VirtualServerBase|  1| client connected 'DiscoSTu'(id:1312) from 24.31.164.80:54642
+2018-02-10 04:52:33.924750|INFO    |VirtualServerBase|  1| client disconnected 'DiscoSTu'(id:1312) reason 'reasonmsg=leaving'
+2018-02-10 05:45:58.612250|INFO    |VirtualServerBase|  1| client disconnected 'bolszewski'(id:1318) reason 'reasonmsg=leaving'
+2018-02-10 08:04:27.534125|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=leaving'
+2018-02-10 08:04:29.799750|INFO    |VirtualServerBase|  1| client disconnected 'Salty'(id:757) reason 'reasonmsg=leaving'
+2018-02-10 19:25:33.534125|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:57233
+2018-02-10 22:08:20.518500|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:56358
+2018-02-10 23:34:04.081000|INFO    |VirtualServerBase|  1| client connected 'Salty'(id:757) from 108.237.7.187:55459
+2018-02-11 04:36:55.331000|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:33459
+2018-02-11 06:23:37.252875|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-02-11 11:22:49.218250|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-11 15:01:36.062000|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:60601
+2018-02-11 16:28:29.187000|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-02-11 19:40:38.858875|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:55412
+2018-02-12 03:12:18.749500|INFO    |VirtualServerBase|  1| client connected 'Rudy'(id:100) from 72.198.73.157:64342
+2018-02-12 03:12:23.702625|INFO    |VirtualServerBase|  1| client disconnected 'Rudy'(id:100) reason 'reasonmsg=leaving'
+2018-02-12 03:12:47.452625|INFO    |VirtualServerBase|  1| client connected 'Rudy'(id:100) from 72.198.73.157:54401
+2018-02-12 04:14:30.577625|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:55224
+2018-02-12 04:28:18.312000|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-02-12 05:44:05.999500|INFO    |VirtualServerBase|  1| client disconnected 'Rudy'(id:100) reason 'reasonmsg=leaving'
+2018-02-12 06:30:54.233875|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-12 16:06:33.171375|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63295
+2018-02-12 16:06:34.140125|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-02-12 16:07:23.452625|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63295
+2018-02-12 22:34:42.593250|INFO    |VirtualServerBase|  1| client disconnected 'Salty'(id:757) reason 'reasonmsg=leaving'
+2018-02-13 00:10:41.937000|INFO    |VirtualServerBase|  1| client connected 'Salty'(id:757) from 108.237.7.187:50217
+2018-02-13 02:25:21.468250|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:59216
+2018-02-13 03:35:53.499500|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-02-13 06:11:41.187000|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:52387
+2018-02-13 06:14:49.562000|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-13 09:40:23.577625|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:56094
+2018-02-13 12:47:25.343250|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-13 17:14:06.437000|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-02-14 01:32:34.952625|INFO    |VirtualServerBase|  1| client connected 'Columbine Documentary'(id:1319) from 99.69.51.68:53778
+2018-02-14 01:32:58.327625|INFO    |VirtualServerBase|  1| client disconnected 'Columbine Documentary'(id:1319) reason 'reasonmsg=leaving'
+2018-02-14 04:39:31.640125|INFO    |VirtualServerBase|  1| client connected 'DiscoSTu'(id:1312) from 24.31.164.80:53808
+2018-02-14 04:39:37.593250|INFO    |VirtualServerBase|  1| client disconnected 'DiscoSTu'(id:1312) reason 'reasonmsg=leaving'
+2018-02-15 07:15:21.812000|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:56822
+2018-02-15 07:15:24.124500|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-15 14:05:09.890125|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:54609
+2018-02-15 14:47:42.233875|INFO    |VirtualServerBase|  1| client connected 'Neo Unleashed'(id:1320) from 46.5.59.176:53155
+2018-02-15 14:47:56.718250|INFO    |VirtualServerBase|  1| client disconnected 'Neo Unleashed'(id:1320) reason 'reasonmsg=Go fuck yourself =)'
+2018-02-15 16:28:56.687000|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-15 21:48:37.562000|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:49242
+2018-02-15 22:31:55.765125|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-02-16 03:09:27.624500|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:49242
+2018-02-16 03:20:23.140125|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:37822
+2018-02-16 04:13:11.249500|INFO    |VirtualServerBase|  1| client connected 'xRazz'(id:1308) from 68.204.172.62:65462
+2018-02-16 04:13:21.421375|INFO    |VirtualServerBase|  1| client disconnected 'xRazz'(id:1308) reason 'reasonmsg=leaving'
+2018-02-16 04:41:29.843250|INFO    |VirtualServerBase|  1| client connected 'DiscoSTu'(id:1312) from 24.31.164.80:65506
+2018-02-16 04:43:15.062000|INFO    |VirtualServerBase|  1| client disconnected 'DiscoSTu'(id:1312) reason 'reasonmsg=leaving'
+2018-02-16 04:47:31.218250|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=leaving'
+2018-02-16 04:48:57.608875|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-02-16 07:07:44.733875|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:54540
+2018-02-16 15:02:53.843250|INFO    |VirtualServerBase|  1| client disconnected 'Salty'(id:757) reason 'reasonmsg=leaving'
+2018-02-16 19:41:21.733875|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-16 22:49:33.905750|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:51384
+2018-02-16 23:15:13.687000|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:57331
+2018-02-16 23:15:16.640125|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-17 01:15:28.733875|INFO    |VirtualServerBase|  1| client connected 'Salty'(id:757) from 108.237.7.187:64890
+2018-02-17 18:17:12.265125|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:51940
+2018-02-17 18:39:25.858875|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=connection lost'
+2018-02-18 03:31:37.405750|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:12235
+2018-02-18 03:32:01.780750|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-02-18 03:32:34.421375|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:38276
+2018-02-18 03:54:57.093250|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-02-18 03:55:25.140125|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:64732
+2018-02-18 05:15:36.030750|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-02-18 19:38:09.434500|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=leaving'
+2018-02-18 19:41:18.106375|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:51954
+2018-02-19 06:45:55.418875|INFO    |VirtualServerBase|  1| client connected 'Remington'(id:1321) from 23.115.40.147:52692
+2018-02-19 06:46:37.372000|INFO    |VirtualServerBase|  1| client disconnected 'Remington'(id:1321) reason 'reasonmsg=leaving'
+2018-02-19 09:24:54.262625|INFO    |VirtualServerBase|  1| client disconnected 'Salty'(id:757) reason 'reasonmsg=leaving'
+2018-02-19 09:25:16.809500|INFO    |VirtualServerBase|  1| client connected 'Salty'(id:757) from 108.237.7.187:64890
+2018-02-19 14:25:31.465750|INFO    |VirtualServerBase|  1| client disconnected 'Salty'(id:757) reason 'reasonmsg=leaving'
+2018-02-19 14:29:53.403250|INFO    |VirtualServerBase|  1| client connected 'Salty'(id:757) from 108.237.7.187:64890
+2018-02-19 15:14:20.247000|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-02-19 15:38:38.981375|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:49242
+2018-02-19 15:50:00.528250|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:60780
+2018-02-19 17:04:06.809500|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=connection lost'
+2018-02-19 17:04:06.809500|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-02-19 17:04:06.809500|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=connection lost'
+2018-02-19 17:04:06.809500|INFO    |VirtualServerBase|  1| client disconnected 'Salty'(id:757) reason 'reasonmsg=connection lost'
+2018-02-19 17:07:29.981375|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:51954
+2018-02-19 17:07:30.325125|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:49242
+2018-02-19 17:07:31.137625|INFO    |VirtualServerBase|  1| client connected 'Salty'(id:757) from 108.237.7.187:64890
+2018-02-19 17:07:32.325125|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:60780
+2018-02-19 19:29:59.825125|INFO    |VirtualServerBase|  1| client disconnected 'Salty'(id:757) reason 'reasonmsg=leaving'
+2018-02-19 19:30:22.153250|INFO    |VirtualServerBase|  1| client connected 'Salty'(id:757) from 108.237.7.187:64890
+2018-02-19 20:10:29.809500|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:51320
+2018-02-19 20:15:39.137625|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-19 21:47:13.153250|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:65003
+2018-02-19 23:05:23.028250|INFO    |VirtualServerBase|  1| client disconnected 'Salty'(id:757) reason 'reasonmsg=leaving'
+2018-02-19 23:05:42.075125|INFO    |VirtualServerBase|  1| client connected 'Salty'(id:757) from 108.237.7.187:63730
+2018-02-20 01:28:28.215750|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-02-20 06:55:17.200125|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-02-20 08:42:51.325125|INFO    |VirtualServerBase|  1| client connected 'James'(id:1322) from 68.12.111.106:59015
+2018-02-20 08:42:55.950125|INFO    |VirtualServerBase|  1| client disconnected 'James'(id:1322) reason 'reasonmsg=leaving'
+2018-02-20 18:15:07.747000|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-02-20 18:17:19.528250|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:49242
+2018-02-20 20:50:35.387625|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:61685
+2018-02-21 01:04:57.481375|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=leaving'
+2018-02-21 01:04:59.418875|INFO    |VirtualServerBase|  1| client disconnected 'Salty'(id:757) reason 'reasonmsg=leaving'
+2018-02-21 01:39:41.981375|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-02-21 02:57:53.028250|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-21 04:09:11.622000|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:63904
+2018-02-21 05:03:13.543875|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=leaving'
+2018-02-21 21:35:29.293875|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:63895
+2018-02-21 22:14:47.247000|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:59376
+2018-02-21 22:14:52.434500|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=leaving'
+2018-02-22 01:59:44.934500|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-22 14:41:36.622000|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:49662
+2018-02-22 22:40:21.825125|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:49438
+2018-02-22 22:41:50.668875|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:58762
+2018-02-23 02:05:38.575125|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:62504
+2018-02-23 09:30:14.278250|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-02-23 09:57:07.200125|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-02-23 09:57:10.231375|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-23 19:36:43.090750|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:53898
+2018-02-23 20:19:32.793875|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:49758
+2018-02-24 00:58:54.528250|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-24 01:00:18.934500|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:62341
+2018-02-24 03:56:21.200125|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:5956
+2018-02-24 04:05:13.309500|INFO    |VirtualServerBase|  1| client connected 'Salty'(id:757) from 108.237.7.187:53837
+2018-02-24 04:10:57.982351|INFO    |VirtualServerBase|  1| client disconnected 'Salty'(id:757) reason 'reasonmsg=leaving'
+2018-02-24 07:18:16.310476|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-02-24 07:30:58.888601|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-24 09:56:37.279226|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-02-24 11:17:20.404226|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:61746
+2018-02-24 11:17:22.622976|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-24 16:59:40.404226|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-02-24 17:00:14.310476|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:62504
+2018-02-24 20:20:45.560476|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-02-24 20:20:54.044851|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:62504
+2018-02-24 22:49:22.576101|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:56747
+2018-02-25 00:14:30.263601|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:51861
+2018-02-25 03:56:25.497976|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-25 04:02:20.372976|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-02-25 05:19:05.513601|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:55855
+2018-02-25 05:19:49.404226|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-02-25 12:27:00.263000|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-02-25 12:27:20.403625|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:62504
+2018-02-25 17:43:22.278625|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:59401
+2018-02-25 18:36:18.653625|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-25 21:09:57.106750|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:62790
+2018-02-26 01:34:45.153625|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-26 06:14:30.075500|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:55970
+2018-02-26 06:14:34.872375|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-02-26 22:53:53.466125|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:61594
+2018-02-27 00:30:26.856750|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:52229
+2018-02-27 02:56:16.403625|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:54588
+2018-02-27 04:58:08.153625|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-27 04:59:28.763000|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:55669
+2018-02-27 07:42:13.966125|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-02-27 10:57:33.138000|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-02-27 10:57:36.388000|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-27 17:20:20.856750|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-02-27 20:11:49.888000|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63107
+2018-02-27 21:00:49.184875|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-02-27 22:54:44.778625|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:51238
+2018-02-28 01:31:04.309875|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:49697
+2018-02-28 02:11:32.513000|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:52331
+2018-02-28 09:31:23.184875|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-02-28 09:31:24.544250|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-02-28 11:31:45.200500|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-02-28 18:19:22.827453|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:62056
+2018-02-28 18:27:58.264953|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:62851
+2018-02-28 23:26:52.780578|INFO    |VirtualServerBase|  1| client connected 'eXcuse'(id:1249) from 108.222.81.129:64151
+2018-03-01 06:21:04.061828|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-01 06:21:22.139953|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-01 23:27:41.764953|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:56459
+2018-03-02 00:34:26.108703|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:63097
+2018-03-02 00:34:32.249328|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-02 03:14:16.718078|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=connection lost'
+2018-03-02 03:15:28.843078|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:52620
+2018-03-02 03:58:22.389953|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:4375
+2018-03-02 04:38:21.764953|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-03-02 06:24:26.577453|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:50662
+2018-03-02 09:02:08.249328|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-02 09:02:43.624328|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-02 18:47:04.624328|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:65434
+2018-03-02 20:35:32.093078|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63107
+2018-03-03 00:06:51.952453|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:59784
+2018-03-03 03:04:35.139953|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:58890
+2018-03-03 03:50:48.811828|INFO    |VirtualServerBase|  1| client connected 'DiscoSTu'(id:1312) from 24.31.164.80:54716
+2018-03-03 04:09:34.296203|INFO    |VirtualServerBase|  1| client disconnected 'DiscoSTu'(id:1312) reason 'reasonmsg=leaving'
+2018-03-03 05:03:39.999328|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=connection lost'
+2018-03-03 05:03:40.811828|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:24707
+2018-03-03 06:09:52.921203|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:64326
+2018-03-03 06:33:19.530578|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-03-03 08:13:24.030578|INFO    |VirtualServerBase|  1| client connected 'Killuminati'(id:1323) from 24.255.173.61:63759
+2018-03-03 08:13:41.983703|INFO    |VirtualServerBase|  1| client disconnected 'Killuminati'(id:1323) reason 'reasonmsg=leaving'
+2018-03-03 10:05:16.936828|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-03 10:05:19.702453|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-03 13:41:24.436828|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-03-03 21:28:34.624328|WARNING |ChanClients   |  1| Your system time is broken, TeamSpeak might behave unexpectedly
+2018-03-03 21:28:34.624328|WARNING |ChanClients   |  1| Your system time is broken, TeamSpeak might behave unexpectedly
+2018-03-03 21:28:34.624328|WARNING |ChanClients   |  1| Your system time is broken, TeamSpeak might behave unexpectedly
+2018-03-03 21:28:34.624328|WARNING |ChanClients   |  1| Your system time is broken, TeamSpeak might behave unexpectedly
+2018-03-03 21:28:34.624328|WARNING |ChanClients   |  1| Your system time is broken, TeamSpeak might behave unexpectedly
+2018-03-03 21:28:34.624328|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:58631
+2018-03-03 22:03:21.671203|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:50722
+2018-03-03 22:49:41.405578|INFO    |VirtualServerBase|  1| client disconnected 'eXcuse'(id:1249) reason 'reasonmsg=connection lost'
+2018-03-04 00:34:54.249328|INFO    |VirtualServerBase|  1| client connected 'Hanz'(id:1324) from 76.124.21.244:58914
+2018-03-04 00:41:43.921203|INFO    |VirtualServerBase|  1| client disconnected 'Hanz'(id:1324) reason 'reasonmsg=leaving'
+2018-03-04 10:51:16.620000|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-04 10:51:18.416875|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-04 19:39:33.073125|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:59814
+2018-03-04 22:20:24.276250|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-05 00:40:46.370000|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:50216
+2018-03-05 02:09:22.885625|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:60772
+2018-03-05 05:21:23.666875|INFO    |VirtualServerBase|  1| client connected 'big ole satan'(id:1325) from 136.33.90.151:56315
+2018-03-05 05:21:51.135625|INFO    |VirtualServerBase|  1| client disconnected 'big ole satan'(id:1325) reason 'reasonmsg=leaving'
+2018-03-05 07:56:03.651250|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-05 09:08:26.495000|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-05 19:02:27.885625|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-03-05 19:03:01.104375|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63107
+2018-03-05 19:19:19.041875|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:50970
+2018-03-05 19:28:40.041875|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:57023
+2018-03-06 10:31:07.526250|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-06 10:31:09.057500|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-06 11:06:54.745000|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-03-06 11:07:27.885625|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63107
+2018-03-06 19:10:45.385625|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:55956
+2018-03-06 21:55:20.729375|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-03-06 23:18:22.213750|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:57278
+2018-03-07 01:47:20.823125|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-07 03:09:48.495000|INFO    |VirtualServerBase|  1| client connected 'TeamSpeakUser'(id:41) from 24.164.121.7:59093
+2018-03-07 05:12:12.588750|INFO    |VirtualServerBase|  1| client disconnected 'Retroactively'(id:41) reason 'reasonmsg=leaving'
+2018-03-07 05:12:13.823125|INFO    |VirtualServerBase|  1| client connected 'TeamSpeakUser'(id:41) from 24.164.121.7:59093
+2018-03-07 05:22:08.963750|INFO    |VirtualServerBase|  1| client disconnected 'Retroactively'(id:41) reason 'reasonmsg=leaving'
+2018-03-07 05:22:10.135625|INFO    |VirtualServerBase|  1| client connected 'TeamSpeakUser'(id:41) from 24.164.121.7:59093
+2018-03-07 06:42:02.307500|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:62453
+2018-03-07 07:58:29.807500|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-03-07 08:38:24.588750|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-07 12:12:55.838750|INFO    |VirtualServerBase|  1| client disconnected 'TeamSpeakUser'(id:41) reason 'reasonmsg=connection lost'
+2018-03-07 15:52:16.870000|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54907
+2018-03-07 19:02:56.745000|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:57958
+2018-03-08 00:15:37.026250|INFO    |VirtualServerBase|  1| client connected 'TeamSpeakUser'(id:41) from 24.164.121.7:61853
+2018-03-08 02:26:14.276250|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=connection lost'
+2018-03-08 02:26:18.495000|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:57958
+2018-03-08 05:12:00.838750|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=connection lost'
+2018-03-08 05:12:16.151250|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-03-08 05:22:32.682500|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:57958
+2018-03-08 05:24:46.432500|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54907
+2018-03-08 05:33:56.807500|INFO    |VirtualServerBase|  1| client disconnected 'TeamSpeakUser'(id:41) reason 'reasonmsg=leaving'
+2018-03-08 05:34:17.416875|INFO    |VirtualServerBase|  1| client connected 'TeamSpeakUser'(id:41) from 24.164.121.7:59968
+2018-03-08 07:04:48.104375|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-08 08:24:54.901250|INFO    |VirtualServerBase|  1| client disconnected 'TeamSpeakUser'(id:41) reason 'reasonmsg=connection lost'
+2018-03-08 18:14:18.495000|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:55113
+2018-03-08 20:29:20.338750|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-03-08 22:50:34.291875|INFO    |VirtualServerBase|  1| client connected 'TeamSpeakUser'(id:41) from 24.164.121.7:54213
+2018-03-08 22:51:25.276250|INFO    |VirtualServerBase|  1| client disconnected 'TeamSpeakUser'(id:41) reason 'reasonmsg=leaving'
+2018-03-08 23:30:45.620000|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:55655
+2018-03-09 00:04:11.807500|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:59772
+2018-03-09 00:05:28.557500|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-09 00:05:31.682500|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:59772
+2018-03-09 03:48:55.916875|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:27719
+2018-03-09 06:49:51.666875|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2018-03-09 09:51:54.463750|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-09 10:34:13.541875|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-09 16:40:33.729375|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:58711
+2018-03-09 17:57:45.713750|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-09 20:45:36.635625|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:62285
+2018-03-09 20:45:39.604375|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-09 21:27:43.370000|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:56667
+2018-03-09 22:12:39.807500|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:58919
+2018-03-09 22:36:02.620000|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-10 00:29:05.854375|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:58648
+2018-03-10 04:44:42.573125|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-03-10 09:05:50.479375|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-10 09:06:01.745000|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-10 21:26:20.026250|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:57765
+2018-03-11 00:11:34.213750|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:53116
+2018-03-11 08:36:02.807500|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:55010
+2018-03-11 08:48:14.588750|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=connection lost'
+2018-03-11 08:48:16.541875|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:56010
+2018-03-11 08:48:51.682500|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-03-11 09:28:22.120000|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-11 11:07:37.401250|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-03-11 18:50:35.885625|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:60488
+2018-03-11 18:50:42.791875|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-11 20:46:34.713750|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:49659
+2018-03-11 23:20:32.354375|INFO    |VirtualServerBase|  1| client connected 'TeamSpeakUser'(id:41) from 24.164.121.7:62355
+2018-03-12 02:21:00.776250|INFO    |VirtualServerBase|  1| client connected 'Salty'(id:757) from 108.237.7.187:58048
+2018-03-12 02:22:03.948125|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:1326) from 107.129.31.5:36677
+2018-03-12 03:00:32.088750|INFO    |VirtualServerBase|  1| client disconnected 'Salty'(id:757) reason 'reasonmsg=connection lost'
+2018-03-12 04:03:32.995000|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:51675
+2018-03-12 09:56:48.307500|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-12 19:48:49.495000|INFO    |VirtualServerBase|  1| client disconnected 'TeamSpeakUser'(id:41) reason 'reasonmsg=connection lost'
+2018-03-12 21:14:04.370000|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 184.56.6.14:61608
+2018-03-12 22:30:18.385625|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:50492
+2018-03-13 01:55:20.354375|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:1326) reason 'reasonmsg=connection lost'
+2018-03-13 01:55:57.838750|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:1326) from 107.129.31.5:44019
+2018-03-13 02:05:49.260625|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:1326) reason 'reasonmsg=connection lost'
+2018-03-13 02:06:23.651250|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:1326) from 107.129.31.5:13582
+2018-03-13 10:13:45.073125|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-13 10:13:47.073125|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-13 13:07:16.885625|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:1326) reason 'reasonmsg=connection lost'
+2018-03-13 13:13:12.776250|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:1326) from 107.129.31.5:1796
+2018-03-13 13:13:47.354375|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:1326) reason 'reasonmsg=connection lost'
+2018-03-13 13:13:50.995000|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:1326) from 107.129.31.5:50620
+2018-03-13 17:11:20.010625|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:1326) reason 'reasonmsg=connection lost'
+2018-03-13 17:12:07.932500|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:1326) from 107.129.31.5:33081
+2018-03-13 18:59:17.198125|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:1326) reason 'reasonmsg=connection lost'
+2018-03-13 19:00:08.510625|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:1326) from 107.129.31.5:5552
+2018-03-13 19:28:16.260625|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:1326) reason 'reasonmsg=connection lost'
+2018-03-13 19:28:19.338750|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:1326) from 107.129.31.5:5356
+2018-03-13 20:08:09.057500|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:50682
+2018-03-14 01:10:49.698125|INFO    |VirtualServerBase|  1| client connected 'Daniel'(id:762) from 68.12.171.114:50039
+2018-03-14 01:11:50.510625|INFO    |VirtualServerBase|  1| client disconnected 'Daniel'(id:762) reason 'reasonmsg=leaving'
+2018-03-14 01:28:17.838750|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:56316
+2018-03-14 01:45:05.588750|INFO    |VirtualServerBase|  1| client connected 'headcrabaregood'(id:1005) from 73.253.129.160:54847
+2018-03-14 01:45:26.245000|INFO    |VirtualServerBase|  1| client disconnected 'headcrabaregood'(id:1005) reason 'reasonmsg=leaving'
+2018-03-14 04:27:56.729375|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=connection lost'
+2018-03-14 05:12:34.901250|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:58509
+2018-03-14 11:06:13.526250|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-14 17:24:51.260625|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:1326) reason 'reasonmsg=connection lost'
+2018-03-14 17:24:54.073125|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:1326) from 107.129.31.5:61830
+2018-03-14 17:31:50.166875|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:1326) reason 'reasonmsg=connection lost'
+2018-03-14 17:31:52.870000|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:1326) from 107.129.31.5:50906
+2018-03-14 17:40:04.541875|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:1326) reason 'reasonmsg=connection lost'
+2018-03-14 17:40:07.010625|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:1326) from 107.129.31.5:43869
+2018-03-14 22:15:56.260625|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:1326) reason 'reasonmsg=connection lost'
+2018-03-14 22:15:58.463750|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:1326) from 107.129.31.5:24111
+2018-03-14 22:24:02.979375|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:1326) reason 'reasonmsg=connection lost'
+2018-03-14 22:24:50.354375|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:1326) from 107.129.31.5:48495
+2018-03-14 22:26:31.729375|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-03-14 22:27:08.010625|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:49659
+2018-03-15 01:29:09.620000|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-15 01:55:33.807500|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:57788
+2018-03-15 02:31:03.291875|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:1326) reason 'reasonmsg=connection lost'
+2018-03-15 02:31:48.510625|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:1326) from 107.129.31.5:2616
+2018-03-15 02:33:58.291875|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:1326) reason 'reasonmsg=connection lost'
+2018-03-15 02:50:40.260625|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:1326) from 107.129.31.5:9094
+2018-03-15 03:03:59.526250|INFO    |VirtualServerBase|  1| client connected 'xRazz'(id:1308) from 68.204.172.62:53967
+2018-03-15 03:04:38.620000|INFO    |VirtualServerBase|  1| client disconnected 'xRazz'(id:1308) reason 'reasonmsg=leaving'
+2018-03-15 03:04:46.463750|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-15 05:03:53.407109|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:58509
+2018-03-15 06:20:38.547734|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:59475
+2018-03-15 06:21:24.500859|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-15 17:35:00.735234|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:1326) reason 'reasonmsg=connection lost'
+2018-03-15 17:35:01.625859|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:1326) from 107.129.31.5:60190
+2018-03-15 21:41:01.985234|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:1326) reason 'reasonmsg=connection lost'
+2018-03-15 21:41:03.016484|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:1326) from 107.129.31.5:36407
+2018-03-16 01:24:58.610234|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:1326) reason 'reasonmsg=connection lost'
+2018-03-16 01:24:59.500859|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:1326) from 107.129.31.5:22116
+2018-03-16 01:28:22.047734|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:1326) reason 'reasonmsg=connection lost'
+2018-03-16 01:28:23.016484|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:1326) from 107.129.31.5:16327
+2018-03-16 01:39:07.750859|INFO    |VirtualServerBase|  1| client connected 'KERRY'(id:1327) from 185.92.25.212:64747
+2018-03-16 01:48:30.360234|INFO    |VirtualServerBase|  1| client disconnected 'KERRY'(id:1327) reason 'reasonmsg=leaving'
+2018-03-16 04:01:50.328984|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:1326) reason 'reasonmsg=connection lost'
+2018-03-16 04:02:34.125859|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:1326) from 107.129.31.5:25127
+2018-03-16 05:05:53.297734|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-17 00:40:34.219609|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:64558
+2018-03-17 03:33:36.094609|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:1326) reason 'reasonmsg=leaving'
+2018-03-17 04:05:20.078984|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:51022
+2018-03-17 08:33:52.047734|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=connection lost'
+2018-03-17 08:34:14.985234|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:53348
+2018-03-17 09:23:36.313359|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-17 09:23:38.219609|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-17 18:12:30.532109|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:1328) from 24.131.165.205:61935
+2018-03-17 18:13:08.422734|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:1328) reason 'reasonmsg=Goodbye all! The Sturmf&#252;hrer called me back to my guard tower'
+2018-03-18 02:02:46.125859|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:64803
+2018-03-18 03:51:16.422734|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=connection lost'
+2018-03-18 03:51:27.532109|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:64803
+2018-03-18 03:55:25.766484|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-18 23:36:01.369500|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:59273
+2018-03-19 00:50:17.525750|INFO    |VirtualServerBase|  1| client connected 'Wells'(id:1328) from 24.131.165.205:54097
+2018-03-19 00:51:15.744500|INFO    |VirtualServerBase|  1| client disconnected 'Wells'(id:1328) reason 'reasonmsg=Goodbye all! The Sturmf&#252;hrer called me back to my guard tower'
+2018-03-19 04:25:26.103875|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:60761
+2018-03-19 06:37:00.260125|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-19 06:37:03.478875|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-03-19 06:58:57.994500|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-19 07:44:53.260125|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:61460
+2018-03-19 07:44:58.182000|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-19 14:29:39.619500|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:53830
+2018-03-19 14:30:12.838250|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-19 16:26:06.525750|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:61578
+2018-03-19 16:27:20.416375|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:56884
+2018-03-19 18:03:07.260125|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:49994
+2018-03-19 20:00:48.010125|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-03-19 20:24:40.432000|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:59990
+2018-03-19 20:29:09.572625|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-03-19 22:23:46.010125|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:59990
+2018-03-20 00:24:33.072625|INFO    |VirtualServerBase|  1| client connected 'Fuck SJWs'(id:1329) from 99.69.51.68:50169
+2018-03-20 00:26:31.822625|INFO    |VirtualServerBase|  1| client disconnected 'Fuck SJWs'(id:1329) reason 'reasonmsg=leaving'
+2018-03-20 05:39:35.057000|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-20 09:24:31.963250|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-20 12:27:01.197625|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:64309
+2018-03-20 18:07:58.510125|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-20 18:17:40.682000|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:53522
+2018-03-20 21:31:12.385125|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-03-20 22:58:25.650750|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:52260
+2018-03-21 08:37:59.275750|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-21 08:38:00.619500|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-21 21:01:33.478875|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:53759
+2018-03-21 23:19:02.838250|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-03-22 00:29:36.885125|INFO    |VirtualServerBase|  1| client connected 'xRazz'(id:1308) from 68.204.172.62:59318
+2018-03-22 00:29:53.416375|INFO    |VirtualServerBase|  1| client disconnected 'xRazz'(id:1308) reason 'reasonmsg=leaving'
+2018-03-22 00:33:17.822625|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:61846
+2018-03-22 00:35:41.588250|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:49195
+2018-03-22 02:17:41.447625|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-03-22 02:17:44.900750|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-22 10:31:51.916375|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:59169
+2018-03-23 00:07:50.978875|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:59905
+2018-03-23 00:35:55.963250|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63965
+2018-03-23 01:32:37.807000|INFO    |VirtualServerBase|  1| client connected 'Remington'(id:1330) from 23.115.40.147:64696
+2018-03-23 01:32:39.041375|INFO    |VirtualServerBase|  1| client disconnected 'Remington'(id:1330) reason 'reasonmsg=leaving'
+2018-03-23 03:04:46.947625|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-03-23 06:00:36.478875|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:63774
+2018-03-23 11:46:24.307000|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-03-23 12:16:18.947625|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-23 13:59:45.572625|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-23 20:22:33.400750|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63965
+2018-03-24 02:48:06.807000|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-03-24 03:50:48.447625|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:61043
+2018-03-24 03:53:33.760125|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:57767
+2018-03-24 04:00:31.775750|INFO    |VirtualServerBase|  1| client connected 'Rudy'(id:100) from 72.198.73.157:52115
+2018-03-24 04:00:41.775750|INFO    |VirtualServerBase|  1| client disconnected 'Rudy'(id:100) reason 'reasonmsg=leaving'
+2018-03-24 09:03:00.650750|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-24 11:57:48.041375|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:64563
+2018-03-24 17:49:08.322625|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:54892
+2018-03-24 18:28:04.182000|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=connection lost'
+2018-03-24 23:25:08.010125|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63965
+2018-03-25 00:51:23.853875|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:51242
+2018-03-25 03:40:14.916375|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-03-25 07:35:41.808625|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-25 09:00:10.558625|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=connection lost'
+2018-03-25 09:00:13.933625|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:62043
+2018-03-25 10:36:40.480500|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-25 13:50:08.183625|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:55560
+2018-03-25 19:07:46.918000|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-03-25 20:05:11.824250|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63965
+2018-03-25 23:48:48.996125|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:55962
+2018-03-26 02:45:14.308625|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-03-26 02:45:31.418000|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:56460
+2018-03-26 03:58:33.433625|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-03-26 03:59:15.433625|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-26 04:22:48.933625|INFO    |VirtualServerBase|  1| client connected 'Wreckluse'(id:1188) from 98.220.154.106:62930
+2018-03-26 04:24:33.964875|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-26 04:26:52.371125|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:49696
+2018-03-26 06:13:56.527375|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:52168
+2018-03-26 06:29:07.371125|INFO    |VirtualServerBase|  1| client disconnected 'Wreckluse'(id:1188) reason 'reasonmsg=leaving'
+2018-03-26 06:33:14.089875|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:51442
+2018-03-26 06:43:27.746125|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:64166
+2018-03-26 07:19:13.980500|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-26 09:47:57.527375|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-26 11:47:22.449250|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-03-26 18:09:09.386750|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-03-26 18:43:00.761750|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:52168
+2018-03-26 18:46:10.543000|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:52007
+2018-03-26 21:02:27.558625|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:62737
+2018-03-27 00:37:22.355500|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-27 01:37:41.730500|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:53029
+2018-03-27 01:38:24.527375|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-27 01:38:28.964875|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:53029
+2018-03-27 02:10:25.152375|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-27 02:45:54.839875|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:64190
+2018-03-27 03:59:30.011750|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:57466
+2018-03-27 06:20:52.418000|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-03-27 09:15:38.777375|INFO    |VirtualServerBase|  1| client connected 'Alex'(id:1331) from 24.126.10.185:50116
+2018-03-27 09:15:42.871125|INFO    |VirtualServerBase|  1| client disconnected 'Alex'(id:1331) reason 'reasonmsg=leaving'
+2018-03-27 09:37:48.761750|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-27 09:37:51.839875|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-03-27 16:02:58.902375|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-27 16:40:48.949250|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:61956
+2018-03-27 20:06:46.074250|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:53422
+2018-03-27 20:06:46.933625|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-03-27 20:06:49.964875|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:53422
+2018-03-27 20:42:06.980500|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:59480
+2018-03-27 21:06:22.589875|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=connection lost'
+2018-03-27 21:06:38.246125|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:59480
+2018-03-27 23:03:39.480500|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-03-27 23:04:05.964875|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-28 01:41:02.277375|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:52755
+2018-03-28 02:42:39.433625|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-03-28 02:45:38.449250|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:62796
+2018-03-28 03:17:37.558625|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-03-28 19:54:41.730500|INFO    |VirtualServerBase|  1| client connected 'Almighty Lord of Bacon'(id:1332) from 75.68.9.166:64375
+2018-03-28 19:54:55.058625|INFO    |VirtualServerBase|  1| client disconnected 'Almighty Lord of Bacon'(id:1332) reason 'reasonmsg=leaving'
+2018-03-29 00:11:16.339875|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:53121
+2018-03-29 00:43:36.824250|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:51277
+2018-03-29 01:51:59.043000|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-29 02:52:57.980500|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-03-29 12:07:01.777375|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:63564
+2018-03-29 12:15:37.121125|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-29 14:37:37.855500|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:63520
+2018-03-29 20:06:19.824250|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:51277
+2018-03-29 20:16:47.543000|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-03-29 20:38:52.886750|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:51277
+2018-03-29 20:40:47.089875|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-03-30 01:36:05.105500|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:58191
+2018-03-30 03:13:50.121125|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-03-30 03:14:09.558625|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-30 05:12:01.746125|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:55221
+2018-03-30 05:12:10.636750|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-30 09:10:17.183625|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-30 18:11:13.964875|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:63647
+2018-03-31 01:17:37.605500|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:49204
+2018-03-31 01:17:40.855500|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-31 05:20:37.058625|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-03-31 12:17:34.886750|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:56687
+2018-03-31 12:55:59.918000|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-03-31 14:45:34.730500|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:53640
+2018-03-31 15:07:53.527375|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-03-31 21:56:14.277375|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:53069
+2018-04-01 04:17:29.933625|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-04-01 15:03:39.303500|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:52832
+2018-04-01 17:41:22.897250|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:51277
+2018-04-02 02:00:43.303500|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:49807
+2018-04-02 02:04:05.522250|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-04-02 02:04:18.334750|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:61165
+2018-04-02 02:38:01.662875|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-04-02 02:38:21.116000|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:51277
+2018-04-02 09:54:06.944125|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-02 10:21:29.881625|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-04-02 16:54:29.491000|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-02 17:16:21.616000|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:55243
+2018-04-02 17:16:30.819125|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-04-02 18:35:52.006625|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:51277
+2018-04-02 18:53:12.147250|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:63255
+2018-04-03 01:05:38.147250|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:53363
+2018-04-03 01:05:48.209750|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-03 07:31:37.506625|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-04-03 18:41:22.491000|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-04-03 19:14:34.256625|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:51079
+2018-04-03 21:44:08.256625|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-04-03 21:52:54.631625|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:59513
+2018-04-03 21:55:06.006625|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:61846
+2018-04-03 23:02:02.475375|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:53948
+2018-04-04 01:06:31.366000|INFO    |VirtualServerBase|  1| client connected 'GoSain'(id:1118) from 174.91.189.99:60658
+2018-04-04 01:07:07.772250|INFO    |VirtualServerBase|  1| client disconnected 'GoSain'(id:1118) reason 'reasonmsg=leaving'
+2018-04-04 01:51:20.491000|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-04 02:35:41.444125|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-04-04 03:18:16.803500|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-04 12:14:54.225375|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:65346
+2018-04-04 12:59:31.256625|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-04-04 19:01:10.944125|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:50035
+2018-04-04 20:48:51.772250|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=connection lost'
+2018-04-04 20:52:45.537875|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:50035
+2018-04-04 20:53:41.616000|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=connection lost'
+2018-04-04 20:54:10.756625|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:50035
+2018-04-04 23:36:18.678500|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:62703
+2018-04-05 01:26:21.350375|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-05 06:06:50.084750|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:60420
+2018-04-05 06:11:19.444125|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-04-05 17:47:13.647250|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-04-05 20:06:35.834750|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:60702
+2018-04-05 20:06:45.991000|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-06 20:29:15.397250|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:50452
+2018-04-06 20:51:13.256625|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-04-06 20:54:20.662875|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:50452
+2018-04-06 23:26:30.069125|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:50548
+2018-04-07 01:06:34.287875|INFO    |VirtualServerBase|  1| client connected 'Nobody'(id:1333) from 91.43.184.39:57067
+2018-04-07 01:06:39.631625|INFO    |VirtualServerBase|  1| client disconnected 'Nobody'(id:1333) reason 'reasonmsg=Verlassen'
+2018-04-07 02:32:58.428500|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-07 02:33:01.709750|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-08 01:19:35.116000|INFO    |VirtualServerBase|  1| client connected 'pvt'(id:1334) from 68.49.75.71:59289
+2018-04-08 01:19:38.397250|INFO    |VirtualServerBase|  1| client disconnected 'pvt'(id:1334) reason 'reasonmsg=leaving'
+2018-04-08 11:03:41.122250|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:57665
+2018-04-08 12:29:29.825375|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-08 22:22:03.981625|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:52628
+2018-04-08 22:22:06.825375|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-08 23:37:11.700375|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:58156
+2018-04-09 00:35:18.434750|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-09 00:47:15.372250|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:55902
+2018-04-09 01:22:26.528500|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-09 01:57:29.497250|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:53327
+2018-04-09 04:03:35.403500|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-09 16:31:28.903500|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54993
+2018-04-09 18:35:06.637875|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-09 19:15:15.356625|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54993
+2018-04-09 20:16:56.872250|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:54239
+2018-04-09 20:17:00.700375|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-04-09 22:34:11.278500|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-09 23:37:08.356625|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:57341
+2018-04-10 00:48:45.325375|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:62158
+2018-04-10 00:50:34.762875|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-10 06:19:24.231625|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-04-10 06:38:55.309750|INFO    |VirtualServerBase|  1| client connected 'pvt'(id:1334) from 68.49.75.71:63388
+2018-04-10 06:38:59.466000|INFO    |VirtualServerBase|  1| client disconnected 'pvt'(id:1334) reason 'reasonmsg=leaving'
+2018-04-10 07:59:30.716000|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:62793
+2018-04-10 09:35:23.044125|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-04-10 12:27:58.919125|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54993
+2018-04-10 19:38:10.966000|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:57788
+2018-04-10 21:35:49.091000|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-04-10 21:35:49.091000|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=connection lost'
+2018-04-10 21:41:11.153500|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54993
+2018-04-10 21:41:11.481625|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:57788
+2018-04-11 05:52:33.387875|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-04-11 06:04:42.216000|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-04-11 06:30:36.372250|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54993
+2018-04-11 17:35:01.575375|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-11 18:59:50.294125|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:49688
+2018-04-11 20:23:29.575375|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-04-11 21:03:30.700375|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54993
+2018-04-11 21:14:10.169125|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-11 23:40:06.137875|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:59796
+2018-04-12 00:15:55.559750|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54993
+2018-04-12 03:16:55.528500|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-12 13:38:32.028500|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:50764
+2018-04-12 13:38:43.997250|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-12 13:45:39.856625|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:58244
+2018-04-12 14:27:30.903500|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-04-12 20:15:57.762875|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54993
+2018-04-12 20:17:53.622250|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-12 20:24:50.731625|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54993
+2018-04-12 20:26:39.262875|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-04-12 21:22:44.294125|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-12 21:44:37.700375|INFO    |VirtualServerBase|  1| client connected 'headcrabaregood'(id:1005) from 73.253.129.160:60796
+2018-04-12 21:44:49.184750|INFO    |VirtualServerBase|  1| client disconnected 'headcrabaregood'(id:1005) reason 'reasonmsg=leaving'
+2018-04-13 14:33:27.356625|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:50444
+2018-04-14 00:56:58.872250|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54993
+2018-04-14 02:16:05.794125|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-14 02:47:35.887875|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54993
+2018-04-14 05:07:15.231625|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-04-14 12:24:58.778500|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-04-14 12:25:31.419125|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54993
+2018-04-14 21:31:22.231625|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-14 21:31:45.262875|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54993
+2018-04-14 21:32:06.153500|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-14 21:55:33.559750|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54993
+2018-04-15 02:06:50.028500|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:61630
+2018-04-15 06:53:59.516500|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-15 06:55:44.313375|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54993
+2018-04-15 07:29:40.204000|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-04-15 20:59:26.688375|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-15 21:21:44.188375|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:56567
+2018-04-16 00:47:40.079000|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54993
+2018-04-16 03:44:04.891500|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:62570
+2018-04-16 06:27:20.329000|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-16 06:56:42.297750|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54993
+2018-04-16 07:09:53.391500|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-04-16 18:26:57.688375|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-16 21:13:05.688375|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-04-16 21:45:47.891500|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:62134
+2018-04-16 21:45:57.000875|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-04-16 22:22:26.735250|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:58946
+2018-04-17 08:01:43.438375|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:63219
+2018-04-17 18:10:31.297750|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54993
+2018-04-17 20:02:15.391500|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:54223
+2018-04-17 20:13:05.547750|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-17 22:32:25.422750|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-17 22:45:38.704000|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54993
+2018-04-18 09:10:23.657125|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-04-18 15:44:52.000875|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:63398
+2018-04-18 16:28:37.235250|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=connection lost'
+2018-04-18 16:28:48.469625|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:63398
+2018-04-18 17:25:58.125875|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:57412
+2018-04-18 19:02:26.125875|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-18 19:39:58.219625|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:50601
+2018-04-18 20:03:50.047750|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=connection lost'
+2018-04-18 20:03:55.172750|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:58412
+2018-04-18 20:35:29.735250|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-18 21:16:37.375875|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54993
+2018-04-19 00:38:49.219625|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-19 04:55:22.516500|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-04-19 09:10:01.125875|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:53035
+2018-04-19 10:02:28.704000|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-19 10:46:37.204000|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54993
+2018-04-19 14:12:09.110250|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-04-19 15:27:37.235250|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-19 20:24:52.891500|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54993
+2018-04-19 21:00:03.344625|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-19 21:24:37.516500|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54993
+2018-04-20 04:13:42.704000|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-20 04:54:36.750875|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54993
+2018-04-20 19:54:12.625875|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:64500
+2018-04-21 01:19:58.563375|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-21 01:53:35.344625|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54993
+2018-04-21 02:03:12.454000|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-21 14:55:41.732320|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:57079
+2018-04-21 17:09:37.716695|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-04-21 18:58:57.904195|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-21 23:32:58.107320|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:62326
+2018-04-22 03:54:50.060445|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-22 09:46:35.725375|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:60222
+2018-04-22 14:06:38.225375|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-22 15:19:00.084750|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-04-22 15:19:26.991000|WARNING |ChanClients   |  1| Your system time is broken, TeamSpeak might behave unexpectedly
+2018-04-22 15:19:26.991000|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54993
+2018-04-22 19:55:44.756625|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:62223
+2018-04-22 21:20:03.366000|INFO    |VirtualServerBase|  1| client connected 'adsawf'(id:1335) from 104.159.165.91:56084
+2018-04-22 21:23:08.662875|INFO    |VirtualServerBase|  1| client connected 'Will'(id:1336) from 75.73.153.42:39101
+2018-04-22 21:27:16.647250|INFO    |VirtualServerBase|  1| client disconnected 'adsawf'(id:1335) reason 'reasonmsg=leaving'
+2018-04-22 21:28:25.569125|INFO    |VirtualServerBase|  1| client disconnected 'Will'(id:1336) reason 'reasonmsg=leaving'
+2018-04-23 07:16:58.834750|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=connection lost'
+2018-04-23 13:52:19.475375|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:51513
+2018-04-23 16:39:02.569125|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-23 16:39:07.756625|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-23 17:00:18.725375|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:54314
+2018-04-23 20:27:13.991000|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-04-23 22:34:40.459750|INFO    |VirtualServerBase|  1| client connected 'adsawf'(id:1335) from 104.159.165.91:50984
+2018-04-23 22:39:13.116000|INFO    |VirtualServerBase|  1| client connected 'Will'(id:1336) from 75.73.153.42:36816
+2018-04-23 22:39:40.616000|INFO    |VirtualServerBase|  1| client disconnected 'Will'(id:1336) reason 'reasonmsg=leaving'
+2018-04-23 22:39:53.225375|INFO    |VirtualServerBase|  1| client connected 'Will'(id:1336) from 75.73.153.42:42619
+2018-04-23 23:45:34.162875|INFO    |VirtualServerBase|  1| client disconnected 'adsawf'(id:1335) reason 'reasonmsg=leaving'
+2018-04-23 23:59:09.428500|INFO    |VirtualServerBase|  1| client disconnected 'Will'(id:1336) reason 'reasonmsg=leaving'
+2018-04-24 03:11:04.819125|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:53574
+2018-04-24 11:31:32.162875|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:61871
+2018-04-24 13:15:47.116000|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:56480
+2018-04-24 17:54:27.553500|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-24 18:47:16.881625|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:56480
+2018-04-24 20:35:38.616000|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-04-24 20:35:58.725375|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:56480
+2018-04-24 21:38:44.147250|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-24 21:47:56.381625|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-04-24 21:48:09.147250|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:65327
+2018-04-24 22:18:42.787875|INFO    |VirtualServerBase|  1| client connected 'Will'(id:1336) from 75.73.153.42:37909
+2018-04-24 22:19:07.834750|INFO    |VirtualServerBase|  1| client disconnected 'Will'(id:1336) reason 'reasonmsg=connection lost'
+2018-04-24 22:19:46.866000|INFO    |VirtualServerBase|  1| client connected 'Will'(id:1336) from 75.73.153.42:37909
+2018-04-24 22:21:33.287875|INFO    |VirtualServerBase|  1| client connected 'adsawf'(id:1335) from 104.159.165.91:53187
+2018-04-24 23:24:57.459750|INFO    |VirtualServerBase|  1| client connected 'nigga'(id:1337) from 208.102.122.89:61509
+2018-04-24 23:40:09.991000|INFO    |VirtualServerBase|  1| client disconnected 'nigga'(id:1337) reason 'reasonmsg=leaving'
+2018-04-24 23:41:54.537875|INFO    |VirtualServerBase|  1| client connected 'nigga'(id:1337) from 208.102.122.89:51298
+2018-04-24 23:43:00.366000|INFO    |VirtualServerBase|  1| client disconnected 'adsawf'(id:1335) reason 'reasonmsg=leaving'
+2018-04-25 00:06:49.944125|INFO    |VirtualServerBase|  1| client disconnected 'Will'(id:1336) reason 'reasonmsg=leaving'
+2018-04-25 00:09:46.412875|INFO    |VirtualServerBase|  1| client disconnected 'nigga'(id:1337) reason 'reasonmsg=leaving'
+2018-04-25 01:39:07.053500|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:58952
+2018-04-25 02:44:59.381625|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-25 06:06:45.412875|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-25 13:14:22.194125|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:51741
+2018-04-25 16:01:02.084750|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-25 19:11:48.912875|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:52570
+2018-04-25 20:59:33.303500|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=connection lost'
+2018-04-25 21:22:13.116000|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:58972
+2018-04-25 22:27:12.584750|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:62989
+2018-04-26 00:16:41.616000|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:55833
+2018-04-26 00:33:20.194125|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-04-26 02:48:53.569125|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-26 05:44:38.881625|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-26 12:32:55.537875|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:55874
+2018-04-26 16:41:21.803500|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=connection lost'
+2018-04-26 16:41:21.803500|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=connection lost'
+2018-04-26 16:41:24.022250|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:62989
+2018-04-26 16:41:24.506625|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:55874
+2018-04-26 17:21:57.100375|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-27 00:09:27.084750|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-04-27 03:18:03.912875|INFO    |VirtualServerBase|  1| client connected 'Remington'(id:1338) from 23.115.40.147:49382
+2018-04-27 03:18:06.850375|INFO    |VirtualServerBase|  1| client disconnected 'Remington'(id:1338) reason 'reasonmsg=leaving'
+2018-04-27 13:43:34.444125|INFO    |VirtualServerBase|  1| client connected 'ross'(id:1252) from 192.168.0.1:50316
+2018-04-27 13:46:52.756625|INFO    |VirtualServerBase|  1| server was edited by 'ross'(id:1252)
+2018-04-27 18:58:28.553500|INFO    |VirtualServerBase|  1| client connected 'James'(id:1339) from 68.12.111.106:57886
+2018-04-27 18:58:34.616000|INFO    |VirtualServerBase|  1| client disconnected 'James'(id:1339) reason 'reasonmsg=leaving'
+2018-04-27 20:01:06.100375|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:57291
+2018-04-27 21:17:37.287875|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:54635
+2018-04-27 22:43:09.897250|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=connection lost'
+2018-04-27 22:47:45.491000|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:60325
+2018-04-28 00:31:47.897250|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:49610
+2018-04-28 03:07:00.459750|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-28 05:16:44.678500|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-28 05:16:46.350375|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-04-28 13:34:06.069125|INFO    |VirtualServerBase|  1| client connected 'Will'(id:1336) from 75.73.153.42:40743
+2018-04-28 13:34:39.350375|INFO    |VirtualServerBase|  1| client disconnected 'Will'(id:1336) reason 'reasonmsg=leaving'
+2018-04-28 13:44:20.428500|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:59644
+2018-04-28 13:44:24.819125|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2018-04-28 15:07:35.959750|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:53590
+2018-04-28 17:44:36.662875|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-29 01:23:19.678500|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:57547
+2018-04-29 01:23:26.147250|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-29 14:17:14.419125|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:57385
+2018-04-29 14:17:18.012875|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-29 18:41:09.622250|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:58628
+2018-04-29 18:41:14.075375|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-29 22:49:34.762875|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:61168
+2018-04-29 23:05:11.372250|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:57343
+2018-04-29 23:05:13.684750|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-04-30 00:34:53.981625|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=lata'
+2018-04-30 00:54:57.106625|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:55557
+2018-04-30 00:55:07.012875|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-04-30 00:55:16.794125|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:54881
+2018-04-30 01:47:16.137875|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:54828
+2018-04-30 03:33:57.966000|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-04-30 04:12:05.684750|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=connection lost'
+2018-04-30 05:40:30.387875|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:59221
+2018-04-30 20:22:17.794125|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:58531
+2018-04-30 20:41:05.716000|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-04-30 21:11:18.778500|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-05-01 01:06:34.762875|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:52566
+2018-05-01 01:06:37.809750|INFO    |VirtualServerBase|  1| client disconnected 'Vish'(id:349) reason 'reasonmsg=leaving'
+2018-05-01 14:15:13.137875|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63249
+2018-05-01 18:10:52.637875|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-05-01 18:12:29.575375|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:63249
+2018-05-01 21:16:39.841000|INFO    |VirtualServerBase|  1| client connected 'Vish'(id:349) from 24.164.121.7:53838
+2018-05-02 13:45:20.216000|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-05-02 13:52:30.466000|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:1252) reason 'reasonmsg=leaving'
+2018-05-02 14:28:22.778500|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:57762
+2018-05-02 14:28:30.778500|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'
+2018-05-02 14:54:11.153500|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:57619
+2018-05-02 15:15:57.247250|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=connection lost'
+2018-05-02 15:17:41.622250|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:949) from 76.189.40.156:57619
+2018-05-02 20:52:16.399593|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:949) reason 'reasonmsg=leaving'

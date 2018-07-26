@@ -1,0 +1,17 @@
+2016-08-17 18:40:03.552734|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2016-08-17 18:43:21.337890|INFO    |VirtualServerBase|  1| client connected 'Daniel'(id:762) from 68.12.208.98:60859
+2016-08-17 18:43:22.177734|INFO    |VirtualServerBase|  1| client connected 'Hank(Karl Arnet)'(id:648) from 74.76.179.204:54823
+2016-08-17 18:43:22.482421|INFO    |VirtualServerBase|  1| client connected 'headcrabaregood'(id:633) from 73.253.129.160:59679
+2016-08-17 18:43:22.549804|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:6) from 70.168.122.19:55734
+2016-08-17 18:43:22.678710|INFO    |VirtualServerBase|  1| client connected 'The Black Whale'(id:505) from 73.89.118.117:54568
+2016-08-17 18:43:22.889648|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:51735
+2016-08-17 18:43:22.959960|INFO    |VirtualServerBase|  1| client connected 'nwarner426'(id:557) from 75.134.147.127:63619
+2016-08-17 18:43:23.565429|INFO    |VirtualServerBase|  1| client connected 'MsKitty'(id:810) from 184.4.118.59:50314
+2016-08-17 18:43:30.085937|INFO    |VirtualServerBase|  1| client connected 'headcrabsaregood'(id:848) from 73.253.129.160:51500
+2016-08-17 18:44:16.669921|INFO    |VirtualServerBase|  1| client disconnected 'Hank(Karl Arnet)'(id:648) reason 'reasonmsg=leaving'
+2016-08-17 18:45:30.328125|INFO    |VirtualServerBase|  1| client disconnected 'headcrabsaregood'(id:848) reason 'reasonmsg=Leaving'
+2016-08-17 18:46:53.011718|INFO    |VirtualServerBase|  1| client connected 'headcrabsaregood'(id:848) from 73.253.129.160:60360
+2016-08-17 18:47:10.872070|INFO    |VirtualServerBase|  1| client disconnected 'headcrabsaregood'(id:848) reason 'reasonmsg=Leaving'
+2016-08-17 18:52:08.141601|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=leaving'
+2016-08-17 18:54:42.852539|INFO    |VirtualServerBase|  1| client disconnected 'nwarner426'(id:557) reason 'reasonmsg=leaving'
+2016-08-17 18:54:54.008789|INFO    |VirtualServerBase|  1| client connected 'nwarner426'(id:557) from 75.134.147.127:63619

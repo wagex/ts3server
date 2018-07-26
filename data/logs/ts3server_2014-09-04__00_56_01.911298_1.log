@@ -1,0 +1,4 @@
+2014-09-04 00:56:05.674329|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2014-09-25 02:24:08.990483|INFO    |VirtualServer |  1| client (id:221) was added to servergroup 'Server Admin'(id:6) by client 'ross'(id:14)
+2014-09-28 10:00:36.785266|INFO    |VirtualServer |  1| client (id:212) was removed from servergroup 'Papa McPlaymaker'(id:14) by client 'Retroactively'(id:7)
+2014-09-28 10:01:05.171889|INFO    |VirtualServer |  1| client (id:212) was added to servergroup 'Papa McPlaymaker'(id:14) by client 'Retroactively'(id:7)

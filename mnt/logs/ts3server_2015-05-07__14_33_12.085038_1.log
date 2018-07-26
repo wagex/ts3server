@@ -1,0 +1,15 @@
+2015-05-07 14:33:29.954060|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-05-07 14:36:29.937355|INFO    |VirtualServer |  1| query client connected 'serveradmin from 127.0.0.1:1560'(id:1)
+2015-05-08 21:21:50.324199|INFO    |VirtualServerBase|  1| channel 'CS GO'(id:129) created by 'TacosAndNachos'(id:318)
+2015-05-08 21:34:26.117427|INFO    |VirtualServerBase|  1| channel 'CS GO'(id:129) deleted by 'server'(id:0)
+2015-05-09 17:58:50.380343|INFO    |VirtualServerBase|  1| channel 'Cerson cahnnel'(id:130) created by 'Carson'(id:321)
+2015-05-10 00:57:48.646170|INFO    |VirtualServerBase|  1| channel 'Cerson cahnnel'(id:130) deleted by 'server'(id:0)
+2015-05-10 15:27:19.674682|INFO    |VirtualServerBase|  1| channel 'Robaphet'(id:114) edited by '[MERCK CSGO] Malluo'(id:289)
+2015-05-10 17:03:12.764740|INFO    |VirtualServer |  1| client (id:394) was added to servergroup 'Trance'(id:12) by client 'Ritsu'(id:349)
+2015-05-10 17:03:24.391405|INFO    |VirtualServer |  1| client (id:394) was added to servergroup 'Server Admin'(id:6) by client 'Vereor Nox'(id:394)
+2015-05-10 17:03:39.849289|INFO    |VirtualServer |  1| client (id:394) was added to servergroup 'super duper admin'(id:9) by client 'Vereor Nox'(id:394)
+2015-05-10 17:03:51.571959|INFO    |VirtualServer |  1| client 'Vereor Nox'(id:394) was added to channelgroup 'Channel Admin'(id:5) by client 'Vereor Nox'(id:394) in channel 'Quarter for the Wicked'(id:29)
+2015-05-11 20:08:18.229733|INFO    |VirtualServerBase|  1| channel '1337'(id:118) deleted by 'ross'(id:6)
+2015-05-11 20:08:37.621842|INFO    |VirtualServerBase|  1| channel 'March of the Penguins Subchannel'(id:50) deleted by 'ross'(id:6)
+2015-05-15 02:31:19.570583|INFO    |VirtualServerBase|  1| channel 'A Game'(id:90) edited by 'Rudy'(id:100)
+2015-05-15 19:29:20.075188|INFO    |VirtualServerBase|  1| query client disconnected 'serveradmin from 127.0.0.1:1560'(id:1) reason 'reasonmsg=disconnecting'

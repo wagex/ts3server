@@ -1,0 +1,14 @@
+2015-05-05 16:25:19.109442|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-05-06 05:48:52.018062|INFO    |VirtualServerBase|  1| channel 'Quarter for the Wicked'(id:29) edited by 'Dark'(id:276)
+2015-05-06 16:34:33.362941|INFO    |VirtualServerBase|  1| channel 'Spetsnaz'(id:16) deleted by 'ross'(id:6)
+2015-05-06 16:34:36.523121|INFO    |VirtualServerBase|  1| channel 'S.A.S.'(id:15) deleted by 'ross'(id:6)
+2015-05-06 16:34:39.812310|INFO    |VirtualServerBase|  1| channel 'SQUAD A'(id:18) deleted by 'ross'(id:6)
+2015-05-06 16:34:42.450460|INFO    |VirtualServerBase|  1| channel 'SQUAD B'(id:19) deleted by 'ross'(id:6)
+2015-05-06 16:34:51.278965|INFO    |VirtualServerBase|  1| channel 'bf3'(id:35) deleted by 'ross'(id:6)
+2015-05-06 16:34:55.997235|INFO    |VirtualServerBase|  1| channel 'Blue'(id:11) deleted by 'ross'(id:6)
+2015-05-06 16:34:58.594384|INFO    |VirtualServerBase|  1| channel 'Purple'(id:12) deleted by 'ross'(id:6)
+2015-05-06 16:35:15.463349|INFO    |VirtualServerBase|  1| channel 'Americas army'(id:65) edited by 'ross'(id:6)
+2015-05-06 16:35:25.827941|INFO    |VirtualServerBase|  1| channel 'Americas army'(id:65) deleted by 'ross'(id:6)
+2015-05-06 16:35:45.486066|INFO    |VirtualServerBase|  1| channel 'Americas Army'(id:128) created by 'ross'(id:6)
+2015-05-07 14:13:13.964744|INFO    |VirtualServer |  1| query client connected 'serveradmin from 127.0.0.1:31629'(id:1)
+2015-05-07 14:22:55.029979|INFO    |VirtualServerBase|  1| query client disconnected 'serveradmin from 127.0.0.1:31629'(id:1) reason 'reasonmsg=disconnecting'

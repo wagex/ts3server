@@ -1,0 +1,1259 @@
+2015-11-19 13:11:50.687359|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.10.3 (2014-01-01 16:28:39)
+2015-11-19 13:11:50.690359|INFO    |ServerLibPriv |   | SystemInformation: Windows 8 (9200) x64 (AMD or Intel) Binary: 32bit
+2015-11-19 13:11:50.810368|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2015-11-19 13:11:50.811367|INFO    |DatabaseQuery |   | dbPlugin version: 3.7.3
+2015-11-19 13:11:50.834368|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2015-11-19 13:11:50.921372|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2015-11-19 13:11:55.353625|INFO    |              |   | Puzzle precompute time: 4278
+2015-11-19 13:11:55.499636|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2015-11-19 13:11:57.724763|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2015-11-19 13:11:57.726766|INFO    |Query         |   | listening on 0.0.0.0:10011
+2015-11-22 18:11:34.625458|INFO    |Query         |   | query from 1 107.129.31.5:32546 issued: login with account "serveradmin"(serveradmin)
+2015-11-22 18:32:29.706514|INFO    |Query         |   | query from 2 127.0.0.1:54620 issued: login with account "serveradmin"(serveradmin)
+2015-11-22 19:16:11.470186|INFO    |Query         |   | query from 3 107.129.31.5:31294 issued: login with account "serveradmin"(serveradmin)
+2015-11-24 03:08:00.976506|INFO    |Query         |   | query from 4 107.129.31.5:26539 issued: login with account "serveradmin"(serveradmin)
+2015-12-01 00:02:50.912235|INFO    |VirtualSvrMgr |   | executing monthly interval
+2015-12-01 00:02:50.919235|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2015-12-06 00:32:55.090547|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 00:52:55.301106|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 01:12:55.440909|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 01:22:57.042272|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 01:32:59.033940|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 01:52:55.555768|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 02:12:55.590812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 02:32:55.737334|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 02:52:55.725475|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 03:12:55.770534|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 03:32:55.835546|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 03:42:56.097107|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 04:02:55.966401|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 04:12:56.113871|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 04:32:56.162661|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 04:52:56.242743|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 05:12:56.339518|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 05:32:56.367719|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 05:52:56.456994|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 06:12:56.723460|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 06:32:56.780861|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 06:42:57.117153|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 07:02:57.024319|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 07:22:56.993820|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 07:32:57.137092|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 07:52:57.157735|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 08:12:57.294117|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 08:32:57.440854|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 08:52:57.491940|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 09:12:57.604938|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 09:32:57.791825|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 09:42:58.048215|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 10:02:58.056498|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 10:22:58.175526|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 10:42:58.312357|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 11:02:58.401842|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 11:22:58.551317|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 11:42:58.680916|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 12:02:58.798362|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 12:22:58.856552|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 12:32:59.102215|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 12:52:59.092339|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 13:12:59.193164|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 13:12:59.194164|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 13:12:59.194164|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 13:12:59.194164|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:12:59.194164|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:13:01.094502|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:13:01.094502|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:13:03.096795|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:13:03.096795|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:22:59.208737|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:22:59.208737|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:23:01.009052|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 13:23:01.010087|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 13:23:01.010087|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 13:23:01.010087|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:23:01.010087|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:23:03.012464|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:23:03.012464|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:32:59.165124|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:32:59.165124|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:33:01.067285|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:33:01.067285|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:33:03.070532|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 13:33:03.071531|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 13:33:03.071531|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 13:33:03.071531|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:33:03.071531|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:42:59.221133|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:42:59.221133|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:43:01.022238|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:43:01.022238|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:43:03.024395|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:43:03.024395|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:52:59.375670|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 13:52:59.375670|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 13:52:59.375670|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 13:52:59.375670|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:52:59.375670|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:53:01.076800|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:53:01.076800|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:53:03.079924|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 13:53:03.079924|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:02:59.386638|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:02:59.386638|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:03:01.088818|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 14:03:01.088818|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 14:03:01.088818|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 14:03:01.088818|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:03:01.088818|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:03:03.090126|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:03:03.090126|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:12:59.360602|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:12:59.360602|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:13:01.060843|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:13:01.060843|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:13:03.063080|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 14:13:03.063080|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 14:13:03.063080|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 14:13:03.063080|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:13:03.063080|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:22:59.410566|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:22:59.410566|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:23:01.011659|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:23:01.011659|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:23:03.012820|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:23:03.012820|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:32:59.483008|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 14:32:59.483008|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 14:32:59.483008|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 14:32:59.483008|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:32:59.483008|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:33:01.086211|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:33:01.086211|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:33:03.087597|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:33:03.087597|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:42:59.536087|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:42:59.536087|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:43:01.040217|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 14:43:01.041219|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 14:43:01.041219|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 14:43:01.041219|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:43:01.041219|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:43:03.044401|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:43:03.044401|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:52:59.561200|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:52:59.561200|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:53:01.063280|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:53:01.063280|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:53:03.066448|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 14:53:03.066448|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 14:53:03.066448|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 14:53:03.066448|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 14:53:03.066448|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:02:59.529451|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:02:59.529451|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:03:01.031538|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:03:01.031538|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:03:03.031686|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:03:03.031686|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:12:59.583920|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 15:12:59.584920|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 15:12:59.584920|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 15:12:59.584920|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:12:59.584920|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:13:01.086117|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:13:01.086117|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:13:03.088388|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:13:03.088388|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:22:59.639862|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:22:59.639862|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:23:01.040026|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 15:23:01.041025|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 15:23:01.041025|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 15:23:01.041025|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:23:01.041025|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:23:03.044263|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:23:03.044263|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:32:59.682595|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:32:59.682595|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:33:01.083754|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:33:01.083754|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:33:03.085868|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 15:33:03.085868|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 15:33:03.085868|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 15:33:03.085868|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:33:03.085868|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:42:59.716944|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:42:59.716944|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:43:01.019081|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:43:01.019081|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:43:03.019248|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:43:03.019248|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:52:59.720405|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 15:52:59.721404|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 15:52:59.721404|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 15:52:59.721404|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:52:59.721404|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:53:01.021593|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:53:01.021593|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:53:03.023751|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 15:53:03.023751|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:02:59.838400|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:02:59.838400|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:03:01.040466|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 16:03:01.040466|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 16:03:01.040466|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 16:03:01.041474|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:03:01.041474|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:03:03.043848|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:03:03.043848|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:12:59.810580|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:12:59.810580|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:13:01.010746|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:13:01.010746|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:13:03.010860|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 16:13:03.011859|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 16:13:03.011859|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 16:13:03.011859|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:13:03.011859|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:22:59.892629|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:22:59.892629|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:23:01.092819|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:23:01.092819|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:23:03.093009|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:23:03.093009|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:32:59.918355|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 16:32:59.918355|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 16:32:59.918355|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 16:32:59.918355|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:32:59.918355|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:33:01.018417|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:33:01.018417|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:33:03.018604|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:33:03.018604|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:43:00.003523|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 16:43:00.004528|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 16:43:00.004528|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 16:43:00.004528|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:43:00.004528|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:43:02.005753|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:43:02.005753|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:43:04.006992|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:43:04.006992|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:53:00.067517|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:53:00.067517|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:53:02.069720|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 16:53:02.069720|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 16:53:02.069720|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 16:53:02.069720|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:53:02.069720|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:53:04.070865|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 16:53:04.070865|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:03:00.128812|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:03:00.128812|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:03:02.030918|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:03:02.030918|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:03:04.039033|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 17:03:04.039033|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 17:03:04.039033|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 17:03:04.039033|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:03:04.039033|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:13:00.208540|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:13:00.208540|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:13:02.009646|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:13:02.009646|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:13:04.010760|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:13:04.010760|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:23:00.299111|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 17:23:00.299111|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 17:23:00.299111|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 17:23:00.299111|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:23:00.299111|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:23:02.099215|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:23:02.099215|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:23:04.099329|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:23:04.099329|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:33:00.304072|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:33:00.304072|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:33:02.007171|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 17:33:02.008168|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 17:33:02.008168|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 17:33:02.008168|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:33:02.008168|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:33:04.009285|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:33:04.009285|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:43:00.351824|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:43:00.351824|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:43:02.053922|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:43:02.053922|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:43:04.056037|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 17:43:04.057035|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 17:43:04.057035|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 17:43:04.057035|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:43:04.057035|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:53:00.501249|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:53:00.501249|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:53:02.001334|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:53:02.001334|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:53:04.002452|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 17:53:04.002452|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:03:00.429532|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 18:03:00.430534|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 18:03:00.430534|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 18:03:00.430534|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:03:00.430534|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:03:02.031625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:03:02.031625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:03:04.035740|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:03:04.035740|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:13:00.548871|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:13:00.548871|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:13:02.049954|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 18:13:02.049954|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 18:13:02.049954|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 18:13:02.049954|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:13:02.049954|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:13:04.052071|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:13:04.052071|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:23:00.637819|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:23:00.637819|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:23:02.038930|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:23:02.038930|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:23:04.044079|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 18:23:04.045046|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 18:23:04.045046|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 18:23:04.045046|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:23:04.045046|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:33:00.599321|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:33:00.599321|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:33:02.000402|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:33:02.000402|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:33:04.000576|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:33:04.000576|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:43:00.710066|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 18:43:00.711061|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 18:43:00.711061|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 18:43:00.711061|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:43:00.711061|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:43:02.012137|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:43:02.012137|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:43:04.014256|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:43:04.014256|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:53:00.703787|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:53:00.703787|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:53:02.005839|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 18:53:02.005839|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 18:53:02.005839|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 18:53:02.005839|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:53:02.005839|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:53:04.007948|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 18:53:04.007948|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:03:00.755454|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:03:00.755454|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:03:02.057528|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:03:02.057528|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:03:04.058644|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 19:03:04.059642|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 19:03:04.059642|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 19:03:04.059642|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:03:04.059642|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:13:00.859362|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:13:00.859362|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:13:02.061070|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:13:02.061898|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:13:04.064545|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:13:04.064545|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:23:00.930942|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 19:23:00.930942|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 19:23:00.930942|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 19:23:00.930942|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:23:00.930942|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:23:02.032009|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:23:02.032009|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:23:04.036118|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:23:04.036118|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:33:01.028629|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 19:33:01.028629|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 19:33:01.028629|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 19:33:01.028629|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:33:01.028629|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:33:03.031777|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:33:03.031777|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:33:05.032891|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:33:05.032891|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:43:00.979823|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:43:00.980638|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:43:02.082700|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 19:43:02.082700|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 19:43:02.082700|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 19:43:02.082700|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:43:02.082700|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:43:04.084817|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:43:04.084817|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:53:01.070721|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:53:01.070721|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:53:03.072833|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 19:53:03.072833|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 19:53:03.072833|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 19:53:03.072833|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:53:03.072833|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:53:05.073987|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 19:53:05.073987|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:03:01.152338|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:03:01.152338|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:03:03.053444|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:03:03.053444|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:03:05.056559|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 20:03:05.057559|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 20:03:05.057559|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 20:03:05.057559|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:03:05.057559|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:13:01.125258|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:13:01.125258|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:13:03.026367|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:13:03.026367|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:13:05.028483|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:13:05.028483|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:23:01.196737|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 20:23:01.197737|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 20:23:01.197737|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 20:23:01.197737|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:23:01.197737|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:23:03.098845|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:23:03.098845|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:23:05.098963|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:23:05.098963|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:33:01.326775|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:33:01.326775|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:33:03.029873|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 20:33:03.029873|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 20:33:03.029873|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 20:33:03.029873|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:33:03.029873|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:33:05.032988|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:33:05.032988|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:43:01.258991|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:43:01.258991|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:43:03.065093|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:43:03.065093|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:43:05.069259|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 20:43:05.069259|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 20:43:05.069259|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 20:43:05.069259|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:43:05.069259|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:53:01.354772|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:53:01.354772|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:53:03.055834|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:53:03.055834|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:53:05.055948|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 20:53:05.055948|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:03:01.352044|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 21:03:01.353044|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 21:03:01.353044|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 21:03:01.353044|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:03:01.353044|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:03:03.055141|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:03:03.055141|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:03:05.057257|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:03:05.057257|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:13:01.483218|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:13:01.483218|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:13:03.086315|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 21:13:03.086315|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 21:13:03.086315|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 21:13:03.086315|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:13:03.086315|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:13:05.086423|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:13:05.086423|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:23:01.528250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:23:01.528250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:23:03.031333|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:23:03.031333|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:23:05.032452|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 21:23:05.032452|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 21:23:05.032452|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 21:23:05.032452|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:23:05.032452|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:33:01.541281|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:33:01.541281|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:33:03.042369|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:33:03.042369|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:33:05.045525|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:33:05.045525|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:43:01.700734|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 21:43:01.701732|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 21:43:01.701732|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 21:43:01.701732|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:43:01.701732|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:43:03.005806|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:43:03.005806|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:43:05.006922|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:43:05.006922|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:53:01.747310|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:53:01.747310|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:53:03.048385|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 21:53:03.049384|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 21:53:03.049384|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 21:53:03.049384|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:53:03.049384|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:53:05.051499|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 21:53:05.051499|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:03:01.834037|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:03:01.834037|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:03:03.034116|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:03:03.034116|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:03:05.037222|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 22:03:05.037222|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 22:03:05.037222|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 22:03:05.037222|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:03:05.037222|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:13:01.847746|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:13:01.847746|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:13:03.048816|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:13:03.048816|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:13:05.048930|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:13:05.048930|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:23:01.812314|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 22:23:01.812314|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 22:23:01.812314|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 22:23:01.812314|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:23:01.812314|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:23:03.012384|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:23:03.012384|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:23:05.017504|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:23:05.017504|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:33:01.923152|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:33:01.923152|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:33:03.025216|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 22:33:03.026224|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 22:33:03.026224|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 22:33:03.026224|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:33:03.026224|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:33:05.027363|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:33:05.027363|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:43:01.937901|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:43:01.937901|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:43:03.037964|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:43:03.037964|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:43:05.042081|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 22:43:05.043079|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 22:43:05.043079|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 22:43:05.043079|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:43:05.043079|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:53:01.997918|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:53:01.997918|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:53:03.000009|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:53:03.000009|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:53:05.002090|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 22:53:05.002090|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:03:02.040926|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 23:03:02.041926|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 23:03:02.041926|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 23:03:02.041926|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:03:02.041926|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:03:04.042040|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:03:04.042040|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:03:06.042161|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:03:06.042161|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:13:01.983362|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:13:01.983362|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:13:03.085390|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 23:13:03.086392|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 23:13:03.086392|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 23:13:03.086392|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:13:03.086392|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:13:05.089508|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:13:05.089508|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:23:02.041568|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:23:02.041568|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:23:04.045681|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 23:23:04.045681|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 23:23:04.045681|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 23:23:04.045681|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:23:04.045681|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:23:06.046799|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:23:06.046799|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:33:02.107380|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:33:02.107380|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:33:04.009489|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:33:04.009489|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:33:06.010605|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 23:33:06.010605|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 23:33:06.010605|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 23:33:06.010605|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:33:06.010605|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:43:02.253189|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:43:02.253189|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:43:04.058295|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:43:04.058295|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:43:06.062437|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:43:06.062437|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:53:02.271837|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-06 23:53:02.272835|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-06 23:53:02.272835|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-06 23:53:02.272835|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:53:02.272835|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:53:04.072973|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:53:04.072973|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:53:06.076052|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-06 23:53:06.076052|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:03:02.342591|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:03:02.342591|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:03:04.047686|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 00:03:04.048685|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 00:03:04.048685|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 00:03:04.048685|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:03:04.048685|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:03:06.052838|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:03:06.052838|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:13:02.433138|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:13:02.433138|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:13:04.033230|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:13:04.033230|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:13:06.037343|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 00:13:06.037343|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 00:13:06.037343|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 00:13:06.037343|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:13:06.037343|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:23:02.357792|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:23:02.357792|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:23:04.077889|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:23:04.077889|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:23:06.088005|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:23:06.088005|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:33:02.491861|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 00:33:02.491861|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 00:33:02.491861|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 00:33:02.491861|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:33:02.491861|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:33:04.092955|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:33:04.092955|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:33:06.096068|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:33:06.096068|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:43:02.559468|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:43:02.559468|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:43:04.060554|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 00:43:04.061554|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 00:43:04.061554|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 00:43:04.061554|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:43:04.061554|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:43:06.063669|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:43:06.063669|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:53:02.580684|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:53:02.580684|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:53:04.080770|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:53:04.080770|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:53:06.080887|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 00:53:06.081883|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 00:53:06.081883|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 00:53:06.081883|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 00:53:06.081883|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:03:02.693970|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:03:02.693970|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:03:04.096049|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:03:04.096049|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:03:06.098165|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:03:06.098165|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:13:02.684908|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 01:13:02.684908|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 01:13:02.684908|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 01:13:02.684908|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:13:02.684908|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:13:04.084988|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:13:04.084988|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:13:06.085105|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:13:06.085105|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:23:02.769870|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:23:02.769870|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:23:04.070945|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 01:23:04.071944|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 01:23:04.071944|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 01:23:04.071944|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:23:04.071944|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:23:06.074058|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:23:06.074058|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:33:02.786661|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:33:02.786661|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:33:04.088736|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:33:04.088736|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:33:06.088850|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 01:33:06.089851|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 01:33:06.089851|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 01:33:06.089851|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:33:06.089851|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:43:02.906660|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:43:02.906660|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:43:04.007724|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:43:04.007724|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:43:06.009838|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:43:06.009838|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:53:02.867592|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 01:53:02.868590|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 01:53:02.868590|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 01:53:02.868590|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:53:02.868590|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:53:04.069661|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:53:04.069661|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:53:06.071777|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 01:53:06.071777|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:03:03.004932|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 02:03:03.004932|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 02:03:03.004932|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 02:03:03.004932|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:03:03.004932|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:03:05.006702|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:03:05.006702|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:03:07.007163|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:03:07.007163|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:13:03.025723|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:13:03.025723|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:13:05.027840|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 02:13:05.027840|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 02:13:05.027840|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 02:13:05.027840|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:13:05.027840|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:13:07.029951|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:13:07.029951|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:23:02.996099|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:23:02.996099|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:23:04.099163|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:23:04.099163|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:23:06.003272|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 02:23:06.003272|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 02:23:06.003272|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 02:23:06.003272|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:23:06.003272|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:33:03.189590|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:33:03.189590|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:33:05.092701|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:33:05.092701|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:33:07.094814|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 02:33:07.094814|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 02:33:07.094814|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 02:33:07.094814|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:33:07.094814|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:43:03.250253|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:43:03.250253|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:43:05.053357|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:43:05.053357|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:43:07.053475|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:43:07.053475|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:53:03.284665|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 02:53:03.284665|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 02:53:03.284665|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 02:53:03.284665|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:53:03.284665|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:53:05.086766|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:53:05.086766|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:53:07.089882|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 02:53:07.089882|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:03:03.228681|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:03:03.228681|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:03:05.040784|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 03:03:05.040784|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 03:03:05.040784|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 03:03:05.040784|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:03:05.040784|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:03:07.041900|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:03:07.041900|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:13:03.277288|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:13:03.277288|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:13:05.078428|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:13:05.078428|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:13:07.080544|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 03:13:07.080544|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 03:13:07.081544|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 03:13:07.081544|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:13:07.081544|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:23:03.451493|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:23:03.451493|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:23:05.054618|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:23:05.054618|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:23:07.058697|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:23:07.058697|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:33:03.488821|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 03:33:03.489820|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 03:33:03.489820|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 03:33:03.489820|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:33:03.489820|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:33:05.098912|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:33:05.098912|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:33:07.001022|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:33:07.001022|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:43:03.540236|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:43:03.540236|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:43:05.041320|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 03:43:05.042320|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 03:43:05.042320|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 03:43:05.042320|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:43:05.042320|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:43:07.042452|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:43:07.042452|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:53:03.597860|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:53:03.597860|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:53:05.097947|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:53:05.097947|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:53:07.098061|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 03:53:07.099060|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 03:53:07.099060|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 03:53:07.099060|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 03:53:07.099060|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:03:03.542035|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:03:03.542035|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:03:05.045154|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:03:05.045154|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:03:07.046236|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:03:07.046236|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:13:03.640041|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 04:13:03.640041|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 04:13:03.641040|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 04:13:03.641040|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:13:03.641040|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:13:05.042121|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:13:05.042121|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:13:07.043236|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:13:07.043236|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:23:03.752201|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:23:03.752201|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:23:05.053277|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 04:23:05.054274|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 04:23:05.054274|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 04:23:05.054274|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:23:05.054274|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:23:07.056392|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:23:07.056392|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:33:03.792886|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:33:03.792886|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:33:05.094923|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:33:05.094923|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:33:07.007031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 04:33:07.007031|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 04:33:07.007031|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 04:33:07.007031|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:33:07.007031|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:43:03.814726|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:43:03.814726|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:43:05.017796|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:43:05.017796|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:43:07.018909|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:43:07.018909|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:53:03.884379|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 04:53:03.884379|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 04:53:03.884379|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 04:53:03.884379|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:53:03.884379|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:53:05.084443|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:53:05.084443|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:53:07.084557|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 04:53:07.084557|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:03:04.058467|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 05:03:04.058467|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 05:03:04.058467|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 05:03:04.058467|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:03:04.058467|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:03:06.064580|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:03:06.064580|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:03:08.064696|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:03:08.064696|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:13:03.980558|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:13:03.980558|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:13:05.081650|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 05:13:05.082617|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 05:13:05.082617|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 05:13:05.082617|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:13:05.082617|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:13:07.082730|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:13:07.082730|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:23:04.163535|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:23:04.163535|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:23:06.065638|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 05:23:06.065638|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 05:23:06.066639|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 05:23:06.066639|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:23:06.066639|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:23:08.069809|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:23:08.069809|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:33:04.125231|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:33:04.125231|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:33:06.027342|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:33:06.027342|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:33:08.027454|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 05:33:08.028454|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 05:33:08.028454|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 05:33:08.028454|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:33:08.028454|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:43:04.237957|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:43:04.237957|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:43:06.044082|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:43:06.044082|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:43:08.046196|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:43:08.046196|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:53:04.251948|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 05:53:04.251948|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 05:53:04.251948|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 05:53:04.251948|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:53:04.251948|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:53:06.055050|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:53:06.055050|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:53:08.057165|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 05:53:08.057165|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:03:04.157267|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:03:04.157267|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:03:06.058374|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 06:03:06.059376|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 06:03:06.059376|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 06:03:06.059376|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:03:06.059376|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:03:08.060489|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:03:08.060489|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:13:04.288291|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:13:04.288291|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:13:06.090426|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:13:06.090426|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:13:08.092540|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 06:13:08.092540|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 06:13:08.092540|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 06:13:08.092540|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:13:08.092540|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:23:04.387443|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:23:04.387443|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:23:06.088539|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:23:06.088539|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:23:08.091655|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:23:08.091655|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:33:04.381057|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 06:33:04.381057|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 06:33:04.381057|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 06:33:04.381057|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:33:04.381057|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:33:06.082153|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:33:06.082153|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:33:08.082267|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:33:08.082267|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:43:04.491002|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:43:04.491002|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:43:06.005093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 06:43:06.006088|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 06:43:06.006088|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 06:43:06.006088|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:43:06.006088|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:43:08.015204|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:43:08.015204|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:53:04.519116|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:53:04.519116|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:53:06.021194|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:53:06.021194|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:53:08.022309|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 06:53:08.022309|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 06:53:08.023308|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 06:53:08.023308|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 06:53:08.023308|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:03:04.595343|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:03:04.595343|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:03:06.096428|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:03:06.096428|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:03:08.099542|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:03:08.099542|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:13:04.614515|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 07:13:04.615515|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 07:13:04.615515|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 07:13:04.615515|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:13:04.615515|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:13:06.016593|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:13:06.016593|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:13:08.019707|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:13:08.019707|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:23:04.619257|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:23:04.619257|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:23:06.019336|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 07:23:06.020336|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 07:23:06.020336|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 07:23:06.020336|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:23:06.020336|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:23:08.025454|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:23:08.025454|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:33:04.651584|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:33:04.651584|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:33:06.052665|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:33:06.052665|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:33:08.053816|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 07:33:08.054816|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 07:33:08.054816|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 07:33:08.054816|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:33:08.054816|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:43:04.776019|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:43:04.776019|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:43:06.079093|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:43:06.079093|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:43:08.086206|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:43:08.086206|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:53:04.828567|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 07:53:04.829568|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 07:53:04.829568|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 07:53:04.829568|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:53:04.829568|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:53:06.031600|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:53:06.031600|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:53:08.031717|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 07:53:08.031717|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:03:04.888181|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:03:04.888181|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:03:06.089252|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 08:03:06.090253|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 08:03:06.090253|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 08:03:06.090253|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:03:06.090253|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:03:08.091367|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:03:08.091367|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:13:04.934735|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:13:04.934735|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:13:06.035798|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:13:06.035798|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:13:08.035929|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 08:13:08.036912|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 08:13:08.036912|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 08:13:08.036912|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:13:08.036912|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:23:04.956716|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:23:04.956716|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:23:06.057780|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:23:06.057780|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:23:08.057892|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:23:08.057892|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:33:04.987139|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 08:33:04.988137|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 08:33:04.988137|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 08:33:04.988137|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:33:04.988137|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:33:06.090203|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:33:06.090203|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:33:08.091318|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:33:08.091318|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:43:05.093703|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 08:43:05.093703|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 08:43:05.093703|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 08:43:05.093703|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:43:05.093703|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:43:07.093816|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:43:07.093816|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:43:09.093931|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:43:09.093931|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:53:05.138272|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:53:05.138272|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:53:07.040394|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 08:53:07.040394|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 08:53:07.040394|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 08:53:07.040394|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:53:07.040394|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:53:09.042496|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 08:53:09.042496|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:03:05.100142|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:03:05.100142|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:03:07.000251|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:03:07.000251|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:03:09.002363|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 09:03:09.002363|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 09:03:09.002363|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 09:03:09.002363|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:03:09.002363|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:13:05.158579|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:13:05.158579|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:13:07.060692|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:13:07.060692|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:13:09.062804|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:13:09.062804|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:23:05.232814|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 09:23:05.232814|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 09:23:05.232814|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 09:23:05.232814|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:23:05.232814|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:23:07.032912|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:23:07.032912|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:23:09.033028|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:23:09.033028|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:33:05.186164|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:33:05.186164|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:33:07.087273|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 09:33:07.087273|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 09:33:07.087273|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 09:33:07.087273|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:33:07.087273|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:33:09.088388|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:33:09.088388|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:43:05.331112|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:43:05.331112|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:43:07.037244|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:43:07.037244|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:43:09.039323|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 09:43:09.039323|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 09:43:09.039323|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 09:43:09.039323|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:43:09.039323|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:53:05.338537|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:53:05.338537|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:53:07.042637|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:53:07.042637|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:53:09.042753|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 09:53:09.042753|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:03:05.402815|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 10:03:05.402815|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 10:03:05.402815|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 10:03:05.402815|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:03:05.402815|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:03:07.005908|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:03:07.005908|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:03:09.007022|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:03:09.007022|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:13:05.536489|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:13:05.536489|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:13:07.036575|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 10:13:07.037574|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 10:13:07.037574|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 10:13:07.037574|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:13:07.037574|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:13:09.038689|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:13:09.038689|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:23:05.540999|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:23:05.540999|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:23:07.042085|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:23:07.042085|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:23:09.047200|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 10:23:09.047200|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 10:23:09.047200|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 10:23:09.047200|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:23:09.047200|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:33:05.650752|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:33:05.650752|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:33:07.051832|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:33:07.051832|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:33:09.051947|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:33:09.051947|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:43:05.594343|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 10:43:05.594343|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 10:43:05.594343|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 10:43:05.594343|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:43:05.594343|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:43:07.096435|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:43:07.096435|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:43:09.098577|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:43:09.098577|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:53:05.628473|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:53:05.628473|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:53:07.031554|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 10:53:07.031554|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 10:53:07.031554|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 10:53:07.032556|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:53:07.032556|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:53:09.037671|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 10:53:09.037671|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:03:05.679851|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:03:05.679851|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:03:07.089931|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:03:07.089931|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:03:09.091047|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 11:03:09.092047|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 11:03:09.092047|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 11:03:09.092047|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:03:09.092047|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:13:05.753151|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:13:05.753151|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:13:07.053225|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:13:07.053225|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:13:09.054339|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:13:09.054339|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:23:05.669476|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 11:23:05.669476|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 11:23:05.669476|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 11:23:05.669476|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:23:05.669476|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:23:07.080558|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:23:07.080558|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:23:09.081703|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:23:09.081703|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:33:05.701173|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:33:05.701173|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:33:07.003217|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 11:33:07.004217|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 11:33:07.004217|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 11:33:07.004217|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:33:07.004217|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:33:09.005330|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:33:09.005330|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:43:05.823501|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:43:05.823501|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:43:07.026573|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:43:07.026573|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:43:09.027740|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 11:43:09.027740|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 11:43:09.027740|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 11:43:09.027740|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:43:09.027740|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:53:05.879377|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:53:05.879377|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:53:07.079444|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:53:07.079444|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:53:09.086560|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 11:53:09.086560|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:03:05.933985|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 12:03:05.933985|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 12:03:05.933985|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 12:03:05.933985|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:03:05.933985|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:03:07.035048|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:03:07.035048|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:03:09.036164|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:03:09.036164|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:13:05.892183|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:13:05.892183|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:13:07.092254|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 12:13:07.093253|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 12:13:07.093253|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 12:13:07.093253|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:13:07.093253|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:13:09.095403|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:13:09.095403|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:23:05.944905|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:23:05.944905|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:23:07.044968|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:23:07.044968|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:23:09.049086|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 12:23:09.049086|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 12:23:09.049086|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 12:23:09.049086|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:23:09.049086|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:33:06.040681|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:33:06.040681|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:33:08.040797|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:33:08.040797|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:33:10.042962|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 12:33:10.043961|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 12:33:10.043961|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 12:33:10.043961|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:33:10.043961|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:43:05.985201|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:43:05.985201|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:43:07.086262|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:43:07.086262|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:43:09.087380|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:43:09.087380|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:53:06.081052|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 12:53:06.082063|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 12:53:06.082063|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 12:53:06.082063|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:53:06.082063|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:53:08.083167|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:53:08.083167|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:53:10.084279|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 12:53:10.084279|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 13:03:06.158477|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 13:03:06.158477|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 13:03:08.068586|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-12-07 13:03:08.068586|ERROR   |              |   | TS3ANetwork::Connect failed error: 10051
+2015-12-07 13:03:08.069586|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2015-12-07 13:03:08.069586|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 13:03:08.069586|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 13:03:10.070702|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 13:03:10.070702|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 13:13:06.164694|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 13:13:06.164694|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 13:13:08.065808|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2015-12-07 13:13:08.065808|ERROR   |              |   | TS3ANetwork::Send failed error: 10022

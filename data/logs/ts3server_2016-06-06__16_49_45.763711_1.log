@@ -1,0 +1,3 @@
+2016-06-06 16:49:56.022299|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2016-06-06 16:50:02.925695|INFO    |VirtualServerBase|  1| client connected 'Skit Rombony'(id:733) from 98.252.66.150:59701
+2016-06-06 16:58:58.544427|INFO    |VirtualServerBase|  1| client connected 'Rodrik'(id:598) from 24.171.29.95:58503

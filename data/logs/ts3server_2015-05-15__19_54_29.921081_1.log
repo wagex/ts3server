@@ -1,0 +1,6 @@
+2015-05-15 19:55:00.987858|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-05-16 17:40:05.556208|INFO    |VirtualServerBase|  1| channel 'war thunder'(id:131) created by 'swegyolo420'(id:320)
+2015-05-16 17:46:19.984624|INFO    |VirtualServerBase|  1| channel 'war thunder'(id:131) deleted by 'server'(id:0)
+2015-05-17 22:36:14.204388|INFO    |VirtualServerBase|  1| channel 'c2'(id:132) created as sub channel of 'League of Legends'(id:1) by 'Ritsu'(id:349)
+2015-05-17 22:36:17.688588|INFO    |VirtualServerBase|  1| channel 'c2'(id:132) deleted by 'server'(id:0)
+2015-05-18 13:07:17.148658|INFO    |VirtualServerBase|  1| channel 'AFK'(id:8) edited by 'ross'(id:6)

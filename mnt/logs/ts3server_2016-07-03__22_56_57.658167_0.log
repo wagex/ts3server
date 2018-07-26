@@ -1,0 +1,14 @@
+2016-07-03 22:56:57.659667|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.10.3 (2014-01-01 16:28:39)
+2016-07-03 22:56:57.662168|INFO    |ServerLibPriv |   | SystemInformation: Windows 8 (9200) x64 (AMD or Intel) Binary: 32bit
+2016-07-03 22:56:57.733677|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2016-07-03 22:56:57.734179|INFO    |DatabaseQuery |   | dbPlugin version: 3.7.3
+2016-07-03 22:56:57.741677|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2016-07-03 22:56:57.832188|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2016-07-03 22:57:01.803193|INFO    |              |   | Puzzle precompute time: 3929
+2016-07-03 22:57:01.813195|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2016-07-03 22:57:02.218747|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2016-07-03 22:57:02.239254|INFO    |Query         |   | listening on 0.0.0.0:10011
+2016-07-13 12:05:23.335419|INFO    |Query         |   | query from 1 127.0.0.1:27951 issued: login with account "serveradmin"(serveradmin)
+2016-07-13 16:01:00.371593|INFO    |Query         |   | query from 2 127.0.0.1:48038 issued: login with account "serveradmin"(serveradmin)
+2016-07-19 19:35:14.601220|INFO    |Query         |   | query from 3 127.0.0.1:23091 issued: login with account "serveradmin"(serveradmin)
+2016-07-19 19:42:02.356821|ERROR   |ParamParser   |   | Protocol mismatch, old client or old server?

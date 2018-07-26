@@ -1,0 +1,95 @@
+2015-06-09 21:04:07.522138|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.10.3 (2014-01-01 16:28:39)
+2015-06-09 21:04:07.527139|INFO    |ServerLibPriv |   | SystemInformation: Windows 7 SP1 (7601) x64 (AMD or Intel) Binary: 32bit
+2015-06-09 21:04:07.538139|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2015-06-09 21:04:07.538139|INFO    |DatabaseQuery |   | dbPlugin version: 3.7.3
+2015-06-09 21:04:07.545140|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2015-06-09 21:04:07.633145|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2015-06-09 21:04:10.444305|INFO    |              |   | Puzzle precompute time: 2778
+2015-06-09 21:04:10.447306|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2015-06-09 21:04:10.563312|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2015-06-09 21:04:10.564312|INFO    |Query         |   | listening on 0.0.0.0:10011
+2015-06-10 19:02:15.210783|INFO    |Query         |   | query from 1 127.0.0.1:11865 issued: login with account "serveradmin"(serveradmin)
+2015-06-11 13:33:24.169030|INFO    |Query         |   | query from 2 127.0.0.1:16978 issued: login with account "serveradmin"(serveradmin)
+2015-06-14 03:04:46.174076|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 03:14:48.008499|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 03:24:50.042933|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 03:44:46.311356|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 03:54:48.045773|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 04:04:50.080207|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 04:24:46.448636|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 04:34:48.083047|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 04:44:50.017476|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 05:04:46.718923|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 05:14:48.053318|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 05:24:50.087752|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 05:44:46.856203|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 05:54:48.090592|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 06:04:50.025021|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 06:24:47.027485|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 06:34:49.061920|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 06:44:51.096354|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 07:04:47.164765|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 07:14:49.099194|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 07:24:51.033623|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 07:44:47.302045|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 07:54:49.036462|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 08:04:51.070897|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 08:24:47.439325|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 08:34:49.073737|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 08:44:51.008165|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 09:04:47.576605|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 09:14:49.011005|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 09:24:51.045440|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 09:44:47.713885|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 09:54:49.049280|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 10:04:51.083714|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 10:24:47.852165|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 10:34:49.086554|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 10:44:51.020983|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 11:04:47.989445|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 11:14:48.023765|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 11:24:50.058200|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 11:34:52.092634|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 11:54:48.161045|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 12:04:50.095474|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 12:14:52.029903|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 12:34:48.298325|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 12:44:50.032742|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 12:54:52.067177|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 13:14:48.435605|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 13:24:50.070017|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 13:34:52.004445|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 13:54:48.572885|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 14:04:50.007285|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 14:14:52.041720|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 14:34:48.710165|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 14:44:50.044560|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 14:54:52.078994|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 15:14:48.847445|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 15:24:50.081834|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 15:34:52.016263|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 15:54:48.984725|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 16:04:49.019045|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 16:14:51.053480|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 16:24:53.087914|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 16:44:49.156325|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 16:54:51.090754|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 17:04:53.025183|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 17:24:49.293605|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 17:34:51.028022|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 17:44:53.062457|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 18:04:49.430885|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 18:14:51.065297|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-14 18:24:53.099731|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-24 09:55:03.709447|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-06-26 13:25:35.534541|INFO    |Query         |   | query from 4 127.0.0.1:15291 issued: login with account "serveradmin"(serveradmin)
+2015-06-29 14:26:47.779013|INFO    |Query         |   | query from 5 127.0.0.1:38468 issued: login with account "serveradmin"(serveradmin)
+2015-07-01 00:01:07.621800|INFO    |VirtualSvrMgr |   | executing monthly interval
+2015-07-01 00:01:07.624801|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2015-07-09 19:30:05.683636|ERROR   |ParamParser   |   | Protocol mismatch, old client or old server?
+2015-07-09 19:30:37.290443|ERROR   |ParamParser   |   | Protocol mismatch, old client or old server?
+2015-07-21 11:05:55.069913|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-08-01 00:01:07.621677|INFO    |VirtualSvrMgr |   | executing monthly interval
+2015-08-01 00:01:07.625677|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2015-08-01 07:42:44.763863|INFO    |Query         |   | query from 8 107.129.31.5:26432 issued: login with account "serveradmin"(serveradmin)
+2015-08-02 02:21:08.718989|INFO    |Query         |   | query from 9 107.129.31.5:58543 issued: login with account "serveradmin"(serveradmin)

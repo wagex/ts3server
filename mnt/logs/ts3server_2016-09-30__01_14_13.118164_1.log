@@ -1,0 +1,165 @@
+2016-09-30 01:14:19.087890|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2016-09-30 01:14:20.384765|INFO    |VirtualServerBase|  1| client connected 'nwarner426'(id:557) from 75.134.147.127:60928
+2016-09-30 01:14:22.181640|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:55592
+2016-09-30 01:14:24.900390|INFO    |VirtualServerBase|  1| client connected 'Hanz'(id:918) from 69.253.153.232:50552
+2016-09-30 01:14:25.275390|INFO    |VirtualServerBase|  1| client connected 'Skit Rombony'(id:733) from 98.252.66.150:58525
+2016-09-30 01:14:27.087890|INFO    |VirtualServerBase|  1| client connected 'herpaderp'(id:650) from 67.3.8.209:57908
+2016-09-30 01:15:23.061523|INFO    |VirtualServerBase|  1| client connected 'Hank(Karl Arnet)'(id:648) from 67.240.45.218:54618
+2016-09-30 01:26:51.784179|INFO    |VirtualServerBase|  1| client connected 'Winter'(id:900) from 69.143.206.56:61543
+2016-09-30 01:52:56.020507|INFO    |VirtualServerBase|  1| client disconnected 'nwarner426'(id:557) reason 'reasonmsg=leaving'
+2016-09-30 02:02:44.989257|INFO    |VirtualServerBase|  1| client disconnected 'Hank(Karl Arnet)'(id:648) reason 'reasonmsg=leaving'
+2016-09-30 02:11:20.398437|INFO    |VirtualServerBase|  1| client disconnected 'herpaderp'(id:650) reason 'reasonmsg=connection lost'
+2016-09-30 02:21:50.044921|INFO    |VirtualServerBase|  1| client disconnected 'Winter'(id:900) reason 'reasonmsg=leaving'
+2016-09-30 02:29:53.887695|INFO    |VirtualServerBase|  1| client disconnected 'Hanz'(id:918) reason 'reasonmsg=connection lost'
+2016-09-30 04:44:58.788085|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2016-09-30 11:34:57.152343|INFO    |VirtualServerBase|  1| client connected 'Winter'(id:900) from 69.143.206.56:61543
+2016-09-30 11:36:16.399414|INFO    |VirtualServerBase|  1| client disconnected 'Winter'(id:900) reason 'reasonmsg=leaving'
+2016-09-30 17:29:28.415039|INFO    |VirtualServerBase|  1| client connected 'Android'(id:847) from 208.54.90.202:31015
+2016-09-30 17:29:34.921875|INFO    |VirtualServerBase|  1| client disconnected 'Android'(id:847) reason 'reasonmsg=....TS3 Android....'
+2016-09-30 18:35:44.336914|INFO    |VirtualServerBase|  1| client connected 'Hanz'(id:918) from 69.253.153.232:61122
+2016-09-30 20:51:04.485351|INFO    |VirtualServerBase|  1| client connected 'headcrabaregood'(id:633) from 73.253.129.160:51369
+2016-09-30 20:56:49.516601|INFO    |VirtualServerBase|  1| client connected 'Hank(Karl Arnet)'(id:648) from 67.240.45.218:58880
+2016-09-30 21:18:48.303710|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:62709
+2016-09-30 21:23:02.563476|INFO    |VirtualServerBase|  1| client connected 'nwarner426'(id:557) from 75.134.147.127:62572
+2016-09-30 21:30:18.741210|INFO    |VirtualServerBase|  1| client connected 'herpaderp'(id:650) from 67.3.8.209:61943
+2016-09-30 23:16:43.856445|INFO    |VirtualServerBase|  1| client disconnected 'herpaderp'(id:650) reason 'reasonmsg=leaving'
+2016-10-01 00:26:14.622070|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:52951
+2016-10-01 00:43:51.188476|INFO    |VirtualServerBase|  1| client connected 'penskee'(id:922) from 173.177.79.12:61756
+2016-10-01 01:02:36.209960|INFO    |VirtualServerBase|  1| client connected 'GoSain'(id:921) from 184.162.2.188:63469
+2016-10-01 01:30:04.769531|INFO    |VirtualServerBase|  1| client disconnected 'headcrabaregood'(id:633) reason 'reasonmsg=leaving'
+2016-10-01 01:52:42.683593|INFO    |VirtualServerBase|  1| client connected 'FreezingDark'(id:928) from 24.231.88.217:64349
+2016-10-01 01:52:53.041992|INFO    |VirtualServerBase|  1| client disconnected 'FreezingDark'(id:928) reason 'reasonmsg=leaving'
+2016-10-01 02:30:27.705078|INFO    |VirtualServerBase|  1| client connected 'MsKitty'(id:810) from 184.4.118.96:53017
+2016-10-01 02:30:42.430664|INFO    |VirtualServerBase|  1| client connected 'The Black Whale'(id:505) from 73.89.118.117:56825
+2016-10-01 02:47:28.169921|INFO    |VirtualServerBase|  1| client connected 'Winter'(id:900) from 69.143.206.56:61543
+2016-10-01 02:51:58.077148|INFO    |VirtualServerBase|  1| client disconnected 'Winter'(id:900) reason 'reasonmsg=connection lost'
+2016-10-01 03:04:11.365234|INFO    |VirtualServerBase|  1| client disconnected 'The Black Whale'(id:505) reason 'reasonmsg=leaving'
+2016-10-01 03:04:12.992187|INFO    |VirtualServerBase|  1| client disconnected 'MsKitty'(id:810) reason 'reasonmsg=leaving'
+2016-10-01 04:00:54.166992|INFO    |VirtualServerBase|  1| client disconnected 'GoSain'(id:921) reason 'reasonmsg=leaving'
+2016-10-01 04:00:56.734375|INFO    |VirtualServerBase|  1| client disconnected 'penskee'(id:922) reason 'reasonmsg=leaving'
+2016-10-01 04:01:33.201171|INFO    |VirtualServerBase|  1| client disconnected 'nwarner426'(id:557) reason 'reasonmsg=leaving'
+2016-10-01 04:24:43.597656|INFO    |VirtualServerBase|  1| client disconnected 'Hanz'(id:918) reason 'reasonmsg=leaving'
+2016-10-01 04:29:04.027343|INFO    |VirtualServerBase|  1| client disconnected 'Hank(Karl Arnet)'(id:648) reason 'reasonmsg=connection lost'
+2016-10-01 04:29:06.919921|INFO    |VirtualServerBase|  1| client disconnected 'Skit Rombony'(id:733) reason 'reasonmsg=leaving'
+2016-10-01 05:21:50.417968|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2016-10-01 07:43:10.880859|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=connection lost'
+2016-10-01 13:56:56.626953|INFO    |VirtualServerBase|  1| client connected 'nwarner426'(id:557) from 75.134.147.127:60138
+2016-10-01 14:13:41.697265|INFO    |VirtualServerBase|  1| client connected 'Hank(Karl Arnet)'(id:648) from 67.240.45.218:50447
+2016-10-01 14:43:06.889648|INFO    |VirtualServerBase|  1| client connected 'Winter'(id:900) from 69.143.206.56:55775
+2016-10-01 14:47:40.421875|INFO    |VirtualServerBase|  1| client connected 'The Black Whale'(id:505) from 73.89.118.117:57875
+2016-10-01 15:12:56.139648|INFO    |VirtualServerBase|  1| client disconnected 'Winter'(id:900) reason 'reasonmsg=leaving'
+2016-10-01 16:15:56.564453|INFO    |VirtualServerBase|  1| client connected 'Hanz'(id:918) from 69.253.153.232:59468
+2016-10-01 17:34:16.462890|INFO    |VirtualServerBase|  1| client connected 'MsKitty'(id:810) from 184.4.118.96:57989
+2016-10-01 17:39:25.769531|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:59705
+2016-10-01 17:57:22.903320|INFO    |VirtualServerBase|  1| client connected 'Dong'(id:919) from 108.197.212.254:56481
+2016-10-01 19:18:54.299804|INFO    |VirtualServerBase|  1| client disconnected 'Dong'(id:919) reason 'reasonmsg=leaving'
+2016-10-01 20:35:48.091796|INFO    |VirtualServerBase|  1| client connected 'Skit Rombony'(id:733) from 98.252.66.150:64644
+2016-10-01 20:59:09.303710|INFO    |VirtualServerBase|  1| client connected 'Dong'(id:919) from 108.197.212.254:56789
+2016-10-01 21:27:57.679687|INFO    |VirtualServerBase|  1| client disconnected 'MsKitty'(id:810) reason 'reasonmsg=leaving'
+2016-10-01 21:28:39.885742|INFO    |VirtualServerBase|  1| client connected 'MsKitty'(id:810) from 184.4.118.96:57989
+2016-10-01 22:04:54.858398|INFO    |VirtualServerBase|  1| client disconnected 'Dong'(id:919) reason 'reasonmsg=leaving'
+2016-10-01 22:41:40.778320|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:746) from 173.91.252.115:61222
+2016-10-02 00:00:05.796875|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:50010
+2016-10-02 01:09:02.577148|INFO    |VirtualServerBase|  1| client connected 'herpaderp'(id:650) from 104.159.170.204:60927
+2016-10-02 01:18:49.193359|INFO    |VirtualServerBase|  1| client connected 'headcrabaregood'(id:633) from 73.253.129.160:59237
+2016-10-02 01:32:18.299804|INFO    |VirtualServerBase|  1| client connected 'Winter'(id:900) from 69.143.206.56:50826
+2016-10-02 01:48:20.850585|INFO    |VirtualServer |  1| complaint added for client 'Winter'(id:900) reason 'fag' by client 'headcrabaregood'(id:633)
+2016-10-02 01:48:34.633789|INFO    |VirtualServer |  1| complaint added for client 'Winter'(id:900) reason 'JEW' by client 'herpaderp'(id:650)
+2016-10-02 01:50:57.861328|INFO    |VirtualServer |  1| complaint added for client 'Winter'(id:900) reason 'the greater good' by client 'Hank(Karl Arnet)'(id:648)
+2016-10-02 01:50:59.465820|INFO    |VirtualServer |  1| complaint added for client 'Winter'(id:900) reason 'K' by client 'Skit Rombony'(id:733)
+2016-10-02 02:06:13.689453|INFO    |VirtualServerBase|  1| client disconnected 'Winter'(id:900) reason 'reasonmsg=leaving'
+2016-10-02 02:30:56.595703|INFO    |VirtualServerBase|  1| client connected 'geagle'(id:755) from 71.192.135.99:53029
+2016-10-02 02:31:01.494140|INFO    |VirtualServerBase|  1| client disconnected 'geagle'(id:755) reason 'reasonmsg=leaving'
+2016-10-02 02:47:16.041015|INFO    |VirtualServerBase|  1| client disconnected 'The Black Whale'(id:505) reason 'reasonmsg=leaving'
+2016-10-02 02:47:18.339843|INFO    |VirtualServerBase|  1| client disconnected 'MsKitty'(id:810) reason 'reasonmsg=leaving'
+2016-10-02 02:47:46.115234|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:746) reason 'reasonmsg=leaving'
+2016-10-02 03:42:30.878906|INFO    |VirtualServerBase|  1| client disconnected 'headcrabaregood'(id:633) reason 'reasonmsg=leaving'
+2016-10-02 05:22:47.683593|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=leaving'
+2016-10-02 05:22:49.062500|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2016-10-02 05:27:52.469726|INFO    |VirtualServerBase|  1| client disconnected 'nwarner426'(id:557) reason 'reasonmsg=leaving'
+2016-10-02 05:29:24.231445|INFO    |VirtualServerBase|  1| client disconnected 'herpaderp'(id:650) reason 'reasonmsg=leaving'
+2016-10-02 05:33:48.404296|INFO    |VirtualServerBase|  1| client disconnected 'Hank(Karl Arnet)'(id:648) reason 'reasonmsg=connection lost'
+2016-10-02 06:57:13.942359|INFO    |VirtualServerBase|  1| client disconnected 'Hanz'(id:918) reason 'reasonmsg=connection lost'
+2016-10-02 07:56:15.740210|INFO    |VirtualServerBase|  1| client disconnected 'Skit Rombony'(id:733) reason 'reasonmsg=leaving'
+2016-10-02 13:28:58.453101|INFO    |VirtualServerBase|  1| client connected 'The Black Whale'(id:505) from 73.89.118.117:56266
+2016-10-02 14:12:23.692359|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:64371
+2016-10-02 15:37:27.387671|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2016-10-02 15:47:17.681617|INFO    |VirtualServerBase|  1| client connected 'herpaderp'(id:650) from 104.159.170.204:51361
+2016-10-02 16:12:29.300757|INFO    |VirtualServerBase|  1| client connected 'Hank(Karl Arnet)'(id:648) from 67.240.45.218:61720
+2016-10-02 16:12:34.611304|INFO    |VirtualServerBase|  1| client disconnected 'Hank(Karl Arnet)'(id:648) reason 'reasonmsg=leaving'
+2016-10-02 16:36:53.118140|INFO    |VirtualServerBase|  1| client connected 'Skit Rombony'(id:733) from 98.252.66.150:62384
+2016-10-02 16:37:02.665015|INFO    |VirtualServerBase|  1| client disconnected 'Skit Rombony'(id:733) reason 'reasonmsg=leaving'
+2016-10-02 16:37:46.197242|INFO    |VirtualServerBase|  1| client connected 'Skit Rombony'(id:733) from 98.252.66.150:62384
+2016-10-02 16:37:53.174781|INFO    |VirtualServerBase|  1| client disconnected 'Skit Rombony'(id:733) reason 'reasonmsg=leaving'
+2016-10-02 17:37:28.011695|INFO    |VirtualServerBase|  1| client connected 'Rudy'(id:100) from 68.12.167.232:59826
+2016-10-02 18:18:23.168921|INFO    |VirtualServerBase|  1| client connected 'Hank(Karl Arnet)'(id:648) from 67.240.45.218:65452
+2016-10-02 18:22:31.123023|INFO    |VirtualServerBase|  1| client disconnected 'Rudy'(id:100) reason 'reasonmsg=leaving'
+2016-10-02 18:52:19.482398|INFO    |VirtualServerBase|  1| client disconnected 'The Black Whale'(id:505) reason 'reasonmsg=leaving'
+2016-10-02 19:02:14.909156|INFO    |VirtualServerBase|  1| client connected 'nwarner426'(id:557) from 75.134.147.127:62728
+2016-10-02 19:28:48.645484|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:50517
+2016-10-02 20:53:32.304664|INFO    |VirtualServerBase|  1| client disconnected 'nwarner426'(id:557) reason 'reasonmsg=leaving'
+2016-10-02 21:32:51.039039|INFO    |VirtualServerBase|  1| client disconnected 'herpaderp'(id:650) reason 'reasonmsg=connection lost'
+2016-10-02 21:34:45.053687|INFO    |VirtualServerBase|  1| client connected 'herpaderp'(id:650) from 104.159.170.204:58416
+2016-10-02 21:35:46.938453|INFO    |VirtualServerBase|  1| client connected 'Hanz'(id:918) from 69.253.153.232:56963
+2016-10-02 21:56:12.513648|INFO    |VirtualServerBase|  1| client connected 'headcrabaregood'(id:633) from 73.253.129.160:52005
+2016-10-02 22:15:53.291968|INFO    |VirtualServerBase|  1| client disconnected 'herpaderp'(id:650) reason 'reasonmsg=leaving'
+2016-10-02 22:58:03.805640|INFO    |VirtualServerBase|  1| client connected 'herpaderp'(id:650) from 104.159.170.204:58416
+2016-10-02 23:14:21.332007|INFO    |VirtualServerBase|  1| client connected 'Ryan'(id:920) from 173.91.192.130:49405
+2016-10-02 23:32:25.643531|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2016-10-02 23:49:58.288062|INFO    |VirtualServerBase|  1| client disconnected 'herpaderp'(id:650) reason 'reasonmsg=leaving'
+2016-10-02 23:50:00.654273|INFO    |VirtualServerBase|  1| client disconnected 'Ryan'(id:920) reason 'reasonmsg=leaving'
+2016-10-03 00:11:35.516578|INFO    |VirtualServerBase|  1| client disconnected 'headcrabaregood'(id:633) reason 'reasonmsg=leaving'
+2016-10-03 00:37:03.200171|INFO    |VirtualServerBase|  1| client disconnected 'Hank(Karl Arnet)'(id:648) reason 'reasonmsg=leaving'
+2016-10-03 00:43:25.380835|INFO    |VirtualServerBase|  1| client connected 'Android'(id:847) from 24.166.34.49:45409
+2016-10-03 00:43:36.622046|INFO    |VirtualServerBase|  1| client disconnected 'Android'(id:847) reason 'reasonmsg=....TS3 Android....'
+2016-10-03 01:06:32.422828|INFO    |VirtualServerBase|  1| client connected 'herpaderp'(id:650) from 104.159.170.204:58416
+2016-10-03 01:42:10.241187|INFO    |VirtualServerBase|  1| client connected 'Jeremy'(id:910) from 173.171.204.217:64160
+2016-10-03 01:43:48.301734|INFO    |VirtualServerBase|  1| client connected 'Dorian'(id:929) from 97.99.218.65:58514
+2016-10-03 01:43:51.165992|INFO    |VirtualServerBase|  1| channel 'Life is Feudal'(id:316) created by 'Jeremy'(id:910)
+2016-10-03 02:13:29.233375|INFO    |VirtualServerBase|  1| client disconnected 'herpaderp'(id:650) reason 'reasonmsg=connection lost'
+2016-10-03 02:39:56.316382|INFO    |VirtualServerBase|  1| client disconnected 'Hanz'(id:918) reason 'reasonmsg=leaving'
+2016-10-03 03:02:00.668921|INFO    |VirtualServerBase|  1| client connected 'Winter'(id:900) from 69.143.206.56:62996
+2016-10-03 03:02:07.201148|INFO    |VirtualServerBase|  1| client disconnected 'Winter'(id:900) reason 'reasonmsg=leaving'
+2016-10-03 03:38:15.608375|INFO    |VirtualServerBase|  1| client disconnected 'Dorian'(id:929) reason 'reasonmsg=leaving'
+2016-10-03 03:38:25.305640|INFO    |VirtualServerBase|  1| client connected 'Dorian'(id:929) from 97.99.218.65:54596
+2016-10-03 04:22:06.635718|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:785) from 173.91.151.15:55340
+2016-10-03 04:22:13.474585|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:785) reason 'reasonmsg=leaving'
+2016-10-03 05:26:01.589820|INFO    |VirtualServerBase|  1| client disconnected 'Dorian'(id:929) reason 'reasonmsg=leaving'
+2016-10-03 05:29:55.268531|INFO    |VirtualServerBase|  1| client connected 'Dorian'(id:929) from 97.99.218.65:58399
+2016-10-03 05:34:31.076148|INFO    |VirtualServerBase|  1| client disconnected 'Dorian'(id:929) reason 'reasonmsg=leaving'
+2016-10-03 18:10:16.490210|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:746) from 173.91.252.115:53122
+2016-10-03 19:05:15.560523|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:746) reason 'reasonmsg=leaving'
+2016-10-03 19:08:59.290992|INFO    |VirtualServerBase|  1| client connected 'Hank(Karl Arnet)'(id:648) from 74.76.179.204:58159
+2016-10-03 19:26:22.120093|INFO    |VirtualServerBase|  1| client connected 'The Black Whale'(id:505) from 73.89.118.117:51665
+2016-10-03 19:50:25.307593|INFO    |VirtualServerBase|  1| client connected 'Hanz'(id:918) from 69.253.153.232:53609
+2016-10-03 19:52:36.513648|INFO    |VirtualServerBase|  1| client disconnected 'Hanz'(id:918) reason 'reasonmsg=connection lost'
+2016-10-03 20:00:20.667945|INFO    |VirtualServerBase|  1| client connected 'Hanz'(id:918) from 69.253.153.232:64994
+2016-10-03 20:22:17.086890|INFO    |VirtualServerBase|  1| client connected 'Dong'(id:919) from 108.197.212.254:58700
+2016-10-03 20:24:41.060523|INFO    |VirtualServerBase|  1| client connected 'MsKitty'(id:810) from 184.4.118.96:55465
+2016-10-03 21:04:07.065406|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:55498
+2016-10-03 21:14:32.982398|INFO    |VirtualServerBase|  1| client connected 'nwarner426'(id:557) from 75.134.147.127:58731
+2016-10-03 21:22:07.100562|INFO    |VirtualServerBase|  1| client connected 'Outcast Hero'(id:924) from 74.130.144.222:54098
+2016-10-03 21:22:14.082007|INFO    |VirtualServerBase|  1| client disconnected 'Outcast Hero'(id:924) reason 'reasonmsg=leaving'
+2016-10-03 21:36:28.440406|INFO    |VirtualServerBase|  1| client disconnected 'Dong'(id:919) reason 'reasonmsg=leaving'
+2016-10-03 21:49:41.963843|INFO    |VirtualServerBase|  1| client connected 'Winter'(id:900) from 69.143.206.56:54640
+2016-10-03 21:49:48.499976|INFO    |VirtualServerBase|  1| client disconnected 'Winter'(id:900) reason 'reasonmsg=leaving'
+2016-10-03 22:40:17.792945|INFO    |VirtualServerBase|  1| client connected 'Skit Rombony'(id:733) from 98.252.66.150:60155
+2016-10-03 22:46:52.570289|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:746) from 173.91.252.115:54488
+2016-10-03 22:47:30.389625|INFO    |VirtualServerBase|  1| client connected 'headcrabaregood'(id:633) from 73.253.129.160:63277
+2016-10-03 22:48:24.823218|INFO    |VirtualServerBase|  1| client connected 'Winter'(id:900) from 69.143.206.56:54640
+2016-10-03 22:48:29.884742|INFO    |VirtualServerBase|  1| client disconnected 'Winter'(id:900) reason 'reasonmsg=leaving'
+2016-10-03 23:18:06.888648|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2016-10-03 23:35:07.055640|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:746) reason 'reasonmsg=leaving'
+2016-10-03 23:37:18.145484|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:746) from 173.91.252.115:60637
+2016-10-03 23:44:28.213843|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:746) reason 'reasonmsg=leaving'
+2016-10-04 00:18:44.748023|INFO    |VirtualServerBase|  1| client disconnected 'MsKitty'(id:810) reason 'reasonmsg=leaving'
+2016-10-04 00:18:45.457007|INFO    |VirtualServerBase|  1| client disconnected 'The Black Whale'(id:505) reason 'reasonmsg=leaving'
+2016-10-04 00:28:41.185523|INFO    |VirtualServerBase|  1| client disconnected 'headcrabaregood'(id:633) reason 'reasonmsg=leaving'
+2016-10-04 00:28:44.153296|INFO    |VirtualServerBase|  1| client connected 'headcrabaregood'(id:633) from 73.253.129.160:63277
+2016-10-04 00:31:04.307593|INFO    |VirtualServerBase|  1| client disconnected 'headcrabaregood'(id:633) reason 'reasonmsg=leaving'
+2016-10-04 01:31:11.716773|INFO    |VirtualServerBase|  1| client disconnected 'Hank(Karl Arnet)'(id:648) reason 'reasonmsg=leaving'
+2016-10-04 01:47:35.645484|INFO    |VirtualServerBase|  1| client disconnected 'nwarner426'(id:557) reason 'reasonmsg=leaving'
+2016-10-04 01:48:07.866187|INFO    |VirtualServerBase|  1| client disconnected 'Hanz'(id:918) reason 'reasonmsg=connection lost'
+2016-10-04 01:51:10.299781|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:746) from 173.91.252.115:62366
+2016-10-04 01:51:45.401343|INFO    |VirtualServerBase|  1| client connected 'Ryan'(id:920) from 173.91.192.130:51123
+2016-10-04 02:17:39.948218|INFO    |VirtualServerBase|  1| client disconnected 'Skit Rombony'(id:733) reason 'reasonmsg=leaving'

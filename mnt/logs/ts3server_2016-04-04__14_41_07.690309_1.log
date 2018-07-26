@@ -1,0 +1,66 @@
+2016-04-04 14:41:16.927874|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2016-04-04 16:30:02.880646|INFO    |VirtualServerBase|  1| client connected 'Nwarner426'(id:557) from 75.134.131.96:51149
+2016-04-04 16:30:15.461293|INFO    |VirtualServerBase|  1| client disconnected 'Nwarner426'(id:557) reason 'reasonmsg=leaving'
+2016-04-04 19:03:28.686648|INFO    |VirtualServerBase|  1| client connected 'Hank(Karl Arnet)'(id:648) from 74.76.179.204:51385
+2016-04-04 19:08:20.577511|INFO    |VirtualServerBase|  1| client connected 'Nwarner426'(id:557) from 75.134.131.96:58179
+2016-04-04 19:08:38.500739|INFO    |VirtualServerBase|  1| client connected 'headcrabaregood'(id:633) from 73.253.129.160:65252
+2016-04-04 19:57:23.185849|INFO    |VirtualServerBase|  1| client connected 'Bruno/Boris'(id:735) from 68.51.234.5:51922
+2016-04-04 20:40:48.050827|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 74.141.93.84:53048
+2016-04-04 20:40:51.136163|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2016-04-04 20:50:41.441308|INFO    |VirtualServerBase|  1| client connected 'George'(id:627) from 69.143.206.56:62594
+2016-04-04 21:06:24.913162|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:62191
+2016-04-04 21:14:10.541706|INFO    |VirtualServerBase|  1| client disconnected 'George'(id:627) reason 'reasonmsg=leaving'
+2016-04-04 21:36:35.040369|INFO    |VirtualServerBase|  1| client connected 'George'(id:627) from 69.143.206.56:62594
+2016-04-04 21:56:27.395654|INFO    |VirtualServerBase|  1| client disconnected 'George'(id:627) reason 'reasonmsg=leaving'
+2016-04-04 22:28:51.913824|INFO    |VirtualServerBase|  1| client connected 'Rodrik'(id:598) from 24.171.29.95:54761
+2016-04-04 22:31:35.034615|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2016-04-04 22:33:05.223322|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:61753
+2016-04-04 22:55:00.841898|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:276) from 107.10.51.255:61348
+2016-04-04 23:03:07.901768|INFO    |VirtualServerBase|  1| client connected 'Skit Rombony'(id:733) from 98.252.66.150:50312
+2016-04-04 23:20:49.643423|INFO    |VirtualServerBase|  1| client disconnected 'headcrabaregood'(id:633) reason 'reasonmsg=connection lost'
+2016-04-04 23:22:01.912681|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:276) reason 'reasonmsg=connection lost'
+2016-04-04 23:22:02.807934|INFO    |VirtualServerBase|  1| client connected 'headcrabaregood'(id:633) from 73.253.129.160:65252
+2016-04-04 23:22:04.480186|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:276) from 107.10.51.255:62348
+2016-04-05 00:03:10.870767|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:276) reason 'reasonmsg=connection lost'
+2016-04-05 00:03:45.311174|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:276) from 107.10.51.255:61348
+2016-04-05 00:06:17.117446|INFO    |VirtualServerBase|  1| client disconnected 'headcrabaregood'(id:633) reason 'reasonmsg=leaving'
+2016-04-05 00:44:15.926313|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 74.141.93.84:61323
+2016-04-05 00:50:25.446445|INFO    |VirtualServerBase|  1| client connected 'XxDeadLightxX'(id:708) from 32.212.205.78:58404
+2016-04-05 00:51:40.203957|INFO    |VirtualServerBase|  1| client connected 'Dexter'(id:709) from 156.12.176.63:51131
+2016-04-05 00:51:49.073520|INFO    |VirtualServerBase|  1| client disconnected 'XxDeadLightxX'(id:708) reason 'reasonmsg=leaving'
+2016-04-05 00:51:56.593194|INFO    |VirtualServerBase|  1| client disconnected 'Dexter'(id:709) reason 'reasonmsg=leaving'
+2016-04-05 00:52:07.154286|INFO    |VirtualServerBase|  1| client connected 'Dexter'(id:709) from 156.12.176.63:61942
+2016-04-05 00:52:10.863473|INFO    |VirtualServerBase|  1| client connected 'XxDeadLightxX'(id:708) from 32.212.205.78:58404
+2016-04-05 00:56:06.488631|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:81) from 174.100.62.193:53088
+2016-04-05 01:35:32.041131|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:81) reason 'reasonmsg=leaving'
+2016-04-05 01:41:11.394509|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:81) from 174.100.62.193:62178
+2016-04-05 01:48:10.589532|INFO    |VirtualServerBase|  1| client disconnected 'Hank(Karl Arnet)'(id:648) reason 'reasonmsg=connection lost'
+2016-04-05 01:54:44.447501|INFO    |VirtualServerBase|  1| client disconnected 'Nwarner426'(id:557) reason 'reasonmsg=leaving'
+2016-04-05 01:54:45.123592|INFO    |VirtualServerBase|  1| client disconnected 'Bruno/Boris'(id:735) reason 'reasonmsg=leaving'
+2016-04-05 01:59:13.039188|INFO    |VirtualServerBase|  1| client disconnected 'Rodrik'(id:598) reason 'reasonmsg=leaving'
+2016-04-05 02:04:49.078038|INFO    |VirtualServerBase|  1| client disconnected 'Skit Rombony'(id:733) reason 'reasonmsg=leaving'
+2016-04-05 02:07:18.736349|INFO    |VirtualServerBase|  1| client disconnected 'XxDeadLightxX'(id:708) reason 'reasonmsg=leaving'
+2016-04-05 02:07:39.955479|INFO    |VirtualServerBase|  1| client disconnected 'Dexter'(id:709) reason 'reasonmsg=leaving'
+2016-04-05 03:12:35.055184|INFO    |VirtualServerBase|  1| client connected 'Razz'(id:393) from 65.25.104.246:57673
+2016-04-05 03:59:46.900597|INFO    |VirtualServerBase|  1| client connected 'Tyraeil'(id:714) from 97.94.83.39:63521
+2016-04-05 04:46:02.834806|INFO    |VirtualServerBase|  1| client disconnected 'Razz'(id:393) reason 'reasonmsg=connection lost'
+2016-04-05 05:13:50.468957|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:276) reason 'reasonmsg=leaving'
+2016-04-05 05:23:31.073635|INFO    |VirtualServerBase|  1| client connected 'Razz'(id:393) from 173.91.192.130:57673
+2016-04-05 05:29:10.052052|INFO    |VirtualServerBase|  1| client disconnected 'Razz'(id:393) reason 'reasonmsg=connection lost'
+2016-04-05 05:29:11.056899|INFO    |VirtualServer |  1| client (id:714) was added to servergroup 'Server Admin'(id:6) by client 'Ritsu'(id:349)
+2016-04-05 05:29:24.146002|INFO    |VirtualServer |  1| client (id:714) was added to servergroup 'Evan Allmighty'(id:11) by client 'Ritsu'(id:349)
+2016-04-05 05:29:37.083746|INFO    |VirtualServer |  1| client (id:714) was removed from servergroup 'Server Admin'(id:6) by client 'Ritsu'(id:349)
+2016-04-05 05:29:44.858835|INFO    |VirtualServer |  1| client (id:714) was added to servergroup 'Server Admin'(id:6) by client 'Ritsu'(id:349)
+2016-04-05 06:46:23.010273|INFO    |VirtualServerBase|  1| client disconnected 'Tyraeil'(id:714) reason 'reasonmsg=leaving'
+2016-04-05 07:31:20.497113|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2016-04-05 07:41:10.836238|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:81) reason 'reasonmsg=leaving'
+2016-04-05 07:42:07.629442|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2016-04-05 08:31:55.025016|INFO    |VirtualServerBase|  1| client connected 'Razz'(id:393) from 173.91.192.130:53870
+2016-04-05 08:31:57.902812|INFO    |VirtualServerBase|  1| client disconnected 'Razz'(id:393) reason 'reasonmsg=leaving'
+2016-04-05 17:26:37.054373|INFO    |VirtualServerBase|  1| client connected 'Nwarner426'(id:557) from 75.134.131.96:63742
+2016-04-05 17:55:41.025280|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 74.141.93.84:62560
+2016-04-05 17:55:45.764936|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2016-04-05 18:50:22.746500|INFO    |VirtualServerBase|  1| client connected 'Hank(Karl Arnet)'(id:648) from 74.76.179.204:57175
+2016-04-05 18:55:00.503695|INFO    |VirtualServerBase|  1| client disconnected 'Hank(Karl Arnet)'(id:648) reason 'reasonmsg=leaving'
+2016-04-05 18:59:11.524102|INFO    |VirtualServerBase|  1| client connected 'Hank(Karl Arnet)'(id:648) from 74.76.179.204:55675
+2016-04-05 19:06:56.851781|INFO    |VirtualServerBase|  1| client connected 'headcrabaregood'(id:633) from 73.253.129.160:61458

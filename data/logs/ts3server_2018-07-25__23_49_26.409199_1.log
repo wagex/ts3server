@@ -1,0 +1,3 @@
+﻿2018-07-25 23:49:27.747306|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-07-25 23:49:50.262322|INFO    |VirtualServerBase|1  |client connected 'wagex'(id:1358) from 172.17.0.1:41292
+2018-07-25 23:55:27.981485|INFO    |VirtualServerBase|1  |client disconnected 'wagex'(id:1358) reason 'reasonmsg=leaving'

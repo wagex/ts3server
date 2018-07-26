@@ -1,0 +1,10 @@
+2015-10-05 12:08:49.004865|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-10-05 20:13:31.527816|INFO    |VirtualServer |  1| file upload to (id:9), '/My Places.kmz' by client 'Rudy'(id:421)
+2015-10-05 20:13:46.090643|INFO    |VirtualServer |  1| file deleted from (id:9), 'files\virtualserver_1\channel_9\/Capture.PNG' by client 'Rudy'(id:421)
+2015-10-05 20:37:59.956044|INFO    |VirtualServer |  1| file download from (id:9), '/My Places.kmz' by client 'wagex'(id:6)
+2015-10-06 02:02:20.781116|INFO    |VirtualServer |  1| client (id:276) was removed from servergroup 'Server Admin'(id:6) by client 'Ritsu'(id:349)
+2015-10-06 02:02:29.519426|INFO    |VirtualServer |  1| client (id:276) was added to servergroup 'Server Admin'(id:6) by client 'Ritsu'(id:349)
+2015-10-06 02:03:30.113066|INFO    |VirtualServer |  1| client (id:349) was added to servergroup 'Queermins'(id:22) by client 'Ritsu'(id:349)
+2015-10-06 02:03:45.357245|INFO    |VirtualServer |  1| client (id:349) was removed from servergroup 'Queermins'(id:22) by client 'Ritsu'(id:349)
+2015-10-06 02:03:49.973373|INFO    |VirtualServer |  1| client (id:349) was added to servergroup 'Ryan'(id:20) by client 'Ritsu'(id:349)
+2015-10-06 02:03:57.505662|INFO    |VirtualServer |  1| client (id:349) was removed from servergroup 'Ryan'(id:20) by client 'Ritsu'(id:349)

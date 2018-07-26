@@ -1,0 +1,8 @@
+2015-10-07 14:50:01.400032|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.10.3 (2014-01-01 16:28:39)
+2015-10-07 14:50:01.402033|INFO    |ServerLibPriv |   | SystemInformation: Windows 8 (9200) x64 (AMD or Intel) Binary: 32bit
+2015-10-07 14:50:01.403032|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2015-10-07 14:50:01.403032|INFO    |DatabaseQuery |   | dbPlugin version: 3.7.3
+2015-10-07 14:50:01.403032|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2015-10-07 14:50:01.453033|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2015-10-07 14:50:01.958062|ERROR   |Accounting    |   | local accounting reports an already running instance, instance will shutdown
+2015-10-07 14:50:01.958062|ERROR   |ServerLibPriv |   | Server() error while starting servermanager, error: instance limit reached

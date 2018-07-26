@@ -1,0 +1,324 @@
+2015-12-07 13:22:59.813402|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-12-07 13:23:15.387295|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:6) from 70.168.122.131:61412
+2015-12-07 13:23:22.930728|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:6) reason 'reasonmsg=leaving'
+2015-12-07 13:24:41.034841|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:6) from 70.168.122.131:61412
+2015-12-07 13:24:51.132418|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:6) reason 'reasonmsg=leaving'
+2015-12-07 13:28:15.579236|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:6) from 70.168.122.131:59671
+2015-12-07 13:28:48.823991|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:6) reason 'reasonmsg=leaving'
+2015-12-07 13:28:50.663095|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:6) from 70.168.122.131:59671
+2015-12-07 16:05:03.487336|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:53884
+2015-12-07 16:05:07.229551|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-07 17:12:24.121545|INFO    |VirtualServerBase|  1| client connected 'Clint'(id:443) from 108.237.6.189:61921
+2015-12-07 17:55:39.710971|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:81) from 174.100.62.193:49952
+2015-12-07 17:57:45.923519|INFO    |VirtualServerBase|  1| client connected 'Razz'(id:393) from 65.25.104.246:62021
+2015-12-07 18:30:10.838450|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:58690
+2015-12-07 18:42:44.867866|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=connection lost'
+2015-12-07 18:44:10.084261|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:58690
+2015-12-07 18:59:44.308613|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=connection lost'
+2015-12-07 19:01:27.009011|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:58690
+2015-12-07 22:36:31.931492|INFO    |VirtualServerBase|  1| client disconnected 'Razz'(id:393) reason 'reasonmsg=leaving'
+2015-12-07 22:54:40.602082|INFO    |VirtualServerBase|  1| client connected 'OBERMOFUCKINGLEUTNANT'(id:598) from 24.171.29.95:56290
+2015-12-07 22:55:31.912352|INFO    |VirtualServerBase|  1| client connected 'Kamikunt'(id:599) from 64.229.254.203:61935
+2015-12-07 22:55:38.709825|INFO    |VirtualServerBase|  1| client connected 'Nwarner426'(id:557) from 75.134.131.96:58804
+2015-12-07 23:34:47.652726|INFO    |VirtualServerBase|  1| client connected 'ThatOneGuyWhoNeverTalks'(id:612) from 73.139.185.3:55102
+2015-12-07 23:35:34.450411|INFO    |VirtualServerBase|  1| client disconnected 'ThatOneGuyWhoNeverTalks'(id:612) reason 'reasonmsg=leaving'
+2015-12-08 00:19:15.337222|INFO    |VirtualServerBase|  1| client disconnected 'Kamikunt'(id:599) reason 'reasonmsg=leaving'
+2015-12-08 00:19:24.874644|INFO    |VirtualServerBase|  1| client disconnected 'Rodrik*'(id:598) reason 'reasonmsg=leaving'
+2015-12-08 00:28:44.607781|INFO    |VirtualServerBase|  1| client disconnected 'Nwarner426'(id:557) reason 'reasonmsg=leaving'
+2015-12-08 02:42:29.037551|INFO    |VirtualServerBase|  1| client connected 'Mitch'(id:603) from 108.222.81.129:52282
+2015-12-08 02:47:49.762983|INFO    |VirtualServerBase|  1| client connected 'Tyler'(id:271) from 68.0.78.148:51795
+2015-12-08 02:54:09.673240|INFO    |VirtualServerBase|  1| client connected 'rudy'(id:100) from 205.237.133.150:62613
+2015-12-08 03:18:20.513787|INFO    |VirtualServerBase|  1| client connected 'GoSain'(id:188) from 184.162.2.188:58611
+2015-12-08 03:37:57.685614|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:64549
+2015-12-08 04:05:31.311064|INFO    |VirtualServerBase|  1| client disconnected 'rudy'(id:100) reason 'reasonmsg=leaving'
+2015-12-08 04:06:48.998944|INFO    |VirtualServerBase|  1| client connected 'rudy'(id:100) from 205.237.133.150:62613
+2015-12-08 05:01:26.827930|INFO    |VirtualServerBase|  1| client disconnected 'Mitch'(id:603) reason 'reasonmsg=leaving'
+2015-12-08 05:22:30.412102|INFO    |VirtualServerBase|  1| client disconnected 'rudy'(id:100) reason 'reasonmsg=leaving'
+2015-12-08 05:27:20.998134|INFO    |VirtualServerBase|  1| client disconnected 'GoSain'(id:188) reason 'reasonmsg=J'caliss mon camp ! Tabarnac !'
+2015-12-08 07:14:37.954859|INFO    |VirtualServerBase|  1| client disconnected 'Tyler'(id:271) reason 'reasonmsg=leaving'
+2015-12-08 08:41:40.779716|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-08 09:06:18.188293|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2015-12-08 16:43:18.812019|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:61103
+2015-12-08 16:43:25.940578|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-08 17:29:27.626052|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:61543
+2015-12-08 19:40:56.773894|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:64117
+2015-12-08 22:32:26.056036|INFO    |VirtualServerBase|  1| client connected 'Mitch'(id:603) from 108.222.81.129:60386
+2015-12-09 01:12:23.826872|INFO    |VirtualServerBase|  1| client connected 'rudy'(id:100) from 205.237.133.150:60063
+2015-12-09 01:55:43.935839|INFO    |VirtualServerBase|  1| client disconnected 'rudy'(id:100) reason 'reasonmsg=leaving'
+2015-12-09 05:23:03.085344|INFO    |VirtualServerBase|  1| client connected 'rudy'(id:100) from 205.237.133.150:64620
+2015-12-09 05:51:53.804306|INFO    |VirtualServerBase|  1| client connected 'GoSain'(id:188) from 184.162.2.188:55290
+2015-12-09 06:02:45.636365|INFO    |VirtualServerBase|  1| client disconnected 'GoSain'(id:188) reason 'reasonmsg=J'caliss mon camp ! Tabarnac !'
+2015-12-09 06:15:11.912962|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:81) reason 'reasonmsg=leaving'
+2015-12-09 06:49:50.834261|INFO    |VirtualServerBase|  1| client disconnected 'rudy'(id:100) reason 'reasonmsg=leaving'
+2015-12-09 08:56:22.038188|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2015-12-09 08:59:01.616004|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-09 17:49:03.606611|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:63340
+2015-12-09 17:49:07.297877|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-09 23:09:06.319022|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:276) from 107.10.51.255:60763
+2015-12-09 23:09:11.863501|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:276) reason 'reasonmsg=leaving'
+2015-12-09 23:44:59.132148|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:276) from 107.10.51.255:63847
+2015-12-10 01:24:44.244925|INFO    |VirtualServerBase|  1| client connected 'Rackalak'(id:583) from 75.137.134.173:51902
+2015-12-10 01:24:47.388300|INFO    |VirtualServerBase|  1| client disconnected 'Rackalak'(id:583) reason 'reasonmsg=leaving'
+2015-12-10 03:05:28.008013|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:59975
+2015-12-10 03:05:32.469570|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-10 03:48:07.857407|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:26199
+2015-12-10 04:14:35.915341|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:64773
+2015-12-10 04:22:10.692674|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2015-12-10 04:54:28.525943|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:276) reason 'reasonmsg=leaving'
+2015-12-10 07:39:08.668633|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2015-12-10 13:41:19.549471|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:81) from 174.100.62.193:49185
+2015-12-10 16:59:36.538177|INFO    |VirtualServerBase|  1| client connected 'Razz'(id:393) from 65.25.104.246:52004
+2015-12-10 17:59:36.507165|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:81) reason 'reasonmsg=leaving'
+2015-12-10 18:30:07.677185|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:57277
+2015-12-10 18:30:14.643710|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-10 20:14:49.365571|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:50570
+2015-12-10 20:15:26.115710|INFO    |VirtualServerBase|  1| client disconnected 'Razz'(id:393) reason 'reasonmsg=leaving'
+2015-12-10 22:33:29.863186|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:61407
+2015-12-10 22:52:54.251635|INFO    |VirtualServerBase|  1| client connected 'XxAnimeFreakxX'(id:610) from 76.200.121.131:56981
+2015-12-10 22:53:03.033448|INFO    |VirtualServerBase|  1| client disconnected 'XxAnimeFreakxX'(id:610) reason 'reasonmsg=leaving'
+2015-12-11 00:23:40.617992|INFO    |VirtualServerBase|  1| client connected 'brandon'(id:595) from 97.80.237.110:52771
+2015-12-11 00:23:42.730113|INFO    |VirtualServerBase|  1| client disconnected 'brandon'(id:595) reason 'reasonmsg=leaving'
+2015-12-11 02:35:46.419671|INFO    |VirtualServerBase|  1| client connected 'XxAnimeFreakxX'(id:610) from 76.200.121.131:51523
+2015-12-11 02:36:04.107438|INFO    |VirtualServerBase|  1| client disconnected 'XxAnimeFreakxX'(id:610) reason 'reasonmsg=leaving'
+2015-12-11 02:59:00.797411|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:276) from 107.10.51.255:50801
+2015-12-11 03:48:26.517973|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:276) reason 'reasonmsg=leaving'
+2015-12-11 07:41:20.836275|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:58209
+2015-12-11 08:18:43.835677|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-11 08:27:42.580090|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-11 08:27:45.083256|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:58209
+2015-12-11 08:32:42.561193|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-11 08:32:45.243403|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:58209
+2015-12-11 08:51:01.593545|INFO    |VirtualServer |  1| client (id:613) was added to servergroup 'Server Admin'(id:6) by client 'Ritsu'(id:349)
+2015-12-11 08:57:42.599474|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-11 08:57:44.788655|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:58209
+2015-12-11 09:42:42.483846|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-11 09:42:45.195195|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:58209
+2015-12-11 09:45:47.515057|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=leaving'
+2015-12-11 11:23:07.162743|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2015-12-11 15:29:45.503224|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:81) from 174.100.62.193:54361
+2015-12-11 18:29:48.525912|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:276) from 107.10.51.255:60936
+2015-12-11 20:09:59.666366|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:60608
+2015-12-11 22:42:20.373808|INFO    |VirtualServerBase|  1| client connected 'XxAnimeFreakxX'(id:610) from 76.200.121.131:58164
+2015-12-11 22:42:39.854359|INFO    |VirtualServerBase|  1| client disconnected 'XxAnimeFreakxX'(id:610) reason 'reasonmsg=leaving'
+2015-12-12 00:39:05.511200|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:50879
+2015-12-12 02:03:15.373425|INFO    |VirtualServerBase|  1| client connected 'Mars'(id:568) from 184.162.2.188:59370
+2015-12-12 02:03:32.080523|INFO    |VirtualServerBase|  1| client connected 'GoSain'(id:188) from 184.162.2.188:59071
+2015-12-12 02:03:48.510712|INFO    |VirtualServerBase|  1| client connected 'Pierre-Luc.Larocque'(id:596) from 161.184.131.81:63641
+2015-12-12 02:12:35.362612|INFO    |VirtualServerBase|  1| client disconnected 'Pierre-Luc.Larocque'(id:596) reason 'reasonmsg=leaving'
+2015-12-12 02:12:42.152002|INFO    |VirtualServerBase|  1| client connected 'Pierre-Luc.Larocque'(id:596) from 161.184.131.81:63641
+2015-12-12 02:16:40.799669|INFO    |VirtualServerBase|  1| client connected 'Bigshaft'(id:614) from 24.200.136.148:59938
+2015-12-12 03:43:53.545712|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-12 03:47:26.439268|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:49609
+2015-12-12 04:40:03.352463|INFO    |VirtualServerBase|  1| client disconnected 'Mars'(id:568) reason 'reasonmsg=leaving'
+2015-12-12 04:46:56.862330|INFO    |VirtualServerBase|  1| client disconnected 'Bigshaft'(id:614) reason 'reasonmsg=leaving'
+2015-12-12 04:51:18.644637|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:20559
+2015-12-12 04:54:48.342388|INFO    |VirtualServerBase|  1| client connected 'Bigshaft'(id:614) from 24.200.136.148:65201
+2015-12-12 05:49:57.598634|INFO    |VirtualServerBase|  1| client disconnected 'Pierre-Luc.Larocque'(id:596) reason 'reasonmsg=connection lost'
+2015-12-12 05:50:26.022466|INFO    |VirtualServerBase|  1| client disconnected 'GoSain'(id:188) reason 'reasonmsg=J'caliss mon camp ! Tabarnac !'
+2015-12-12 05:50:41.546491|INFO    |VirtualServerBase|  1| client disconnected 'Bigshaft'(id:614) reason 'reasonmsg=leaving'
+2015-12-12 07:07:30.690010|INFO    |VirtualServerBase|  1| client disconnected 'Clint'(id:443) reason 'reasonmsg=leaving'
+2015-12-12 07:34:45.192917|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:59438
+2015-12-12 08:05:59.673858|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:276) reason 'reasonmsg=leaving'
+2015-12-12 08:31:36.849604|INFO    |VirtualServerBase|  1| client connected '=AAl= cellic'(id:615) from 69.14.107.61:53651
+2015-12-12 08:31:41.653334|INFO    |VirtualServerBase|  1| client disconnected '=AAl= cellic'(id:615) reason 'reasonmsg=leaving'
+2015-12-12 08:31:55.370830|INFO    |VirtualServerBase|  1| client connected '=AAl= cellic'(id:615) from 69.14.107.61:53651
+2015-12-12 08:32:00.108206|INFO    |VirtualServerBase|  1| client disconnected '=AAl= cellic'(id:615) reason 'reasonmsg=leaving'
+2015-12-12 08:41:27.689847|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2015-12-12 11:17:06.892451|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-12 11:17:19.301346|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-12 11:17:21.634707|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:59438
+2015-12-12 11:24:13.397888|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2015-12-12 11:51:57.312363|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=leaving'
+2015-12-12 18:44:03.264118|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:63230
+2015-12-12 18:44:07.170495|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-12 19:32:14.214803|INFO    |VirtualServerBase|  1| client connected 'XxAnimeFreakxX'(id:610) from 76.200.121.131:58742
+2015-12-12 19:32:30.809510|INFO    |VirtualServerBase|  1| client disconnected 'XxAnimeFreakxX'(id:610) reason 'reasonmsg=leaving'
+2015-12-12 21:04:47.615874|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:52041
+2015-12-12 21:28:33.426102|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:55340
+2015-12-12 22:27:24.813381|INFO    |VirtualServerBase|  1| client connected 'Andy Snaymis'(id:616) from 91.38.77.141:51581
+2015-12-12 22:27:35.596521|INFO    |VirtualServerBase|  1| client disconnected 'Andy Snaymis'(id:616) reason 'reasonmsg=Verlassen'
+2015-12-13 03:00:57.708972|INFO    |VirtualServerBase|  1| client connected 'rudy'(id:100) from 205.237.133.150:58835
+2015-12-13 03:10:44.661313|INFO    |VirtualServerBase|  1| client connected 'Tyler'(id:271) from 68.0.78.148:52797
+2015-12-13 03:29:46.602830|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:46225
+2015-12-13 05:22:03.809519|INFO    |VirtualServerBase|  1| client connected 'TheCrimsonFucker'(id:617) from 94.96.53.210:63870
+2015-12-13 05:23:40.156264|INFO    |VirtualServerBase|  1| client disconnected 'TheCrimsonFucker'(id:617) reason 'reasonmsg=leaving'
+2015-12-13 05:25:51.803448|INFO    |VirtualServerBase|  1| client connected 'TheCrimsonFucker'(id:617) from 94.96.53.210:58965
+2015-12-13 05:26:17.160997|INFO    |VirtualServerBase|  1| client disconnected 'TheCrimsonFucker'(id:617) reason 'reasonmsg=connection lost'
+2015-12-13 06:31:14.112979|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:276) from 107.10.51.255:58560
+2015-12-13 06:38:35.010166|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:276) reason 'reasonmsg=leaving'
+2015-12-13 07:03:07.102418|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2015-12-13 07:09:11.812148|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-13 07:15:37.724530|INFO    |VirtualServerBase|  1| client disconnected 'rudy'(id:100) reason 'reasonmsg=leaving'
+2015-12-13 07:33:45.950818|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2015-12-13 07:38:25.924599|INFO    |VirtualServerBase|  1| client disconnected 'Tyler'(id:271) reason 'reasonmsg=leaving'
+2015-12-13 09:57:52.317363|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:276) from 107.10.51.255:58560
+2015-12-13 09:57:57.025010|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:276) reason 'reasonmsg=leaving'
+2015-12-13 19:33:07.810417|INFO    |VirtualServerBase|  1| client connected 'rudy'(id:100) from 205.237.133.150:51907
+2015-12-13 19:34:05.674909|INFO    |VirtualServerBase|  1| client connected 'ross'(id:397) from 107.129.31.5:33201
+2015-12-13 19:35:10.515688|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:397) reason 'reasonmsg=leaving'
+2015-12-13 19:35:27.913525|INFO    |VirtualServerBase|  1| client connected 'ross'(id:397) from 107.129.31.5:55593
+2015-12-13 19:49:29.453824|INFO    |VirtualServerBase|  1| client disconnected 'rudy'(id:100) reason 'reasonmsg=connection lost'
+2015-12-13 19:51:41.231696|INFO    |VirtualServerBase|  1| client connected 'rudy'(id:100) from 205.237.133.150:51907
+2015-12-13 19:51:44.861101|INFO    |VirtualServerBase|  1| client disconnected 'rudy'(id:100) reason 'reasonmsg=leaving'
+2015-12-13 19:52:50.787680|INFO    |VirtualServerBase|  1| client connected 'rudy'(id:100) from 205.237.133.150:56977
+2015-12-13 21:04:40.656530|INFO    |VirtualServerBase|  1| client disconnected 'rudy'(id:100) reason 'reasonmsg=leaving'
+2015-12-13 21:49:27.733706|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:53552
+2015-12-13 21:49:32.501286|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-13 22:03:22.177595|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:397) reason 'reasonmsg=leaving'
+2015-12-13 22:30:11.641769|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:62811
+2015-12-13 22:47:23.094899|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:52013
+2015-12-13 23:59:32.560394|INFO    |VirtualServerBase|  1| client connected 'Nwarner426'(id:557) from 75.134.131.96:64796
+2015-12-14 00:01:01.385068|INFO    |VirtualServerBase|  1| client connected 'OBERMOFUCKINGLEUTNANT'(id:598) from 24.171.29.95:55319
+2015-12-14 00:03:35.359523|INFO    |VirtualServerBase|  1| client connected 'Hank'(id:618) from 74.76.214.38:51906
+2015-12-14 01:06:49.203468|INFO    |VirtualServerBase|  1| client disconnected 'Nwarner426'(id:557) reason 'reasonmsg=leaving'
+2015-12-14 01:20:27.548955|INFO    |VirtualServerBase|  1| client disconnected 'Rodrik'(id:598) reason 'reasonmsg=leaving'
+2015-12-14 01:20:29.877150|INFO    |VirtualServerBase|  1| client disconnected 'Hank'(id:618) reason 'reasonmsg=leaving'
+2015-12-14 02:51:02.329310|INFO    |VirtualServerBase|  1| client connected 'rudy'(id:100) from 205.237.133.150:62624
+2015-12-14 02:52:15.817132|INFO    |VirtualServerBase|  1| client connected 'Tyler'(id:271) from 68.0.78.148:59511
+2015-12-14 04:02:03.500842|INFO    |VirtualServerBase|  1| client connected 'ross'(id:397) from 107.129.31.5:5496
+2015-12-14 05:17:20.788678|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:397) reason 'reasonmsg=leaving'
+2015-12-14 05:17:24.441341|INFO    |VirtualServerBase|  1| client disconnected 'rudy'(id:100) reason 'reasonmsg=leaving'
+2015-12-14 05:17:25.884606|INFO    |VirtualServerBase|  1| client disconnected 'Tyler'(id:271) reason 'reasonmsg=leaving'
+2015-12-14 06:10:41.510895|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-14 06:23:34.409880|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:62071
+2015-12-14 12:22:10.648643|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-14 15:53:46.095982|INFO    |VirtualServerBase|  1| client connected 'Jokarapking{OfficialTS3Rapper}'(id:586) from 73.245.51.240:63860
+2015-12-14 15:54:25.917690|INFO    |VirtualServerBase|  1| client disconnected 'Jokarapking{OfficialTS3Rapper}'(id:586) reason 'reasonmsg=leaving'
+2015-12-14 17:45:45.923990|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2015-12-14 18:48:04.501754|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:54217
+2015-12-14 21:52:17.329479|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:81) reason 'reasonmsg=leaving'
+2015-12-14 22:30:18.884640|INFO    |VirtualServerBase|  1| client connected 'Nwarner426'(id:557) from 75.134.131.96:57359
+2015-12-14 22:30:58.407396|INFO    |VirtualServerBase|  1| client connected 'OBERMOFUCKINGLEUTNANT'(id:598) from 24.171.29.95:56462
+2015-12-14 23:25:56.213460|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:276) from 107.10.51.255:53646
+2015-12-14 23:59:29.450055|INFO    |VirtualServerBase|  1| client disconnected 'Nwarner426'(id:557) reason 'reasonmsg=leaving'
+2015-12-15 00:00:33.257393|INFO    |VirtualServerBase|  1| client disconnected 'Rodrik'(id:598) reason 'reasonmsg=leaving'
+2015-12-15 02:07:24.970881|INFO    |VirtualServerBase|  1| client connected 'Brosus'(id:592) from 24.20.49.156:49290
+2015-12-15 02:07:27.890102|INFO    |VirtualServerBase|  1| client disconnected 'Brosus'(id:592) reason 'reasonmsg=leaving'
+2015-12-15 02:42:28.309485|INFO    |VirtualServerBase|  1| client connected 'Nwarner426'(id:557) from 75.134.131.96:58825
+2015-12-15 02:43:08.247815|INFO    |VirtualServerBase|  1| client connected 'OBERMOFUCKINGLEUTNANT'(id:598) from 24.171.29.95:55345
+2015-12-15 02:52:23.250094|INFO    |VirtualServerBase|  1| client disconnected 'Nwarner426'(id:557) reason 'reasonmsg=leaving'
+2015-12-15 03:04:14.061940|INFO    |VirtualServerBase|  1| client disconnected 'Rodrik'(id:598) reason 'reasonmsg=leaving'
+2015-12-15 04:30:45.736383|INFO    |VirtualServerBase|  1| client connected 'TheCrimsonFucker'(id:619) from 77.31.101.59:55329
+2015-12-15 04:30:52.267981|INFO    |VirtualServerBase|  1| client disconnected 'TheCrimsonFucker'(id:619) reason 'reasonmsg=leaving'
+2015-12-15 04:33:31.974164|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=connection lost'
+2015-12-15 04:33:34.404296|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:54217
+2015-12-15 04:54:55.951151|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:81) from 174.100.62.193:49678
+2015-12-15 05:38:40.969711|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:59875
+2015-12-15 06:48:44.069015|INFO    |VirtualServerBase|  1| client connected 'Razz'(id:393) from 65.25.104.246:54759
+2015-12-15 06:50:30.221694|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:276) reason 'reasonmsg=leaving'
+2015-12-15 08:07:34.073398|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:81) reason 'reasonmsg=leaving'
+2015-12-15 08:07:47.892634|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:81) from 174.100.62.193:50428
+2015-12-15 08:54:25.422329|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:81) reason 'reasonmsg=leaving'
+2015-12-15 08:56:29.017770|INFO    |VirtualServerBase|  1| client disconnected 'Razz'(id:393) reason 'reasonmsg=leaving'
+2015-12-15 11:25:20.472468|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-15 16:30:38.993326|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2015-12-15 16:55:10.925240|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:81) from 174.100.62.193:58461
+2015-12-15 22:24:30.941092|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:59395
+2015-12-15 22:40:44.312194|INFO    |VirtualServerBase|  1| client connected 'Nwarner426'(id:557) from 75.134.131.96:52893
+2015-12-15 22:44:04.445490|INFO    |VirtualServerBase|  1| client disconnected 'Nwarner426'(id:557) reason 'reasonmsg=leaving'
+2015-12-15 22:50:26.652237|INFO    |VirtualServerBase|  1| client connected 'Nwarner426'(id:557) from 75.134.131.96:63984
+2015-12-15 22:50:45.830763|INFO    |VirtualServerBase|  1| client connected 'OBERMOFUCKINGLEUTNANT'(id:598) from 24.171.29.95:55198
+2015-12-15 22:52:05.531530|INFO    |VirtualServerBase|  1| client disconnected 'Nwarner426'(id:557) reason 'reasonmsg=leaving'
+2015-12-15 22:55:31.663851|INFO    |VirtualServerBase|  1| client connected 'Nwarner426'(id:557) from 75.134.131.96:51462
+2015-12-15 23:20:27.839973|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:57618
+2015-12-15 23:21:10.963001|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-15 23:21:12.466089|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:57618
+2015-12-15 23:22:17.347920|INFO    |VirtualServerBase|  1| client disconnected 'Rodrik'(id:598) reason 'reasonmsg=leaving'
+2015-12-15 23:42:40.550301|INFO    |VirtualServerBase|  1| client disconnected 'Nwarner426'(id:557) reason 'reasonmsg=leaving'
+2015-12-16 00:54:41.418780|INFO    |VirtualServerBase|  1| client connected 'ross'(id:397) from 107.129.31.5:20900
+2015-12-16 00:54:45.325116|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:397) reason 'reasonmsg=leaving'
+2015-12-16 04:29:25.193508|INFO    |VirtualServerBase|  1| client connected 'Razz'(id:393) from 65.25.104.246:49849
+2015-12-16 05:33:14.279069|INFO    |VirtualServerBase|  1| client disconnected 'Razz'(id:393) reason 'reasonmsg=leaving'
+2015-12-16 05:41:03.491740|INFO    |VirtualServerBase|  1| client connected 'Razz'(id:393) from 65.25.104.246:51706
+2015-12-16 05:50:00.760054|INFO    |VirtualServerBase|  1| client connected 'Ripahar'(id:620) from 68.112.176.79:52082
+2015-12-16 05:50:38.251394|INFO    |VirtualServerBase|  1| client disconnected 'Ripahar'(id:620) reason 'reasonmsg=leaving'
+2015-12-16 05:52:00.656957|INFO    |VirtualServerBase|  1| client connected 'Ripahar'(id:620) from 68.112.176.79:62989
+2015-12-16 07:50:16.543767|INFO    |VirtualServerBase|  1| client disconnected 'Ursus'(id:81) reason 'reasonmsg=leaving'
+2015-12-16 07:52:24.998139|INFO    |VirtualServerBase|  1| client disconnected 'Razz'(id:393) reason 'reasonmsg=leaving'
+2015-12-16 07:53:15.895631|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:54048
+2015-12-16 07:53:22.376268|INFO    |VirtualServerBase|  1| client disconnected 'Ripahar'(id:620) reason 'reasonmsg=leaving'
+2015-12-16 08:57:33.239378|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-16 08:57:37.048657|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:54048
+2015-12-16 10:32:34.371991|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-16 10:32:38.040254|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:54048
+2015-12-16 10:54:33.880709|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=leaving'
+2015-12-16 12:54:27.640496|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-16 13:34:19.430537|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2015-12-16 16:41:41.808129|INFO    |VirtualServerBase|  1| client connected 'wagex1'(id:6) from 70.168.122.131:59671
+2015-12-16 16:41:44.810333|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:6) reason 'reasonmsg=connection lost'
+2015-12-16 19:07:21.654762|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:52796
+2015-12-16 19:07:38.915189|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-16 19:07:40.605476|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:52796
+2015-12-16 19:07:46.514624|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-16 22:25:45.099773|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:52479
+2015-12-16 22:32:35.581506|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-16 22:32:37.592621|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:52479
+2015-12-16 22:46:44.979712|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:60368
+2015-12-16 22:57:47.070985|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:58090
+2015-12-17 00:41:04.220406|INFO    |VirtualServerBase|  1| client connected 'OBERMOFUCKINGLEUTNANT'(id:598) from 24.171.29.95:61320
+2015-12-17 00:41:16.620413|INFO    |VirtualServerBase|  1| client connected 'Nwarner426'(id:557) from 75.134.131.96:56307
+2015-12-17 00:57:35.798558|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-17 00:57:37.911825|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:52479
+2015-12-17 01:02:35.850198|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-17 01:02:37.962317|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:52479
+2015-12-17 01:02:39.607414|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:276) from 107.10.51.255:59218
+2015-12-17 01:07:34.874457|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-17 01:07:38.033797|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:52479
+2015-12-17 01:58:54.565621|INFO    |VirtualServerBase|  1| client disconnected 'Rodrik'(id:598) reason 'reasonmsg=leaving'
+2015-12-17 02:40:34.351804|INFO    |VirtualServerBase|  1| client disconnected 'Nwarner426'(id:557) reason 'reasonmsg=leaving'
+2015-12-17 02:52:36.122189|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-17 02:52:38.334318|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:52479
+2015-12-17 02:59:48.254081|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=leaving'
+2015-12-17 02:59:49.384173|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:52479
+2015-12-17 03:00:55.495825|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=leaving'
+2015-12-17 03:00:56.616911|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:52479
+2015-12-17 03:02:36.401266|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=leaving'
+2015-12-17 03:11:52.917520|INFO    |VirtualServerBase|  1| client connected 'ross'(id:492) from 107.129.31.5:59212
+2015-12-17 03:15:58.130580|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:58886
+2015-12-17 03:48:16.672836|INFO    |VirtualServerBase|  1| client connected 'jake'(id:621) from 76.2.90.177:19992
+2015-12-17 03:48:32.479390|INFO    |VirtualServer |  1| client (id:621) was added to servergroup 'Server Admin'(id:6) by client 'ross'(id:492)
+2015-12-17 04:53:27.178346|INFO    |VirtualServerBase|  1| client connected 'Razz'(id:393) from 65.25.104.246:56470
+2015-12-17 04:53:33.356852|INFO    |VirtualServerBase|  1| client disconnected 'Razz'(id:393) reason 'reasonmsg=leaving'
+2015-12-17 05:33:27.433488|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-17 05:33:29.927745|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:58886
+2015-12-17 05:40:07.671962|INFO    |VirtualServerBase|  1| client disconnected 'Sage Black'(id:276) reason 'reasonmsg=leaving'
+2015-12-17 05:53:27.609995|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-17 05:53:30.024174|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:58886
+2015-12-17 06:26:34.633235|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:492) reason 'reasonmsg=leaving'
+2015-12-17 06:26:37.973686|INFO    |VirtualServerBase|  1| client disconnected 'jake'(id:621) reason 'reasonmsg=leaving'
+2015-12-17 07:08:27.908140|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-17 07:08:30.469287|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:58886
+2015-12-17 07:52:37.776759|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-17 08:05:46.271544|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:65013
+2015-12-17 08:05:58.360732|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-17 08:06:00.046868|INFO    |VirtualServerBase|  1| client connected 'Somnus'(id:480) from 107.10.55.6:65013
+2015-12-17 09:00:53.085684|INFO    |VirtualServerBase|  1| client disconnected 'Somnus'(id:480) reason 'reasonmsg=leaving'
+2015-12-17 09:08:27.675216|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-17 09:08:30.292366|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:58886
+2015-12-17 09:48:28.026928|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-17 09:48:30.512136|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:58886
+2015-12-17 09:53:28.027226|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-17 09:53:30.511403|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:58886
+2015-12-17 10:13:28.139854|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-17 10:13:30.660084|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:58886
+2015-12-17 10:28:28.256511|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-17 10:28:30.733755|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:58886
+2015-12-17 10:33:28.274529|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-17 10:33:30.740724|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:58886
+2015-12-17 11:08:28.502325|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-17 11:08:31.036517|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:58886
+2015-12-17 11:13:28.567833|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-17 11:13:31.031974|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:58886
+2015-12-17 11:18:28.579628|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-17 11:18:31.030794|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:58886
+2015-12-17 11:23:28.596478|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-17 11:23:31.068669|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:58886
+2015-12-17 11:54:40.175549|INFO    |VirtualServerBase|  1| client connected 'Manwithnolife'(id:622) from 69.14.107.61:57438
+2015-12-17 11:54:56.194910|INFO    |VirtualServerBase|  1| client disconnected 'Manwithnolife'(id:622) reason 'reasonmsg=leaving'
+2015-12-17 13:38:29.024687|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-17 13:38:30.837821|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:58886
+2015-12-17 15:04:58.245445|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:81) from 174.100.62.193:57530
+2015-12-17 16:13:29.304386|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-17 16:13:31.811645|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:58886
+2015-12-17 16:18:29.433779|INFO    |VirtualServerBase|  1| client disconnected 'Schizm'(id:613) reason 'reasonmsg=connection lost'
+2015-12-17 16:18:31.925810|INFO    |VirtualServerBase|  1| client connected 'Schizm'(id:613) from 65.25.105.36:58886

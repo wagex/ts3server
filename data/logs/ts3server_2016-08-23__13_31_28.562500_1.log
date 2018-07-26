@@ -1,0 +1,5 @@
+2016-08-23 13:31:36.591796|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2016-08-23 13:31:38.029296|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:6) from 70.168.122.19:56337
+2016-08-23 15:19:33.152859|INFO    |VirtualServerBase|  1| server was edited by 'wagex'(id:6)
+2016-08-23 15:29:16.001492|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:6) reason 'reasonmsg=Server Shutdown!'
+2016-08-23 15:29:16.105984|INFO    |VirtualServerBase|  1| stopped

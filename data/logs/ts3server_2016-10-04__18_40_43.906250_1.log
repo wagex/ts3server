@@ -1,0 +1,54 @@
+2016-10-04 18:41:00.426757|INFO    |VirtualServerBase|  1| channel 'Life is Feudal'(id:316) deleted by 'server'(id:0)
+2016-10-04 18:41:00.473632|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2016-10-04 18:47:33.434570|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:6) from 70.168.122.19:59983
+2016-10-04 18:54:14.635742|INFO    |VirtualServerBase|  1| server was edited by 'wagex'(id:6)
+2016-10-04 19:21:56.094726|INFO    |VirtualServerBase|  1| client connected 'Hank(Karl Arnet)'(id:648) from 74.76.179.204:55496
+2016-10-04 19:55:01.109375|INFO    |VirtualServerBase|  1| client connected 'Hanz'(id:918) from 69.253.153.232:61921
+2016-10-04 20:13:53.480468|INFO    |VirtualServerBase|  1| client disconnected 'wagex'(id:6) reason 'reasonmsg=leaving'
+2016-10-04 20:13:55.142578|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:6) from 70.168.122.19:59983
+2016-10-04 21:28:12.210937|INFO    |VirtualServerBase|  1| client connected 'nwarner426'(id:557) from 75.134.147.127:58223
+2016-10-04 21:44:52.597656|INFO    |VirtualServerBase|  1| client connected 'headcrabaregood'(id:633) from 73.253.129.160:62162
+2016-10-04 22:51:19.800781|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:58394
+2016-10-04 22:57:56.770507|INFO    |VirtualServerBase|  1| client connected 'herpaderp'(id:650) from 67.3.8.209:59517
+2016-10-04 23:28:29.562500|INFO    |VirtualServerBase|  1| client disconnected 'Hanz'(id:918) reason 'reasonmsg=connection lost'
+2016-10-04 23:35:16.022460|INFO    |VirtualServerBase|  1| client connected 'Hanz'(id:918) from 69.253.153.232:61921
+2016-10-04 23:36:10.252929|INFO    |VirtualServerBase|  1| client disconnected 'Hanz'(id:918) reason 'reasonmsg=connection lost'
+2016-10-04 23:36:12.722656|INFO    |VirtualServerBase|  1| client connected 'Hanz'(id:918) from 69.253.153.232:61921
+2016-10-04 23:38:29.063476|INFO    |VirtualServerBase|  1| client disconnected 'Hank(Karl Arnet)'(id:648) reason 'reasonmsg=connection lost'
+2016-10-04 23:41:42.328125|INFO    |VirtualServerBase|  1| client connected 'Hank(Karl Arnet)'(id:648) from 74.76.179.204:55496
+2016-10-04 23:42:52.770507|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:50057
+2016-10-04 23:42:56.243164|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2016-10-04 23:43:16.933593|INFO    |VirtualServerBase|  1| client connected 'Dark'(id:767) from 173.91.223.150:51009
+2016-10-05 00:11:42.920898|INFO    |VirtualServerBase|  1| client disconnected 'headcrabaregood'(id:633) reason 'reasonmsg=leaving'
+2016-10-05 00:16:23.751953|INFO    |VirtualServerBase|  1| client connected 'Rudy'(id:100) from 68.12.167.232:49729
+2016-10-05 00:17:40.891601|INFO    |VirtualServerBase|  1| client connected 'AVT8R'(id:271) from 72.192.81.101:55477
+2016-10-05 00:54:42.204101|INFO    |VirtualServer |  1| complaint added for client 'Hank(Karl Arnet)'(id:648) reason 'Napoleionic?' by client 'nwarner426'(id:557)
+2016-10-05 01:28:00.391601|INFO    |VirtualServerBase|  1| client disconnected 'Ritsu'(id:349) reason 'reasonmsg=leaving'
+2016-10-05 01:48:39.930664|INFO    |VirtualServerBase|  1| client connected 'Skit Rombony'(id:733) from 98.252.66.150:54517
+2016-10-05 01:52:31.023437|INFO    |VirtualServerBase|  1| client disconnected 'Hanz'(id:918) reason 'reasonmsg=connection lost'
+2016-10-05 02:23:50.291015|INFO    |VirtualServerBase|  1| client connected 'Jeremy'(id:910) from 173.171.204.217:58552
+2016-10-05 02:24:37.309570|INFO    |VirtualServerBase|  1| channel 'Life is Feudal'(id:317) created as sub channel of 'General Chat'(id:30) by 'Jeremy'(id:910)
+2016-10-05 02:25:09.951171|INFO    |VirtualServerBase|  1| client connected 'Dorian'(id:929) from 97.99.218.65:63673
+2016-10-05 02:33:23.513671|INFO    |VirtualServerBase|  1| client disconnected 'Hank(Karl Arnet)'(id:648) reason 'reasonmsg=connection lost'
+2016-10-05 02:33:51.396484|INFO    |VirtualServerBase|  1| client disconnected 'herpaderp'(id:650) reason 'reasonmsg=leaving'
+2016-10-05 02:34:06.244140|INFO    |VirtualServerBase|  1| client disconnected 'nwarner426'(id:557) reason 'reasonmsg=leaving'
+2016-10-05 03:44:02.958007|INFO    |VirtualServerBase|  1| client disconnected 'Rudy'(id:100) reason 'reasonmsg=leaving'
+2016-10-05 03:44:06.208007|INFO    |VirtualServerBase|  1| client disconnected 'AVT8R'(id:271) reason 'reasonmsg=leaving'
+2016-10-05 05:08:19.878906|INFO    |VirtualServerBase|  1| client disconnected 'Dark'(id:767) reason 'reasonmsg=leaving'
+2016-10-05 05:45:04.148437|INFO    |VirtualServerBase|  1| client connected 'Kamikunt'(id:930) from 67.70.17.238:51645
+2016-10-05 05:45:07.484375|INFO    |VirtualServerBase|  1| client disconnected 'Kamikunt'(id:930) reason 'reasonmsg=leaving'
+2016-10-05 06:33:41.150390|INFO    |VirtualServerBase|  1| client disconnected 'Dorian'(id:929) reason 'reasonmsg=leaving'
+2016-10-05 08:26:02.347656|INFO    |VirtualServerBase|  1| client connected 'Ryan'(id:920) from 173.91.192.130:50742
+2016-10-05 08:26:06.713867|INFO    |VirtualServerBase|  1| client disconnected 'Ryan'(id:920) reason 'reasonmsg=leaving'
+2016-10-05 12:19:22.493164|INFO    |VirtualServer |  1| file upload to (id:0), '/icon_315607353' by client 'wagex'(id:6)
+2016-10-05 12:19:31.847656|INFO    |VirtualServerBase|  1| channel 'life is feudal'(id:318) created by 'wagex'(id:6)
+2016-10-05 12:19:31.878906|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:315607353) was added by 'wagex'(id:6) to channel 'life is feudal'(id:318)
+2016-10-05 12:19:31.896484|INFO    |VirtualServerBase|  1| channel 'life is feudal'(id:318) edited by 'wagex'(id:6)
+2016-10-05 12:21:33.243164|INFO    |VirtualServer |  1| file upload to (id:0), '/icon_147555738' by client 'wagex'(id:6)
+2016-10-05 12:21:37.181640|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:147555738) was added by 'wagex'(id:6) to channel 'Everquest'(id:313)
+2016-10-05 12:21:37.220703|INFO    |VirtualServerBase|  1| channel 'Everquest'(id:313) edited by 'wagex'(id:6)
+2016-10-05 18:21:59.386718|INFO    |VirtualServerBase|  1| client connected 'Hanz'(id:918) from 69.253.153.232:57113
+2016-10-05 18:51:12.702148|INFO    |VirtualServerBase|  1| client connected 'The Black Whale'(id:505) from 73.89.118.117:50684
+2016-10-05 19:10:50.359375|INFO    |VirtualServerBase|  1| client disconnected 'The Black Whale'(id:505) reason 'reasonmsg=connection lost'
+2016-10-05 19:12:15.464843|INFO    |VirtualServerBase|  1| client connected 'The Black Whale'(id:505) from 73.89.118.117:50684
+2016-10-05 19:33:22.709960|INFO    |VirtualServerBase|  1| client connected 'MsKitty'(id:810) from 184.4.118.96:65185

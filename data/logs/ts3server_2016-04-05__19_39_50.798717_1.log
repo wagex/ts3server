@@ -1,0 +1,4 @@
+2016-04-05 19:39:56.111298|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2016-04-05 19:40:01.215166|INFO    |VirtualServerBase|  1| client connected 'headcrabaregood'(id:633) from 73.253.129.160:61458
+2016-04-05 19:40:02.440007|INFO    |VirtualServerBase|  1| client connected 'Hank(Karl Arnet)'(id:648) from 74.76.179.204:55675
+2016-04-05 19:44:08.162047|INFO    |VirtualServerBase|  1| client connected 'Nwarner426'(id:557) from 75.134.131.96:63742

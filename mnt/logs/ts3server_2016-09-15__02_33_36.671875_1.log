@@ -1,0 +1,13 @@
+2016-09-15 02:33:40.878906|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2016-09-15 02:33:42.308593|INFO    |VirtualServerBase|  1| client connected 'Winter'(id:900) from 69.143.206.56:54307
+2016-09-15 02:33:42.574218|INFO    |VirtualServerBase|  1| client connected 'Skit Rombony'(id:733) from 98.252.66.150:52414
+2016-09-15 02:33:43.996093|INFO    |VirtualServerBase|  1| client connected 'wagex'(id:6) from 70.168.122.19:62184
+2016-09-15 02:33:46.636718|INFO    |VirtualServerBase|  1| client connected 'herpaderp'(id:650) from 104.159.170.204:49864
+2016-09-15 02:35:14.511718|INFO    |VirtualServerBase|  1| client connected 'ross'(id:397) from 107.129.31.5:15588
+2016-09-15 02:39:33.628906|INFO    |VirtualServerBase|  1| client disconnected 'Winter'(id:900) reason 'reasonmsg=leaving'
+2016-09-15 03:19:29.147460|INFO    |VirtualServerBase|  1| client disconnected 'herpaderp'(id:650) reason 'reasonmsg=connection lost'
+2016-09-15 04:14:57.416015|INFO    |VirtualServerBase|  1| client disconnected 'Skit Rombony'(id:733) reason 'reasonmsg=leaving'
+2016-09-15 04:35:02.944335|INFO    |VirtualServerBase|  1| client connected 'Scylax'(id:817) from 108.227.59.73:54321
+2016-09-15 04:35:07.102539|INFO    |VirtualServerBase|  1| client disconnected 'Scylax'(id:817) reason 'reasonmsg=leaving'
+2016-09-15 07:04:20.798828|INFO    |VirtualServerBase|  1| client disconnected 'ross'(id:397) reason 'reasonmsg=connection lost'
+2016-09-15 09:18:16.300781|INFO    |VirtualServerBase|  1| client connected 'ross'(id:397) from 107.129.31.5:15588

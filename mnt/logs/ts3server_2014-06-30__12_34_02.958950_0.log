@@ -1,0 +1,12 @@
+2014-06-30 12:34:02.958950|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.10.3 (2014-01-01 16:28:39)
+2014-06-30 12:34:02.990200|INFO    |ServerLibPriv |   | SystemInformation: Windows Server 2012 (9200) x64 (AMD or Intel) Binary: 32bit
+2014-06-30 12:34:03.146450|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2014-06-30 12:34:03.146450|INFO    |DatabaseQuery |   | dbPlugin version: 3.7.3
+2014-06-30 12:34:03.208948|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2014-06-30 12:34:04.505815|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2014-06-30 12:34:09.099537|INFO    |              |   | Puzzle precompute time: 4453
+2014-06-30 12:34:09.177662|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2014-06-30 12:34:09.990167|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2014-06-30 12:34:09.990167|INFO    |Query         |   | listening on 0.0.0.0:10011
+2014-07-01 00:01:35.686303|INFO    |VirtualSvrMgr |   | executing monthly interval
+2014-07-01 00:02:01.608262|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics

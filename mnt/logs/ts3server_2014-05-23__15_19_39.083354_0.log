@@ -1,0 +1,18 @@
+2014-05-23 15:19:39.083354|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.10.3 (2014-01-01 16:28:39)
+2014-05-23 15:19:39.083354|INFO    |ServerLibPriv |   | SystemInformation: Windows Server 2012 (9200) x64 (AMD or Intel) Binary: 32bit
+2014-05-23 15:19:39.411480|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2014-05-23 15:19:39.411480|INFO    |DatabaseQuery |   | dbPlugin version: 3.7.3
+2014-05-23 15:19:39.567734|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2014-05-23 15:19:39.880234|INFO    |SQL           |   | db_CreateTables() tables created
+2014-05-23 15:19:43.067749|INFO    |SQL           |   | updated permissions to version 16
+2014-05-23 15:19:43.099001|INFO    |SQL           |   | updated permissions to version 17
+2014-05-23 15:19:43.130249|INFO    |SQL           |   | updated permissions to version 18
+2014-05-23 15:19:43.161503|INFO    |SQL           |   | updated permissions to version 19
+2014-05-23 15:19:43.192748|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2014-05-23 15:19:48.177150|INFO    |              |   | Puzzle precompute time: 4859
+2014-05-23 15:19:48.302154|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2014-05-23 15:19:48.317775|INFO    |VirtualSvrMgr |   | executing monthly interval
+2014-05-23 15:19:48.317775|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2014-05-23 15:19:50.255285|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2014-05-23 15:19:50.255285|INFO    |Query         |   | listening on 0.0.0.0:10011
+2014-05-23 15:20:21.724189|INFO    |GetWanIP      |   | WAN ip: 70.168.122.127

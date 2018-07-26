@@ -1,0 +1,38 @@
+2014-07-10 02:47:26.122021|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.10.3 (2014-01-01 16:28:39)
+2014-07-10 02:47:26.122021|INFO    |ServerLibPriv |   | SystemInformation: Windows 7 SP1 (7601) x64 (AMD or Intel) Binary: 32bit
+2014-07-10 02:47:26.123022|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2014-07-10 02:47:26.123022|INFO    |DatabaseQuery |   | dbPlugin version: 3.7.3
+2014-07-10 02:47:26.123022|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2014-07-10 02:47:26.166024|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2014-07-10 02:47:28.194140|INFO    |              |   | Puzzle precompute time: 2013
+2014-07-10 02:47:28.195140|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2014-07-10 02:47:28.263144|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2014-07-10 02:47:28.265144|INFO    |Query         |   | listening on 0.0.0.0:10011
+2014-07-10 13:02:30.618838|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2014-07-12 14:32:43.592037|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2014-07-13 02:42:46.584425|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2014-07-14 17:52:40.765467|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2014-07-18 06:53:02.234894|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2014-07-18 08:13:02.437450|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2014-07-20 20:03:18.929568|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2014-07-20 20:43:17.775774|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2014-07-20 21:13:17.919737|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2014-07-20 21:43:18.560728|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2014-07-20 21:53:18.998071|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2014-07-20 22:13:18.091655|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2014-07-20 22:33:19.178353|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2014-07-21 00:13:18.490494|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2014-07-21 00:33:18.814149|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2014-07-21 01:03:19.731155|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2014-08-01 00:02:26.158581|INFO    |VirtualSvrMgr |   | executing monthly interval
+2014-08-01 00:02:26.254586|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2014-08-05 18:03:35.984267|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2014-08-12 04:34:15.230332|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2014-08-12 09:54:16.345573|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2014-08-15 05:04:34.221764|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2014-08-15 09:14:34.916755|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2014-08-19 14:05:13.046348|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2014-08-23 02:20:47.398081|ERROR   |GetWanIP      |   | failed to retrieve WAN ip
+2014-08-30 12:11:46.239701|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2014-09-01 00:02:26.158924|INFO    |VirtualSvrMgr |   | executing monthly interval
+2014-09-01 00:02:26.235929|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics

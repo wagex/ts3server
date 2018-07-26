@@ -1,0 +1,976 @@
+2017-10-05 16:01:36.136718|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.10.3 (2014-01-01 16:28:39)
+2017-10-05 16:01:36.136718|INFO    |ServerLibPriv |   | SystemInformation: Windows 7 SP1 (7601) x64 (AMD or Intel) Binary: 32bit
+2017-10-05 16:01:36.136718|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2017-10-05 16:01:36.136718|INFO    |DatabaseQuery |   | dbPlugin version: 3.7.3
+2017-10-05 16:01:36.136718|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2017-10-05 16:01:36.183593|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2017-10-05 16:01:39.809570|INFO    |              |   | Puzzle precompute time: 3126
+2017-10-05 16:01:39.811523|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2017-10-05 16:01:39.955078|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2017-10-05 16:01:39.956054|INFO    |Query         |   | listening on 0.0.0.0:10011
+2017-10-05 16:34:16.792968|INFO    |Query         |   | query from 1 192.168.0.1:13084 issued: login with account "serveradmin"(serveradmin)
+2017-10-10 23:12:18.070250|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-10 23:22:20.070250|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-10 23:42:16.851500|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 00:52:19.023375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 01:02:21.023375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 01:22:17.148375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 01:32:19.039000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 01:42:21.039000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 01:52:17.242125|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 01:52:17.242125|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 01:52:19.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 01:52:19.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 01:52:21.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 01:52:21.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:02:17.273375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 02:02:17.273375|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 02:02:17.273375|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 02:02:17.273375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:02:17.273375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:02:19.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:02:19.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:02:21.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:02:21.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:12:17.304625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:12:17.304625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:12:19.054625|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 02:12:19.054625|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 02:12:19.054625|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 02:12:19.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:12:19.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:12:21.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:12:21.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:22:17.335875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:22:17.335875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:22:19.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:22:19.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:22:21.054625|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 02:22:21.054625|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 02:22:21.054625|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 02:22:21.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:22:21.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:32:17.367125|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:32:17.367125|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:32:19.007750|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:32:19.007750|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:32:21.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:32:21.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:42:17.398375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 02:42:17.398375|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 02:42:17.398375|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 02:42:17.398375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:42:17.398375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:42:19.039000|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:42:19.039000|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:42:21.007750|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:42:21.007750|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:52:17.429625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:52:17.429625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:52:19.070250|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 02:52:19.070250|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 02:52:19.070250|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 02:52:19.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:52:19.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:52:21.039000|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 02:52:21.039000|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:02:17.460875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:02:17.460875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:02:19.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:02:19.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:02:21.070250|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 03:02:21.070250|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 03:02:21.070250|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 03:02:21.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:02:21.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:12:17.492125|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:12:17.492125|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:12:19.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:12:19.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:12:21.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:12:21.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:22:17.523375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 03:22:17.523375|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 03:22:17.523375|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 03:22:17.523375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:22:17.523375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:22:19.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:22:19.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:22:21.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:22:21.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:32:17.554625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:32:17.554625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:32:19.085875|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 03:32:19.085875|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 03:32:19.085875|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 03:32:19.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:32:19.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:32:21.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:32:21.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:42:17.585875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:42:17.585875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:42:19.007750|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:42:19.007750|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:42:21.085875|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 03:42:21.085875|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 03:42:21.085875|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 03:42:21.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:42:21.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:52:17.617125|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:52:17.617125|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:52:19.039000|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:52:19.039000|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:52:21.007750|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 03:52:21.007750|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:02:17.648375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 04:02:17.648375|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 04:02:17.648375|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 04:02:17.648375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:02:17.648375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:02:19.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:02:19.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:02:21.039000|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:02:21.039000|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:12:17.679625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:12:17.679625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:12:19.101500|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 04:12:19.101500|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 04:12:19.101500|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 04:12:19.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:12:19.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:12:21.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:12:21.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:22:17.710875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:22:17.710875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:22:19.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:22:19.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:22:21.101500|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 04:22:21.101500|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 04:22:21.101500|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 04:22:21.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:22:21.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:32:17.742125|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:32:17.742125|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:32:19.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:32:19.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:32:21.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:32:21.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:42:17.773375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 04:42:17.773375|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 04:42:17.773375|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 04:42:17.773375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:42:17.773375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:42:19.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:42:19.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:42:21.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:42:21.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:52:17.804625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:52:17.804625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:52:19.007750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 04:52:19.007750|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 04:52:19.007750|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 04:52:19.007750|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:52:19.007750|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:52:21.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 04:52:21.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:02:17.835875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:02:17.835875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:02:19.039000|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:02:19.039000|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:02:21.007750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 05:02:21.007750|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 05:02:21.007750|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 05:02:21.007750|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:02:21.007750|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:12:17.867125|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:12:17.867125|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:12:19.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:12:19.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:12:21.039000|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:12:21.039000|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:22:17.898375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 05:22:17.898375|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 05:22:17.898375|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 05:22:17.898375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:22:17.898375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:22:19.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:22:19.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:22:21.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:22:21.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:32:17.929625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:32:17.929625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:32:19.023375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 05:32:19.023375|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 05:32:19.023375|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 05:32:19.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:32:19.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:32:21.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:32:21.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:42:17.960875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:42:17.960875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:42:19.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:42:19.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:42:21.023375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 05:42:21.023375|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 05:42:21.023375|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 05:42:21.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:42:21.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:52:17.992125|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:52:17.992125|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:52:19.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:52:19.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:52:21.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 05:52:21.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:02:18.023375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 06:02:18.023375|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 06:02:18.023375|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 06:02:18.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:02:18.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:02:20.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:02:20.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:02:22.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:02:22.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:12:18.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:12:18.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:12:20.023375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 06:12:20.023375|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 06:12:20.023375|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 06:12:20.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:12:20.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:12:22.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:12:22.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:22:18.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:22:18.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:22:20.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:22:20.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:22:22.023375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 06:22:22.023375|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 06:22:22.023375|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 06:22:22.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:22:22.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:32:18.117125|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:32:18.117125|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:32:20.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:32:20.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:32:22.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:32:22.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:42:18.148375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 06:42:18.148375|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 06:42:18.148375|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 06:42:18.148375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:42:18.148375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:42:20.007750|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:42:20.007750|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:42:22.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:42:22.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:52:18.179625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:52:18.179625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:52:20.039000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 06:52:20.039000|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 06:52:20.039000|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 06:52:20.039000|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:52:20.039000|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:52:22.007750|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 06:52:22.007750|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:02:18.210875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:02:18.210875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:02:20.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:02:20.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:02:22.039000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 07:02:22.039000|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 07:02:22.039000|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 07:02:22.039000|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:02:22.039000|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:12:18.242125|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:12:18.242125|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:12:20.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:12:20.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:12:22.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:12:22.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:22:18.273375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 07:22:18.273375|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 07:22:18.273375|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 07:22:18.273375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:22:18.273375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:22:20.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:22:20.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:22:22.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:22:22.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:32:18.304625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:32:18.304625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:32:20.054625|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 07:32:20.054625|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 07:32:20.054625|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 07:32:20.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:32:20.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:32:22.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:32:22.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:42:18.335875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:42:18.335875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:42:20.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:42:20.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:42:22.054625|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 07:42:22.054625|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 07:42:22.054625|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 07:42:22.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:42:22.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:52:18.367125|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:52:18.367125|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:52:20.007750|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:52:20.007750|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:52:22.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 07:52:22.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 08:02:18.398375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 08:02:18.398375|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 08:02:18.398375|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 08:02:18.398375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 08:02:18.398375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 08:02:20.039000|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 08:02:20.039000|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 08:02:22.007750|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 08:02:22.007750|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 08:12:18.429625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 08:12:18.429625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 08:12:20.070250|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 08:12:20.070250|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 08:12:20.070250|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 08:12:20.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 08:12:20.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 08:12:22.039000|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 08:12:22.039000|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 08:22:18.460875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 08:22:18.460875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 08:22:20.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 08:22:20.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 08:22:22.070250|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 08:42:18.523375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 08:52:20.085875|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 09:02:22.085875|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 09:22:18.648375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 09:32:20.101500|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 09:42:22.101500|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 10:02:18.773375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 10:12:20.007750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 10:22:18.835875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 10:22:18.835875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 10:22:20.039000|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 10:22:20.039000|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 10:22:22.007750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 10:22:22.007750|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 10:22:22.007750|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 10:22:22.007750|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 10:22:22.007750|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 10:32:18.867125|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 10:32:18.867125|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 10:32:20.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 10:32:20.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 10:32:22.039000|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 10:32:22.039000|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 10:42:18.898375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 10:42:18.898375|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 10:42:18.898375|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 10:42:18.898375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 10:42:18.898375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 10:42:20.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 10:42:20.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 10:42:22.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 10:42:22.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 10:52:18.929625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 10:52:18.929625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 10:52:20.023375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 10:52:20.023375|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 10:52:20.023375|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 10:52:20.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 10:52:20.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 10:52:22.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 10:52:22.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:02:18.960875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:02:18.960875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:02:20.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:02:20.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:02:22.023375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 11:02:22.023375|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 11:02:22.023375|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 11:02:22.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:02:22.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:12:18.992125|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:12:18.992125|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:12:20.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:12:20.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:12:22.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:12:22.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:22:19.023375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 11:22:19.023375|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 11:22:19.023375|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 11:22:19.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:22:19.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:22:21.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:22:21.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:22:23.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:22:23.070250|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:32:19.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:32:19.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:32:21.023375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 11:32:21.023375|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 11:32:21.023375|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 11:32:21.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:32:21.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:32:23.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:32:23.101500|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:42:19.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:42:19.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:42:21.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:42:21.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:42:23.023375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 11:42:23.023375|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 11:42:23.023375|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 11:42:23.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:42:23.023375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:52:19.117125|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:52:19.117125|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:52:21.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:52:21.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:52:23.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 11:52:23.054625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 12:02:19.148375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-10-11 12:02:19.148375|ERROR   |              |   | TS3ANetwork::Connect failed error: 10065
+2017-10-11 12:02:19.148375|DEVELOP |              |   | UDPConnection::send failed to update target ip
+2017-10-11 12:02:19.148375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 12:02:19.148375|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 12:02:21.007750|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 12:02:21.007750|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 12:02:23.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 12:02:23.085875|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 12:12:19.179625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-10-11 12:12:19.179625|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2017-11-01 00:01:36.186875|INFO    |VirtualSvrMgr |   | executing monthly interval
+2017-11-01 00:01:36.186875|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2017-12-01 00:01:36.194125|INFO    |VirtualSvrMgr |   | executing monthly interval
+2017-12-01 00:01:36.194125|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2017-12-07 10:02:52.459750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-07 10:12:54.100375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-07 10:22:56.069125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-07 10:42:52.600375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-07 10:52:54.022250|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-07 11:02:56.100375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-07 11:22:52.741000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-07 11:32:44.162875|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2017-12-07 11:42:56.084750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-07 12:02:52.834750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-07 12:12:42.116000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2017-12-07 12:22:56.006625|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-07 12:42:52.975375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-07 12:52:42.116000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2017-12-07 13:02:56.006625|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-07 13:12:45.303500|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2017-12-11 16:43:10.534750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-15 14:33:40.253500|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-21 16:34:20.069625|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-23 05:03:01.867476|INFO    |Query         |   | query from 7 107.129.31.5:49494 issued: login with account "serveradmin"(serveradmin)
+2017-12-27 16:04:59.081250|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 16:15:01.050000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 18:15:01.050000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 18:34:58.018750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 18:45:00.096875|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 18:55:02.065625|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.370312|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.370312|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.370312|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.370312|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.370312|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.370312|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.370312|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.370312|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.374218|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.378125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.382031|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.385937|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.389843|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.393750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.397656|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.401562|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.401562|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.401562|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.401562|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.401562|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.401562|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.401562|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.401562|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.401562|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.401562|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.401562|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.401562|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.401562|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.401562|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.401562|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.401562|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.401562|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.401562|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.401562|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.401562|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.401562|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.401562|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.401562|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.401562|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.405468|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.405468|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.405468|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.405468|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.405468|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.405468|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.405468|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.405468|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.405468|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.405468|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.405468|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.405468|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.405468|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.405468|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.405468|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.405468|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.405468|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.405468|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.405468|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.405468|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.405468|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.405468|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.405468|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.405468|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.405468|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.405468|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.409375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.413281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.417187|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.421093|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.425000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.428906|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.432812|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.436718|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.436718|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.436718|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.436718|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.436718|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.436718|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.436718|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.436718|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-27 19:25:20.436718|ERROR   |GetWanIP      |   | failed to retrieve WAN ip

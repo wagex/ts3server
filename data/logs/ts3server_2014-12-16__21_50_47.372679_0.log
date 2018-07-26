@@ -1,0 +1,20 @@
+2014-12-16 21:50:47.564690|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.10.3 (2014-01-01 16:28:39)
+2014-12-16 21:50:50.345849|INFO    |ServerLibPriv |   | SystemInformation: Windows 7 SP1 (7601) x64 (AMD or Intel) Binary: 32bit
+2014-12-16 21:50:51.578919|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2014-12-16 21:50:51.578919|INFO    |DatabaseQuery |   | dbPlugin version: 3.7.3
+2014-12-16 21:50:52.300961|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2014-12-16 21:50:55.105121|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2014-12-16 21:50:58.312305|INFO    |              |   | Puzzle precompute time: 2129
+2014-12-16 21:50:58.621322|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2014-12-16 21:51:05.288704|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2014-12-16 21:51:05.289704|INFO    |Query         |   | listening on 0.0.0.0:10011
+2014-12-18 19:51:23.332879|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2014-12-18 21:51:12.141056|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2014-12-18 21:51:12.141056|ERROR   |              |   | TS3ANetwork::Send failed error: 10022
+2014-12-29 17:21:40.259676|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-01-01 00:02:54.749252|INFO    |VirtualSvrMgr |   | executing monthly interval
+2015-01-01 00:02:54.759253|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2015-01-08 21:02:13.928085|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-01-10 03:49:42.324250|INFO    |Query         |   | query from 1 107.129.31.5:51290 issued: login with account "wagex"(kZVclvBlnZYK2VZiisQjyluAcSc=)
+2015-01-10 03:50:36.934374|INFO    |Query         |   | query from 2 107.129.31.5:51313 issued: login with account "wagex"(kZVclvBlnZYK2VZiisQjyluAcSc=)
+2015-01-10 04:01:13.772799|INFO    |Query         |   | query from 3 107.129.31.5:51424 attempted to login with account "serveradmin" and failed!

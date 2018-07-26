@@ -1,0 +1,13 @@
+2014-07-10 02:47:28.263144|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2014-07-14 02:16:51.496912|INFO    |VirtualServer |  1| client 'RoadToad47'(id:193) was added to channelgroup 'Guest'(id:8) by client 'RoadToad47'(id:193) in channel 'DayZ OW'(id:44)
+2014-08-03 06:05:28.161190|INFO    |VirtualServer |  1| permission 'b_client_is_priority_speaker'(id:177) was deleted by 'Retroactively'(id:7) for client (id:7) and channel 'League of Legends'(id:1)
+2014-08-10 02:27:50.293904|INFO    |VirtualServer |  1| client (id:212) was added to servergroup 'Server Admin'(id:6) by client 'imgurisforpriusdrivingfags.'(id:14)
+2014-08-21 05:56:45.672657|INFO    |VirtualServer |  1| client (id:212) was added to servergroup 'Papa McPlaymaker'(id:14) by client 'Vanopig'(id:212)
+2014-08-21 05:58:24.141289|INFO    |VirtualServer |  1| client 'Vanopig'(id:212) was added to channelgroup 'Channel Admin'(id:5) by client 'Vanopig'(id:212) in channel 'General Chat'(id:30)
+2014-08-21 05:58:42.684350|INFO    |VirtualServer |  1| client 'Vanopig'(id:212) was added to channelgroup 'Operator'(id:6) by client 'Vanopig'(id:212) in channel 'General Chat'(id:30)
+2014-08-23 16:01:34.127742|INFO    |VirtualServer |  1| client (id:212) was removed from servergroup 'Papa McPlaymaker'(id:14) by client 'Retroactively'(id:7)
+2014-08-23 16:01:40.581111|INFO    |VirtualServer |  1| client (id:212) was removed from servergroup 'Server Admin'(id:6) by client 'Retroactively'(id:7)
+2014-08-23 16:01:46.003421|INFO    |VirtualServer |  1| client 'Vanopig'(id:212) was added to channelgroup 'Guest'(id:8) by client 'Retroactively'(id:7) in channel 'General Chat'(id:30)
+2014-08-23 16:02:43.137689|INFO    |VirtualServer |  1| client (id:212) was added to servergroup 'Papa McPlaymaker'(id:14) by client 'Retroactively'(id:7)
+2014-08-23 16:03:36.250727|INFO    |VirtualServer |  1| client 'Vanopig'(id:212) was added to channelgroup 'Channel Admin'(id:5) by client 'Retroactively'(id:7) in channel 'General Chat'(id:30)
+2014-08-28 22:36:26.763870|WARNING |ChanClients   |  1| Your system time is broken, TeamSpeak might behave unexpectedly

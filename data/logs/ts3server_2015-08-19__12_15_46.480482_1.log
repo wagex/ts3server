@@ -1,0 +1,13 @@
+2015-08-19 12:15:53.112860|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-08-20 02:45:00.983057|INFO    |VirtualServerBase|  1| channel 'For faggots only'(id:185) created by 'Tyler'(id:289)
+2015-08-20 02:46:41.811327|INFO    |VirtualServerBase|  1| channel ':DDDDDDDDDDDDD'(id:185) edited by 'Tyler'(id:289)
+2015-08-20 04:17:03.734954|INFO    |VirtualServerBase|  1| channel ':DDDDDDDDDDDDD'(id:185) deleted by 'server'(id:0)
+2015-08-20 14:29:54.861397|INFO    |VirtualServer |  1| client (id:496) was added to servergroup 'Server Admin'(id:6) by client 'wagex'(id:6)
+2015-08-20 21:17:57.451004|INFO    |VirtualServer |  1| query client connected 'Unknown from 37.59.31.160:46773'(id:354)
+2015-08-20 21:17:57.893031|INFO    |VirtualServerBase|  1| query client disconnected 'Unknown from 37.59.31.160:46773'(id:354) reason 'reasonmsg=disconnecting'
+2015-08-21 04:09:53.804604|INFO    |VirtualServer |  1| client (id:492) was added to servergroup 'super duper admin'(id:9) by client 'wagex'(id:6)
+2015-08-21 04:11:10.225402|INFO    |VirtualServer |  1| client (id:6) was added to servergroup 'Queermins'(id:22) by client 'im super gay'(id:6)
+2015-08-21 04:12:54.916787|INFO    |VirtualServer |  1| query client connected 'serveradmin from 127.0.0.1:64440'(id:1)
+2015-08-21 04:15:55.502888|INFO    |VirtualServer |  1| client (id:492) was added to servergroup 'Admin Server Query'(id:2) by client 'serveradmin from 127.0.0.1:64440'(id:1)
+2015-08-21 12:09:57.240267|INFO    |VirtualServer |  1| client (id:6) was removed from servergroup 'Queermins'(id:22) by client 'wagex'(id:6)
+2015-08-21 12:19:35.931020|INFO    |VirtualServerBase|  1| query client disconnected 'serveradmin from 127.0.0.1:64440'(id:1) reason 'reasonmsg=disconnecting'

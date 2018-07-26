@@ -1,0 +1,195 @@
+2017-12-27 19:26:39.629101|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.10.3 (2014-01-01 16:28:39)
+2017-12-27 19:26:39.629101|INFO    |ServerLibPriv |   | SystemInformation: Windows 7 SP1 (7601) x64 (AMD or Intel) Binary: 32bit
+2017-12-27 19:26:39.629101|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2017-12-27 19:26:39.629101|INFO    |DatabaseQuery |   | dbPlugin version: 3.7.3
+2017-12-27 19:26:39.629101|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2017-12-27 19:26:39.675976|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2017-12-27 19:26:42.923046|INFO    |              |   | Puzzle precompute time: 3232
+2017-12-27 19:26:42.925000|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2017-12-27 19:26:43.086132|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2017-12-27 19:26:43.088086|INFO    |Query         |   | listening on 0.0.0.0:10011
+2017-12-28 20:32:03.725781|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-28 20:41:55.725781|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-28 21:01:53.725781|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-12-28 21:12:02.038281|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-01 00:02:39.680000|INFO    |VirtualSvrMgr |   | executing monthly interval
+2018-01-01 00:02:39.680000|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2018-01-06 10:12:50.022773|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 10:22:52.100898|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 10:32:54.382148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 10:52:49.054023|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 11:02:52.382148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 11:12:53.038398|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 11:32:49.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 11:42:52.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-06 11:52:53.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 12:12:49.319648|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 12:22:52.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 12:32:53.100898|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 12:52:49.413398|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 13:02:49.382148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-06 13:12:54.382148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 13:32:49.600898|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 13:42:50.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-06 13:52:53.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 14:12:49.647773|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 14:22:51.382148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-06 14:32:53.022773|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 14:52:49.772773|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 15:02:50.132148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-06 15:12:53.085273|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 15:32:49.944648|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 15:42:50.085273|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-06 15:52:53.038398|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 16:12:51.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 16:22:51.132148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-06 16:32:54.085273|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 16:52:51.382148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 17:02:51.069648|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-06 17:12:55.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 17:32:50.335273|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 17:42:51.132148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-06 17:52:55.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 18:12:50.444648|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 18:22:52.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-06 18:32:54.085273|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 18:52:52.382148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 19:02:51.085273|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-06 19:12:54.038398|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 19:32:50.679023|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 19:42:52.100898|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 19:52:55.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 20:12:50.772773|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 20:22:52.085273|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 20:32:55.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 20:52:52.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 21:02:53.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 21:12:53.007148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 21:22:55.085273|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 21:42:51.069648|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 21:52:53.038398|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 22:02:56.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 22:22:51.225898|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 22:32:53.085273|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 22:42:54.054023|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-06 23:02:51.350898|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 23:12:53.100898|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 23:22:55.069648|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 23:42:53.382148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-06 23:52:54.382148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 00:02:55.382148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 00:22:51.585273|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 00:32:53.007148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 00:42:55.382148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 01:02:51.694648|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 01:12:53.007148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 01:22:55.085273|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 01:42:51.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 01:52:53.085273|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 02:02:56.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 02:22:52.382148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 02:32:53.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 02:42:55.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 02:52:56.100898|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 03:12:53.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 03:22:55.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 03:32:56.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 03:52:52.210273|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 04:02:55.382148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 04:12:56.382148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 04:32:53.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 04:42:54.100898|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 04:52:56.069648|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 05:12:52.491523|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 05:22:54.022773|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 05:32:56.100898|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 05:52:52.632148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 06:02:54.054023|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 06:12:57.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 06:32:52.772773|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 06:42:54.085273|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 06:52:56.054023|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 07:12:53.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 07:22:54.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 07:32:56.382148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 07:52:54.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 08:02:55.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 08:12:57.085273|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 08:32:54.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 08:42:55.100898|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 08:52:57.069648|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 09:12:53.272773|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-01-07 09:22:55.382148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 09:32:56.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 09:52:52.413398|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 10:02:55.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 10:12:56.085273|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 10:32:52.491523|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 10:42:55.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 10:52:57.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 11:12:53.382148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 11:22:54.022773|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 11:32:56.085273|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 11:52:52.710273|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 12:02:54.007148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 12:12:57.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 12:32:54.382148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 12:42:55.382148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 12:52:56.022773|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 13:12:52.975898|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 13:22:53.069648|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 13:32:56.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 13:42:57.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 14:02:53.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 14:12:55.382148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 14:22:57.007148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 14:42:53.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 14:52:55.069648|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 15:02:57.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 15:22:53.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 15:32:55.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 15:42:57.069648|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 16:02:53.475898|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 16:12:55.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 16:22:57.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 16:42:53.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 16:52:55.069648|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 17:02:57.022773|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 17:22:53.757148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 17:32:55.054023|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 17:42:57.007148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 18:02:53.850898|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 18:12:55.038398|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 18:22:57.100898|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 18:32:58.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 18:52:54.085273|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 19:02:56.038398|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 19:12:58.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 19:32:54.194648|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 19:42:56.038398|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 19:52:59.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 20:12:55.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 20:22:57.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 20:32:58.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 20:52:54.413398|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 21:02:56.038398|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 21:12:58.100898|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 21:32:55.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 21:42:56.085273|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 21:52:58.038398|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 22:12:54.663398|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-07 22:22:57.882148|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2018-01-09 14:10:45.489750|INFO    |Query         |   | query from 1 192.168.0.1:17944 issued: login with account "serveradmin"(serveradmin)
+2018-01-17 18:16:06.407750|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-02-01 00:02:39.669500|INFO    |VirtualSvrMgr |   | executing monthly interval
+2018-02-01 00:02:39.669500|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2018-02-04 09:27:58.206000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-02-28 17:30:16.905578|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-02-28 17:40:18.108703|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-03-01 00:02:39.671203|INFO    |VirtualSvrMgr |   | executing monthly interval
+2018-03-01 00:02:39.671203|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2018-04-01 00:02:39.683625|INFO    |VirtualSvrMgr |   | executing monthly interval
+2018-04-01 00:02:39.683625|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2018-04-21 23:44:32.279195|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2018-05-01 00:02:39.669125|INFO    |VirtualSvrMgr |   | executing monthly interval
+2018-05-01 00:02:39.669125|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics

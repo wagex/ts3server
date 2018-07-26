@@ -1,0 +1,4 @@
+﻿2018-07-25 23:42:02.676864|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-07-25 23:42:36.261330|INFO    |VirtualServerBase|1  |client connected 'wagex'(id:1358) from 192.168.10.54:60911
+2018-07-25 23:47:57.517343|INFO    |VirtualServerBase|1  |client disconnected 'wagex'(id:1358) reason 'reasonmsg=Server Shutdown!'
+2018-07-25 23:47:57.568356|INFO    |VirtualServerBase|1  |stopped

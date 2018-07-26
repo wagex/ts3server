@@ -1,0 +1,24 @@
+2015-03-26 14:49:11.978449|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.10.3 (2014-01-01 16:28:39)
+2015-03-26 14:49:11.978449|INFO    |ServerLibPriv |   | SystemInformation: Windows 7 SP1 (7601) x64 (AMD or Intel) Binary: 32bit
+2015-03-26 14:49:11.994049|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2015-03-26 14:49:11.994049|INFO    |DatabaseQuery |   | dbPlugin version: 3.7.3
+2015-03-26 14:49:11.994049|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2015-03-26 14:49:12.087649|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2015-03-26 14:49:14.319453|INFO    |              |   | Puzzle precompute time: 2201
+2015-03-26 14:49:14.319453|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2015-03-26 14:49:14.522253|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2015-03-26 14:49:14.522253|INFO    |Query         |   | listening on 0.0.0.0:10011
+2015-03-26 14:50:23.577898|INFO    |Query         |   | query from 1 127.0.0.1:65298 issued: login with account "serveradmin"(serveradmin)
+2015-03-28 04:41:24.553999|INFO    |Query         |   | query from 4 107.129.31.5:49316 issued: login with account "serveradmin"(serveradmin)
+2015-03-29 03:25:42.733527|INFO    |Query         |   | query from 5 107.129.31.5:49180 issued: login with account "serveradmin"(serveradmin)
+2015-03-30 08:04:30.221086|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-04-01 00:01:12.079570|INFO    |VirtualSvrMgr |   | executing monthly interval
+2015-04-01 00:01:12.095170|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2015-04-03 14:25:02.106094|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-04-03 15:25:02.137695|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-04-05 06:28:45.488023|INFO    |Query         |   | query from 8 107.129.31.5:49824 issued: login with account "serveradmin"(serveradmin)
+2015-04-28 20:24:37.297213|INFO    |Query         |   | query from 9 127.0.0.1:22207 issued: login with account "serveradmin"(serveradmin)
+2015-04-29 16:06:18.469199|INFO    |Query         |   | query from 10 127.0.0.1:33732 issued: login with account "serveradmin"(serveradmin)
+2015-04-30 22:26:38.082204|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2015-05-01 00:01:12.072738|INFO    |VirtualSvrMgr |   | executing monthly interval
+2015-05-01 00:01:12.119740|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics

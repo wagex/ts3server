@@ -1,0 +1,42 @@
+2017-03-31 01:09:29.524406|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.10.3 (2014-01-01 16:28:39)
+2017-03-31 01:09:29.524406|INFO    |ServerLibPriv |   | SystemInformation: Windows 7 SP1 (7601) x64 (AMD or Intel) Binary: 32bit
+2017-03-31 01:09:29.536125|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2017-03-31 01:09:29.536125|INFO    |DatabaseQuery |   | dbPlugin version: 3.7.3
+2017-03-31 01:09:29.536125|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2017-03-31 01:09:29.594718|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2017-03-31 01:09:32.971671|INFO    |              |   | Puzzle precompute time: 3361
+2017-03-31 01:09:32.971671|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2017-03-31 01:09:33.135734|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2017-03-31 01:09:33.135734|INFO    |Query         |   | listening on 0.0.0.0:10011
+2017-04-01 00:00:29.583267|INFO    |VirtualSvrMgr |   | executing monthly interval
+2017-04-01 00:00:29.583267|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2017-04-01 07:19:57.457500|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-04-01 07:29:59.098125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-04-01 07:40:01.066875|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-04-01 07:59:57.598125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-04-01 08:09:59.020000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-04-01 08:20:01.098125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-04-05 14:10:18.051250|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-04-06 12:40:23.035625|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-04-13 22:30:56.098125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-04-18 19:47:14.348125|INFO    |Query         |   | query from 1 192.168.0.1:27303 issued: login with account "serveradmin"(serveradmin)
+2017-04-21 07:11:28.223125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-05-01 00:00:29.598125|INFO    |VirtualSvrMgr |   | executing monthly interval
+2017-05-01 00:00:29.598125|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2017-05-24 06:42:59.535625|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-05-24 06:53:01.066875|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-05-24 07:03:03.035625|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-05-24 07:22:59.676250|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-05-24 07:33:01.098125|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-05-24 07:43:03.066875|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-05-24 08:02:55.379375|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2017-05-24 08:12:49.145000|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11002 (This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server. ) 11002
+2017-05-30 19:11:48.566750|WARNING |PktHandler    |   | detected incorrectly running system clock (>)
+2017-05-30 19:11:48.785500|WARNING |PktHandler    |   | detected incorrectly running system clock (>)
+2017-05-30 19:11:48.785500|WARNING |PktHandler    |   | detected incorrectly running system clock (>)
+2017-05-30 19:11:48.894875|WARNING |PktHandler    |   | detected incorrectly running system clock (>)
+2017-06-01 00:00:29.598000|INFO    |VirtualSvrMgr |   | executing monthly interval
+2017-06-01 00:00:29.598000|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2017-06-02 01:33:41.019875|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2017-06-06 20:48:21.566250|WARNING |PktHandler    |   | detected incorrectly running system clock (>)
+2017-06-06 20:48:23.972500|WARNING |PktHandler    |   | detected incorrectly running system clock (>)

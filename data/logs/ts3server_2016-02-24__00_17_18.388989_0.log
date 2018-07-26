@@ -1,0 +1,16 @@
+2016-02-24 00:17:18.390489|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.10.3 (2014-01-01 16:28:39)
+2016-02-24 00:17:18.393990|INFO    |ServerLibPriv |   | SystemInformation: Windows 8 (9200) x64 (AMD or Intel) Binary: 32bit
+2016-02-24 00:17:18.451496|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2016-02-24 00:17:18.451997|INFO    |DatabaseQuery |   | dbPlugin version: 3.7.3
+2016-02-24 00:17:18.458497|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2016-02-24 00:17:18.562010|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2016-02-24 00:17:22.957069|INFO    |              |   | Puzzle precompute time: 4163
+2016-02-24 00:17:22.963569|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2016-02-24 00:17:23.190598|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2016-02-24 00:17:23.192099|INFO    |Query         |   | listening on 0.0.0.0:10011
+2016-02-25 13:32:46.921015|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2016-02-25 13:42:37.051663|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2016-03-01 00:02:18.556197|INFO    |VirtualSvrMgr |   | executing monthly interval
+2016-03-01 00:02:18.561697|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2016-03-06 21:13:37.263564|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2016-03-06 22:53:38.136423|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001

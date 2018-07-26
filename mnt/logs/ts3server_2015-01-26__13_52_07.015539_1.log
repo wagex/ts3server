@@ -1,0 +1,13 @@
+2015-01-26 13:52:14.768752|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-01-29 01:41:08.342571|INFO    |VirtualServerBase|  1| channel 'Misc'(id:67) created by 'Immortaldaul'(id:260)
+2015-01-29 01:47:30.245414|INFO    |VirtualServerBase|  1| channel 'Misc'(id:67) deleted by 'server'(id:0)
+2015-01-30 23:05:40.040617|INFO    |VirtualServerBase|  1| channel 'H1Z1 2'(id:68) created by 'Siindres'(id:224)
+2015-01-30 23:05:43.419810|INFO    |VirtualServerBase|  1| channel 'H1Z1 2'(id:68) deleted by 'server'(id:0)
+2015-01-30 23:06:24.385153|INFO    |VirtualServerBase|  1| channel 'h1z1 2'(id:69) created by 'Siindres'(id:224)
+2015-01-31 03:53:53.936771|INFO    |VirtualServerBase|  1| channel 'h1z1 2'(id:69) deleted by 'server'(id:0)
+2015-01-31 17:34:40.117492|INFO    |VirtualServerBase|  1| channel 'H1Z1 2'(id:70) created by 'Siindres'(id:224)
+2015-01-31 17:34:46.870878|INFO    |VirtualServerBase|  1| channel 'H1Z1 2'(id:70) deleted by 'server'(id:0)
+2015-02-05 02:12:38.886327|INFO    |VirtualServer |  1| file upload to (id:4), '/dayz_launcher_setup.exe' by client 'Rudy'(id:100)
+2015-02-05 02:15:00.934452|INFO    |VirtualServerBase|  1| channel 'March of the Penguins Subchannel'(id:50) edited by 'Tyler'(id:271)
+2015-02-05 02:15:14.099205|INFO    |VirtualServer |  1| file download from (id:4), '/dayz_launcher_setup.exe' by client 'Tyler'(id:271)
+2015-02-05 22:48:45.312404|INFO    |VirtualServerBase|  1| stopped

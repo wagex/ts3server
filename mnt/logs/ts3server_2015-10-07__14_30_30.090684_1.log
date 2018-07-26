@@ -1,0 +1,13 @@
+2015-10-07 14:30:33.954904|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-10-09 14:00:22.259435|INFO    |VirtualServer |  1| query client connected 'serveradmin from 127.0.0.1:49318'(id:1)
+2015-10-09 14:00:49.955008|INFO    |VirtualServer |  1| client (id:6) was added to servergroup 'Server Admin'(id:6) by client 'serveradmin from 127.0.0.1:49318'(id:1)
+2015-10-09 14:01:23.200103|INFO    |VirtualServerBase|  1| channel 'Rob Is Lyfe &#3626;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3900;'(id:143) edited by 'wagex'(id:6)
+2015-10-09 14:01:32.234199|INFO    |VirtualServerBase|  1| channel 'Rob Is Lyfe &#3626;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3655;&#3900;'(id:143) deleted by 'wagex'(id:6)
+2015-10-10 04:02:54.655641|INFO    |VirtualServer |  1| client (id:511) was added to servergroup 'Server Admin'(id:6) by client 'ross'(id:492)
+2015-10-10 10:58:25.547308|INFO    |VirtualServer |  1| query client connected 'Unknown from 51.254.117.105:50305'(id:354)
+2015-10-10 11:08:26.890900|INFO    |VirtualServerBase|  1| query client disconnected '[Scan][GameTracker][754]'(id:354) reason 'reasonmsg=connection lost'
+2015-10-10 14:16:51.671842|INFO    |VirtualServer |  1| file download from (id:9), '/My Places.kmz' by client 'ross'(id:397)
+2015-10-10 19:56:17.436791|INFO    |VirtualServerBase|  1| channel 'Music Room'(id:228) created by 'Pedobear'(id:505)
+2015-10-10 21:17:34.257974|INFO    |VirtualServerBase|  1| channel 'Music Room'(id:228) deleted by 'server'(id:0)
+2015-10-12 13:38:49.815550|INFO    |VirtualServerBase|  1| query client disconnected 'serveradmin from 127.0.0.1:49318'(id:1) reason 'reasonmsg=Server Shutdown!'
+2015-10-12 13:38:50.020562|INFO    |VirtualServerBase|  1| stopped

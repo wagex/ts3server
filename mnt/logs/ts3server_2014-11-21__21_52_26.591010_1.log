@@ -1,0 +1,2 @@
+2014-11-21 21:52:44.307024|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2014-11-30 03:30:18.960961|INFO    |VirtualServer |  1| client (id:271) was added to servergroup 'Server Admin'(id:6) by client 'ross'(id:253)

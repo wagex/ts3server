@@ -1,0 +1,9 @@
+2016-02-04 22:30:02.382302|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2016-02-04 22:30:02.770331|INFO    |VirtualServerBase|  1| client connected 'Boomer'(id:628) from 108.47.154.163:61479
+2016-02-04 22:30:05.442483|INFO    |VirtualServerBase|  1| client connected 'Rodrik'(id:598) from 24.171.29.95:58994
+2016-02-04 22:30:05.733497|INFO    |VirtualServerBase|  1| client connected 'Ritsu'(id:349) from 24.166.34.49:54966
+2016-02-04 22:30:06.772584|INFO    |VirtualServerBase|  1| client connected 'Ursus'(id:81) from 174.100.62.193:51509
+2016-02-04 22:30:07.435620|INFO    |VirtualServerBase|  1| client connected 'ZWortman'(id:637) from 173.88.140.21:56694
+2016-02-04 22:30:07.596632|INFO    |VirtualServerBase|  1| client connected 'Winter'(id:627) from 69.143.206.56:59451
+2016-02-04 22:30:08.240667|INFO    |VirtualServerBase|  1| client connected 'headcrabaregood'(id:633) from 73.253.129.160:55895
+2016-02-04 22:30:57.093786|INFO    |VirtualServerBase|  1| client connected 'Hank'(id:618) from 74.76.214.38:62354
